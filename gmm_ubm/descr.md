@@ -1,0 +1,1 @@
+gmm-ubm model representation
