@@ -1,0 +1,1025 @@
+
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 1, 'time = ', 10.181999921798706)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 3, 'time = ', 4.302000045776367)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 5, 'time = ', 6.940000057220459)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 7, 'time = ', 11.394000053405762)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 9, 'time = ', 16.430999994277954)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 11, 'time = ', 19.905999898910522)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 13, 'time = ', 19.776999950408936)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 15, 'time = ', 25.128999948501587)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 17, 'time = ', 33.74300003051758)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 19, 'time = ', 33.03200006484985)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 21, 'time = ', 31.2020001411438)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 23, 'time = ', 34.54699993133545)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 25, 'time = ', 35.562999963760376)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 27, 'time = ', 43.93599987030029)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 29, 'time = ', 45.50100016593933)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 31, 'time = ', 44.6949999332428)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 33, 'time = ', 42.15899991989136)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 35, 'time = ', 40.94700002670288)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 37, 'time = ', 39.640000104904175)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 39, 'time = ', 53.21300005912781)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 41, 'time = ', 59.401000022888184)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 43, 'time = ', 62.85000014305115)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 45, 'time = ', 68.80900001525879)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 47, 'time = ', 68.64599990844727)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 49, 'time = ', 68.66000008583069)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 51, 'time = ', 72.59899997711182)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 53, 'time = ', 72.42700004577637)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 55, 'time = ', 78.33399987220764)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 57, 'time = ', 83.00600004196167)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 59, 'time = ', 86.16300010681152)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 61, 'time = ', 89.38199996948242)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 63, 'time = ', 90.08399987220764)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 65, 'time = ', 89.58399987220764)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 67, 'time = ', 91.9280002117157)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 69, 'time = ', 98.92899990081787)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 71, 'time = ', 94.1159999370575)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 73, 'time = ', 96.06900000572205)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 75, 'time = ', 105.61800003051758)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 77, 'time = ', 108.82100009918213)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 79, 'time = ', 110.91499996185303)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 81, 'time = ', 113.75899982452393)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 83, 'time = ', 119.16700005531311)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 85, 'time = ', 118.57400012016296)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 87, 'time = ', 121.66699981689453)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 89, 'time = ', 121.80700016021729)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 91, 'time = ', 122.3069999217987)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 93, 'time = ', 125.96300005912781)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 95, 'time = ', 130.13499999046326)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 97, 'time = ', 130.63499999046326)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 99, 'time = ', 136.1670000553131)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 101, 'time = ', 138.8529999256134)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 103, 'time = ', 137.24500012397766)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 105, 'time = ', 142.6049997806549)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 107, 'time = ', 147.32400012016296)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 109, 'time = ', 148.2149999141693)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 111, 'time = ', 153.3090000152588)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 113, 'time = ', 153.6210000514984)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 115, 'time = ', 157.1380000114441)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 117, 'time = ', 159.4340000152588)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 119, 'time = ', 161.3880000114441)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 121, 'time = ', 160.76200008392334)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 123, 'time = ', 163.1379997730255)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 125, 'time = ', 167.48200011253357)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 127, 'time = ', 173.66799998283386)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 129, 'time = ', 175.46600008010864)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 131, 'time = ', 177.231999874115)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 133, 'time = ', 175.68499994277954)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 135, 'time = ', 181.26400017738342)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 137, 'time = ', 180.1859998703003)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 139, 'time = ', 179.0460000038147)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 141, 'time = ', 190.77999997138977)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 143, 'time = ', 192.29700016975403)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 145, 'time = ', 196.1399998664856)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 147, 'time = ', 191.71800017356873)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 149, 'time = ', 195.96800017356873)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 151, 'time = ', 197.15599989891052)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 153, 'time = ', 193.46900010108948)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 155, 'time = ', 197.75)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 157, 'time = ', 201.64100003242493)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 159, 'time = ', 204.50099992752075)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 161, 'time = ', 209.68800020217896)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 163, 'time = ', 209.40699982643127)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 165, 'time = ', 208.90700006484985)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 167, 'time = ', 218.79800009727478)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 169, 'time = ', 217.46599984169006)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 171, 'time = ', 219.56200003623962)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 173, 'time = ', 219.17199993133545)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 175, 'time = ', 224.14100003242493)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 177, 'time = ', 226.75200009346008)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 179, 'time = ', 228.00300002098083)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 181, 'time = ', 233.44000005722046)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 183, 'time = ', 234.15899991989136)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 185, 'time = ', 235.40900015830994)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 187, 'time = ', 240.41400003433228)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 189, 'time = ', 239.731999874115)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 191, 'time = ', 241.8600001335144)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 193, 'time = ', 249.7369999885559)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 195, 'time = ', 249.30099987983704)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 197, 'time = ', 249.95700001716614)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 199, 'time = ', 254.80099987983704)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 201, 'time = ', 255.06700015068054)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 203, 'time = ', 252.45700001716614)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 205, 'time = ', 254.42599987983704)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 207, 'time = ', 258.8800001144409)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 209, 'time = ', 261.62999987602234)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 211, 'time = ', 262.4579999446869)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 213, 'time = ', 264.67700004577637)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 215, 'time = ', 266.52100014686584)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 217, 'time = ', 274.2559998035431)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 219, 'time = ', 278.42400002479553)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 221, 'time = ', 276.710000038147)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 223, 'time = ', 282.9260001182556)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 225, 'time = ', 277.5189998149872)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 227, 'time = ', 277.9360001087189)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 229, 'time = ', 278.0260000228882)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 231, 'time = ', 285.5260000228882)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 233, 'time = ', 293.05800008773804)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 235, 'time = ', 285.7300000190735)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 237, 'time = ', 293.5420000553131)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 239, 'time = ', 298.02699995040894)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 241, 'time = ', 298.4800000190735)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 243, 'time = ', 295.27699995040894)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 245, 'time = ', 304.5590000152588)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 247, 'time = ', 304.3109998703003)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 249, 'time = ', 303.8660001754761)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 251, 'time = ', 310.77099990844727)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 253, 'time = ', 310.61899995803833)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 255, 'time = ', 311.7630000114441)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 257, 'time = ', 316.1690001487732)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 259, 'time = ', 318.1850001811981)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 261, 'time = ', 323.5609998703003)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 263, 'time = ', 316.5130000114441)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 265, 'time = ', 326.01399993896484)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 267, 'time = ', 321.6230001449585)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 269, 'time = ', 327.7019999027252)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 271, 'time = ', 327.4670000076294)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 273, 'time = ', 335.18300008773804)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 275, 'time = ', 338.33899998664856)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 277, 'time = ', 327.5859999656677)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 279, 'time = ', 341.9830000400543)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 281, 'time = ', 343.67199993133545)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 283, 'time = ', 342.45300006866455)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 285, 'time = ', 344.9379999637604)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 287, 'time = ', 344.1089999675751)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 289, 'time = ', 348.5480000972748)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 291, 'time = ', 351.0319998264313)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 293, 'time = ', 353.6410000324249)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 295, 'time = ', 345.047000169754)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 297, 'time = ', 353.5089998245239)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 299, 'time = ', 357.05000019073486)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 301, 'time = ', 364.7779998779297)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 303, 'time = ', 367.78200006484985)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 305, 'time = ', 362.845999956131)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 307, 'time = ', 368.8619999885559)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 309, 'time = ', 367.7829999923706)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 311, 'time = ', 371.8619999885559)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 313, 'time = ', 363.32999992370605)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 315, 'time = ', 375.03400015830994)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 317, 'time = ', 378.9409999847412)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 319, 'time = ', 385.99399995803833)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 321, 'time = ', 388.4519999027252)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 323, 'time = ', 379.82599997520447)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 325, 'time = ', 383.62600016593933)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 327, 'time = ', 397.4889998435974)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 329, 'time = ', 393.9739999771118)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 331, 'time = ', 393.3950002193451)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 333, 'time = ', 399.9889998435974)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 335, 'time = ', 393.92700004577637)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 337, 'time = ', 404.4590001106262)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 339, 'time = ', 400.62999987602234)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 341, 'time = ', 398.7520000934601)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 343, 'time = ', 410.8109998703003)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 345, 'time = ', 401.6749999523163)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 347, 'time = ', 414.80200004577637)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 349, 'time = ', 422.0700001716614)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 351, 'time = ', 413.8340001106262)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 353, 'time = ', 425.7890000343323)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 355, 'time = ', 426.0699999332428)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 357, 'time = ', 417.7260000705719)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 359, 'time = ', 413.8659999370575)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 361, 'time = ', 427.4140000343323)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 363, 'time = ', 423.0550000667572)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 365, 'time = ', 423.335000038147)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 367, 'time = ', 425.1329998970032)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 369, 'time = ', 434.72699999809265)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 371, 'time = ', 428.2420001029968)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 373, 'time = ', 437.289999961853)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 375, 'time = ', 436.25800013542175)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 377, 'time = ', 443.7909998893738)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 379, 'time = ', 443.47000002861023)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 381, 'time = ', 449.67000007629395)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 383, 'time = ', 453.45700001716614)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 385, 'time = ', 449.3069999217987)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 387, 'time = ', 448.89999985694885)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 389, 'time = ', 458.5730001926422)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 391, 'time = ', 460.15199995040894)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 393, 'time = ', 462.5260000228882)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 395, 'time = ', 463.3399999141693)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 397, 'time = ', 473.9800000190735)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 399, 'time = ', 465.8550000190735)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 401, 'time = ', 461.65199995040894)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 403, 'time = ', 473.2779998779297)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 405, 'time = ', 479.65300011634827)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 407, 'time = ', 471.8239998817444)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 409, 'time = ', 479.27800011634827)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 411, 'time = ', 478.731999874115)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 413, 'time = ', 488.50400018692017)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 415, 'time = ', 486.3809998035431)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 417, 'time = ', 495.422000169754)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 419, 'time = ', 488.5479998588562)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 421, 'time = ', 485.35700011253357)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 423, 'time = ', 501.24899983406067)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 425, 'time = ', 499.5460000038147)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 427, 'time = ', 499.5140001773834)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 429, 'time = ', 507.46799993515015)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 431, 'time = ', 499.63899993896484)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 433, 'time = ', 507.4060001373291)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 435, 'time = ', 507.06199979782104)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 437, 'time = ', 505.3120000362396)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 439, 'time = ', 507.77999997138977)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 441, 'time = ', 508.32800006866455)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 443, 'time = ', 514.1480000019073)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 445, 'time = ', 542.6920001506805)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 447, 'time = ', 517.5339999198914)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 449, 'time = ', 521.9690001010895)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 451, 'time = ', 520.3999998569489)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 453, 'time = ', 524.8519999980927)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 455, 'time = ', 522.8700001239777)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 457, 'time = ', 526.0659999847412)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 459, 'time = ', 538.7829999923706)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 461, 'time = ', 532.3949999809265)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 463, 'time = ', 524.289999961853)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 465, 'time = ', 542.3710000514984)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 467, 'time = ', 535.3369998931885)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 469, 'time = ', 537.5540001392365)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 471, 'time = ', 561.2890000343323)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 473, 'time = ', 612.7119998931885)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 475, 'time = ', 550.0869998931885)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 477, 'time = ', 541.7300000190735)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 479, 'time = ', 543.2890000343323)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 481, 'time = ', 554.8400001525879)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 483, 'time = ', 565.6849999427795)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 485, 'time = ', 552.680999994278)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 487, 'time = ', 559.5709998607635)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 489, 'time = ', 556.8970000743866)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 491, 'time = ', 2319.53200006485)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 493, 'time = ', 551.9639999866486)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 495, 'time = ', 559.6039998531342)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 497, 'time = ', 558.9750001430511)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 499, 'time = ', 564.4010000228882)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 501, 'time = ', 576.8829998970032)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 503, 'time = ', 576.4920001029968)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 505, 'time = ', 567.7869999408722)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 507, 'time = ', 577.079999923706)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 509, 'time = ', 588.393000125885)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 511, 'time = ', 578.4210000038147)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 513, 'time = ', 596.6009998321533)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 515, 'time = ', 591.3129999637604)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 517, 'time = ', 604.0260000228882)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 519, 'time = ', 593.1579999923706)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 521, 'time = ', 601.875)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 523, 'time = ', 600.125)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 525, 'time = ', 602.0490000247955)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 527, 'time = ', 540.1579999923706)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 529, 'time = ', 539.9020001888275)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 531, 'time = ', 476.3029999732971)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 533, 'time = ', 500.43699979782104)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 535, 'time = ', 472.35900020599365)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 537, 'time = ', 503.8070001602173)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 539, 'time = ', 480.0529999732971)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 541, 'time = ', 494.4619998931885)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 543, 'time = ', 496.53200006484985)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 545, 'time = ', 483.7109999656677)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 547, 'time = ', 453.89599990844727)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 549, 'time = ', 399.47900009155273)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 551, 'time = ', 401.789999961853)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 553, 'time = ', 442.3110001087189)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 555, 'time = ', 398.2520000934601)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 557, 'time = ', 393.3710000514984)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 559, 'time = ', 396.8989999294281)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 561, 'time = ', 393.7279999256134)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 563, 'time = ', 376.2520000934601)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 565, 'time = ', 414.7920000553131)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 567, 'time = ', 398.2119998931885)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 569, 'time = ', 390.6970000267029)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 571, 'time = ', 418.029000043869)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 573, 'time = ', 418.67599987983704)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 575, 'time = ', 430.77500009536743)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 577, 'time = ', 421.7539999485016)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 579, 'time = ', 446.21399998664856)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 581, 'time = ', 348.0090000629425)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 583, 'time = ', 335.8019998073578)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 585, 'time = ', 293.1599998474121)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 587, 'time = ', 266.7339999675751)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 589, 'time = ', 265.23200011253357)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 591, 'time = ', 271.21799993515015)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 593, 'time = ', 261.11899995803833)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 595, 'time = ', 256.90499997138977)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 597, 'time = ', 264.95300006866455)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 599, 'time = ', 244.30400013923645)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 601, 'time = ', 253.36299991607666)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 603, 'time = ', 246.36100006103516)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 605, 'time = ', 248.2389998435974)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 607, 'time = ', 250.33399987220764)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 609, 'time = ', 248.5130000114441)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 611, 'time = ', 250.02100014686584)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 613, 'time = ', 250.3329999446869)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 615, 'time = ', 251.17600011825562)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 617, 'time = ', 249.88100004196167)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 619, 'time = ', 252.54299998283386)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 621, 'time = ', 254.66899991035461)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 623, 'time = ', 254.91999983787537)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 625, 'time = ', 255.1560001373291)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 627, 'time = ', 254.91499996185303)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 629, 'time = ', 261.5600001811981)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 631, 'time = ', 257.9519999027252)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 633, 'time = ', 260.7239999771118)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 635, 'time = ', 261.1270000934601)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 637, 'time = ', 261.3029999732971)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 639, 'time = ', 263.7550001144409)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 641, 'time = ', 260.79199981689453)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 643, 'time = ', 262.4010000228882)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 645, 'time = ', 264.75600004196167)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 647, 'time = ', 265.1950001716614)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 649, 'time = ', 262.0989999771118)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 651, 'time = ', 264.8729999065399)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 653, 'time = ', 266.48400020599365)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 655, 'time = ', 267.8069999217987)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 657, 'time = ', 268.8489999771118)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 659, 'time = ', 271.789999961853)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 661, 'time = ', 271.05799984931946)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 663, 'time = ', 269.36299991607666)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 665, 'time = ', 274.4680001735687)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 667, 'time = ', 273.3120000362396)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 669, 'time = ', 273.9059998989105)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 671, 'time = ', 274.89800000190735)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 673, 'time = ', 274.56900000572205)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 675, 'time = ', 273.1800000667572)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 677, 'time = ', 278.3890001773834)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 679, 'time = ', 274.8619999885559)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 681, 'time = ', 278.8680000305176)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 683, 'time = ', 278.4800000190735)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 685, 'time = ', 281.15899991989136)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 687, 'time = ', 283.9739999771118)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 689, 'time = ', 280.8550000190735)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 691, 'time = ', 281.53200006484985)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 693, 'time = ', 284.3970000743866)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 695, 'time = ', 283.17899990081787)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 697, 'time = ', 285.7260000705719)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 699, 'time = ', 283.4849998950958)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 701, 'time = ', 285.2170000076294)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 703, 'time = ', 289.4210000038147)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 705, 'time = ', 286.11500000953674)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 707, 'time = ', 286.6060001850128)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 709, 'time = ', 287.6319999694824)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 711, 'time = ', 289.4920001029968)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 713, 'time = ', 290.0569999217987)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 715, 'time = ', 290.04299998283386)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 717, 'time = ', 291.2350001335144)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 719, 'time = ', 292.85199999809265)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 721, 'time = ', 299.6329998970032)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 723, 'time = ', 293.5270001888275)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 725, 'time = ', 295.89099979400635)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 727, 'time = ', 295.6180000305176)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 729, 'time = ', 295.4429998397827)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 731, 'time = ', 296.37399983406067)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 733, 'time = ', 298.2880001068115)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 735, 'time = ', 300.4949998855591)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 737, 'time = ', 300.32599997520447)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 739, 'time = ', 301.22100019454956)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 741, 'time = ', 301.4409999847412)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 743, 'time = ', 299.5609998703003)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 745, 'time = ', 301.0310001373291)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 747, 'time = ', 303.9889998435974)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 749, 'time = ', 306.0989999771118)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 751, 'time = ', 306.41600012779236)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 753, 'time = ', 308.6989998817444)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 755, 'time = ', 306.31300020217896)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 757, 'time = ', 305.86699986457825)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 759, 'time = ', 309.5499999523163)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 761, 'time = ', 308.3050000667572)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 763, 'time = ', 310.9370000362396)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 765, 'time = ', 310.08200001716614)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 767, 'time = ', 313.42700004577637)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 769, 'time = ', 313.2779998779297)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 771, 'time = ', 311.3380000591278)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 773, 'time = ', 312.59500002861023)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 775, 'time = ', 313.2960000038147)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 777, 'time = ', 317.14099979400635)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 779, 'time = ', 316.75100016593933)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 781, 'time = ', 319.5199999809265)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 783, 'time = ', 321.44400000572205)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 785, 'time = ', 316.8880000114441)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 787, 'time = ', 320.2699999809265)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 789, 'time = ', 318.0840001106262)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 791, 'time = ', 320.789999961853)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 793, 'time = ', 323.22100019454956)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 795, 'time = ', 321.67899990081787)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 797, 'time = ', 321.7960000038147)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 799, 'time = ', 324.6800000667572)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 801, 'time = ', 323.97499990463257)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 803, 'time = ', 325.2890000343323)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 805, 'time = ', 326.86100006103516)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 807, 'time = ', 327.2460000514984)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 809, 'time = ', 327.16600012779236)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 811, 'time = ', 328.70899987220764)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 813, 'time = ', 327.94900012016296)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 815, 'time = ', 331.5699999332428)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 817, 'time = ', 330.989000082016)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 819, 'time = ', 331.1989998817444)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 821, 'time = ', 333.11500000953674)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 823, 'time = ', 329.4470000267029)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 825, 'time = ', 332.6850001811981)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 827, 'time = ', 334.67400002479553)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 829, 'time = ', 331.9560000896454)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 831, 'time = ', 334.40899991989136)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 833, 'time = ', 332.39400005340576)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 835, 'time = ', 337.4449999332428)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 837, 'time = ', 339.4320001602173)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 839, 'time = ', 345.14800000190735)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 841, 'time = ', 338.87400007247925)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 843, 'time = ', 340.6529998779297)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 845, 'time = ', 343.6689999103546)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 847, 'time = ', 340.7150001525879)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 849, 'time = ', 346.09299993515015)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 851, 'time = ', 339.87400007247925)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 853, 'time = ', 343.9390001296997)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 855, 'time = ', 344.50600004196167)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 857, 'time = ', 342.6949999332428)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 859, 'time = ', 348.8989999294281)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 861, 'time = ', 347.92900013923645)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 863, 'time = ', 348.30999994277954)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 865, 'time = ', 347.5149998664856)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 867, 'time = ', 349.78400015830994)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 869, 'time = ', 350.6340000629425)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 871, 'time = ', 349.7759997844696)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 873, 'time = ', 351.93300008773804)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 875, 'time = ', 352.3310000896454)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 877, 'time = ', 358.0529999732971)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 879, 'time = ', 349.6929998397827)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 881, 'time = ', 352.53600001335144)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 883, 'time = ', 354.9480001926422)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 885, 'time = ', 355.62400007247925)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 887, 'time = ', 357.1909999847412)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 889, 'time = ', 357.327999830246)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 891, 'time = ', 356.7660000324249)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 893, 'time = ', 361.0600001811981)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 895, 'time = ', 359.9689998626709)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 897, 'time = ', 360.74699997901917)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 899, 'time = ', 361.34800004959106)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 901, 'time = ', 360.5260000228882)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 903, 'time = ', 363.143000125885)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 905, 'time = ', 359.77500009536743)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 907, 'time = ', 364.10599994659424)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 909, 'time = ', 364.55099987983704)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 911, 'time = ', 364.34800004959106)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 913, 'time = ', 368.5270001888275)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 915, 'time = ', 369.26399993896484)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 917, 'time = ', 366.9539999961853)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 919, 'time = ', 368.29500007629395)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 921, 'time = ', 370.30399990081787)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 923, 'time = ', 371.6930000782013)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 925, 'time = ', 374.45499992370605)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 927, 'time = ', 371.40000009536743)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 929, 'time = ', 375.94200015068054)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 931, 'time = ', 374.25999999046326)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 933, 'time = ', 375.66299986839294)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 935, 'time = ', 374.85599994659424)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 937, 'time = ', 376.7960000038147)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 939, 'time = ', 374.86500000953674)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 941, 'time = ', 374.3829998970032)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 943, 'time = ', 377.8239998817444)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 945, 'time = ', 380.0240001678467)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 947, 'time = ', 379.72899985313416)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 949, 'time = ', 383.8589999675751)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 951, 'time = ', 407.757000207901)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 953, 'time = ', 415.05799984931946)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 955, 'time = ', 416.6909999847412)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 957, 'time = ', 415.0939998626709)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 959, 'time = ', 428.13100004196167)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 961, 'time = ', 447.82800006866455)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 963, 'time = ', 429.8589999675751)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 965, 'time = ', 422.97300004959106)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 967, 'time = ', 461.51900005340576)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 969, 'time = ', 437.1329998970032)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 971, 'time = ', 444.75100016593933)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 973, 'time = ', 444.59699988365173)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 975, 'time = ', 445.8829998970032)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 977, 'time = ', 446.654000043869)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 979, 'time = ', 443.86100006103516)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 981, 'time = ', 436.9319999217987)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 983, 'time = ', 421.1399998664856)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 985, 'time = ', 408.38700008392334)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 987, 'time = ', 420.95099997520447)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 989, 'time = ', 423.71399998664856)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 991, 'time = ', 424.77300000190735)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 993, 'time = ', 419.21399998664856)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 995, 'time = ', 428.79199981689453)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 997, 'time = ', 460.0789999961853)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 999, 'time = ', 430.4099998474121)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 1001, 'time = ', 426.49699997901917)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 1003, 'time = ', 430.06900000572205)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 1005, 'time = ', 435.89200019836426)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 1007, 'time = ', 459.9269998073578)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 1009, 'time = ', 438.5)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 1011, 'time = ', 436.52100014686584)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 1013, 'time = ', 435.4839999675751)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 1015, 'time = ', 437.10400009155273)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 1017, 'time = ', 464.96799993515015)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 1019, 'time = ', 448.4519999027252)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 1021, 'time = ', 443.38100004196167)
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 1023, 'time = ', 449.2150001525879)

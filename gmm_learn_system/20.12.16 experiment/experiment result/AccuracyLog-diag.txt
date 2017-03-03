@@ -1,0 +1,1025 @@
+
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 1) Train accuracy: 70.6
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 3) Train accuracy: 69.4
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 5) Train accuracy: 69.3
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 7) Train accuracy: 67.5
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 9) Train accuracy: 66.3
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 11) Train accuracy: 68.3
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 13) Train accuracy: 69.1
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 15) Train accuracy: 65.6
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 17) Train accuracy: 70.7
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 19) Train accuracy: 68.9
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 21) Train accuracy: 71.6
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 23) Train accuracy: 71.4
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 25) Train accuracy: 73.2
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 27) Train accuracy: 69.5
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 29) Train accuracy: 70.6
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 31) Train accuracy: 70.5
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 33) Train accuracy: 67.3
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 35) Train accuracy: 55.1
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 37) Train accuracy: 67.1
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 39) Train accuracy: 66.9
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 41) Train accuracy: 63.7
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 43) Train accuracy: 51.5
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 45) Train accuracy: 64.5
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 47) Train accuracy: 61.4
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 49) Train accuracy: 64.4
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 51) Train accuracy: 62.9
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 53) Train accuracy: 58.3
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 55) Train accuracy: 66.4
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 57) Train accuracy: 58.4
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 59) Train accuracy: 55.9
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 61) Train accuracy: 69.0
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 63) Train accuracy: 53.4
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 65) Train accuracy: 62.7
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 67) Train accuracy: 60.0
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 69) Train accuracy: 56.9
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 71) Train accuracy: 64.1
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 73) Train accuracy: 62.0
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 75) Train accuracy: 63.4
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 77) Train accuracy: 61.3
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 79) Train accuracy: 58.2
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 81) Train accuracy: 60.1
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 83) Train accuracy: 52.0
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 85) Train accuracy: 59.4
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 87) Train accuracy: 61.9
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 89) Train accuracy: 58.7
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 91) Train accuracy: 56.8
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 93) Train accuracy: 57.0
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 95) Train accuracy: 59.7
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 97) Train accuracy: 57.0
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 99) Train accuracy: 55.4
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 101) Train accuracy: 59.7
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 103) Train accuracy: 58.4
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 105) Train accuracy: 55.9
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 107) Train accuracy: 58.5
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 109) Train accuracy: 54.6
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 111) Train accuracy: 55.7
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 113) Train accuracy: 58.7
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 115) Train accuracy: 55.7
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 117) Train accuracy: 59.3
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 119) Train accuracy: 51.7
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 121) Train accuracy: 54.4
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 123) Train accuracy: 53.6
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 125) Train accuracy: 57.4
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 127) Train accuracy: 57.4
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 129) Train accuracy: 60.8
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 131) Train accuracy: 49.1
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 133) Train accuracy: 55.0
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 135) Train accuracy: 56.4
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 137) Train accuracy: 55.1
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 139) Train accuracy: 51.7
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 141) Train accuracy: 55.5
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 143) Train accuracy: 50.3
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 145) Train accuracy: 49.7
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 147) Train accuracy: 56.5
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 149) Train accuracy: 57.7
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 151) Train accuracy: 53.0
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 153) Train accuracy: 53.9
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 155) Train accuracy: 51.0
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 157) Train accuracy: 53.4
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 159) Train accuracy: 53.3
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 161) Train accuracy: 58.0
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 163) Train accuracy: 55.8
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 165) Train accuracy: 52.3
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 167) Train accuracy: 54.3
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 169) Train accuracy: 55.5
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 171) Train accuracy: 58.0
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 173) Train accuracy: 53.4
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 175) Train accuracy: 54.6
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 177) Train accuracy: 59.1
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 179) Train accuracy: 51.9
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 181) Train accuracy: 57.3
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 183) Train accuracy: 60.2
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 185) Train accuracy: 54.0
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 187) Train accuracy: 54.6
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 189) Train accuracy: 58.1
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 191) Train accuracy: 59.5
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 193) Train accuracy: 56.7
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 195) Train accuracy: 49.6
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 197) Train accuracy: 53.0
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 199) Train accuracy: 55.4
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 201) Train accuracy: 60.2
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 203) Train accuracy: 59.6
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 205) Train accuracy: 62.1
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 207) Train accuracy: 58.1
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 209) Train accuracy: 60.8
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 211) Train accuracy: 59.8
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 213) Train accuracy: 61.1
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 215) Train accuracy: 57.3
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 217) Train accuracy: 57.2
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 219) Train accuracy: 59.8
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 221) Train accuracy: 58.5
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 223) Train accuracy: 58.8
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 225) Train accuracy: 54.7
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 227) Train accuracy: 58.4
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 229) Train accuracy: 58.4
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 231) Train accuracy: 57.8
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 233) Train accuracy: 57.3
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 235) Train accuracy: 58.1
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 237) Train accuracy: 49.8
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 239) Train accuracy: 59.5
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 241) Train accuracy: 59.2
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 243) Train accuracy: 55.9
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 245) Train accuracy: 62.6
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 247) Train accuracy: 58.3
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 249) Train accuracy: 64.4
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 251) Train accuracy: 61.7
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 253) Train accuracy: 62.2
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 255) Train accuracy: 64.5
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 257) Train accuracy: 64.2
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 259) Train accuracy: 59.5
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 261) Train accuracy: 59.8
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 263) Train accuracy: 61.3
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 265) Train accuracy: 57.3
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 267) Train accuracy: 56.3
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 269) Train accuracy: 60.3
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 271) Train accuracy: 58.7
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 273) Train accuracy: 62.9
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 275) Train accuracy: 62.4
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 277) Train accuracy: 61.6
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 279) Train accuracy: 61.3
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 281) Train accuracy: 57.0
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 283) Train accuracy: 62.0
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 285) Train accuracy: 63.1
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 287) Train accuracy: 61.1
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 289) Train accuracy: 62.2
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 291) Train accuracy: 55.4
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 293) Train accuracy: 64.5
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 295) Train accuracy: 63.1
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 297) Train accuracy: 60.5
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 299) Train accuracy: 60.6
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 301) Train accuracy: 64.4
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 303) Train accuracy: 62.6
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 305) Train accuracy: 63.2
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 307) Train accuracy: 67.1
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 309) Train accuracy: 60.1
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 311) Train accuracy: 62.3
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 313) Train accuracy: 68.1
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 315) Train accuracy: 63.6
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 317) Train accuracy: 59.6
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 319) Train accuracy: 62.0
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 321) Train accuracy: 61.1
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 323) Train accuracy: 62.2
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 325) Train accuracy: 65.3
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 327) Train accuracy: 59.7
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 329) Train accuracy: 60.1
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 331) Train accuracy: 67.5
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 333) Train accuracy: 63.5
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 335) Train accuracy: 56.3
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 337) Train accuracy: 60.1
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 339) Train accuracy: 60.8
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 341) Train accuracy: 65.0
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 343) Train accuracy: 66.1
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 345) Train accuracy: 62.7
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 347) Train accuracy: 61.4
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 349) Train accuracy: 62.5
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 351) Train accuracy: 63.3
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 353) Train accuracy: 63.7
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 355) Train accuracy: 64.4
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 357) Train accuracy: 62.6
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 359) Train accuracy: 62.7
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 361) Train accuracy: 62.5
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 363) Train accuracy: 66.3
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 365) Train accuracy: 63.3
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 367) Train accuracy: 66.9
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 369) Train accuracy: 67.4
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 371) Train accuracy: 67.4
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 373) Train accuracy: 65.9
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 375) Train accuracy: 64.3
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 377) Train accuracy: 59.7
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 379) Train accuracy: 60.2
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 381) Train accuracy: 63.9
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 383) Train accuracy: 67.3
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 385) Train accuracy: 64.6
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 387) Train accuracy: 68.6
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 389) Train accuracy: 66.5
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 391) Train accuracy: 65.4
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 393) Train accuracy: 65.2
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 395) Train accuracy: 65.1
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 397) Train accuracy: 65.8
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 399) Train accuracy: 68.4
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 401) Train accuracy: 68.2
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 403) Train accuracy: 67.7
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 405) Train accuracy: 66.4
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 407) Train accuracy: 65.3
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 409) Train accuracy: 63.5
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 411) Train accuracy: 68.1
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 413) Train accuracy: 61.7
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 415) Train accuracy: 65.7
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 417) Train accuracy: 63.5
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 419) Train accuracy: 64.3
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 421) Train accuracy: 65.8
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 423) Train accuracy: 67.4
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 425) Train accuracy: 66.5
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 427) Train accuracy: 63.3
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 429) Train accuracy: 65.3
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 431) Train accuracy: 68.6
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 433) Train accuracy: 66.4
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 435) Train accuracy: 64.8
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 437) Train accuracy: 67.1
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 439) Train accuracy: 65.9
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 441) Train accuracy: 69.3
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 443) Train accuracy: 66.7
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 445) Train accuracy: 67.9
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 447) Train accuracy: 69.9
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 449) Train accuracy: 68.0
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 451) Train accuracy: 69.4
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 453) Train accuracy: 65.1
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 455) Train accuracy: 68.2
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 457) Train accuracy: 69.4
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 459) Train accuracy: 70.8
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 461) Train accuracy: 70.3
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 463) Train accuracy: 66.3
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 465) Train accuracy: 67.9
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 467) Train accuracy: 64.4
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 469) Train accuracy: 69.3
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 471) Train accuracy: 69.4
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 473) Train accuracy: 65.7
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 475) Train accuracy: 70.1
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 477) Train accuracy: 63.9
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 479) Train accuracy: 69.1
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 481) Train accuracy: 69.9
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 483) Train accuracy: 68.4
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 485) Train accuracy: 71.7
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 487) Train accuracy: 69.8
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 489) Train accuracy: 69.8
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 491) Train accuracy: 70.0
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 493) Train accuracy: 70.4
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 495) Train accuracy: 69.0
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 497) Train accuracy: 69.3
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 499) Train accuracy: 70.8
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 501) Train accuracy: 71.5
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 503) Train accuracy: 67.4
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 505) Train accuracy: 69.9
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 507) Train accuracy: 70.3
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 509) Train accuracy: 72.0
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 511) Train accuracy: 71.4
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 513) Train accuracy: 69.6
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 515) Train accuracy: 71.4
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 517) Train accuracy: 72.1
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 519) Train accuracy: 66.8
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 521) Train accuracy: 69.6
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 523) Train accuracy: 70.2
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 525) Train accuracy: 68.1
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 527) Train accuracy: 69.5
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 529) Train accuracy: 67.6
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 531) Train accuracy: 67.8
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 533) Train accuracy: 71.3
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 535) Train accuracy: 69.2
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 537) Train accuracy: 73.7
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 539) Train accuracy: 68.1
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 541) Train accuracy: 69.9
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 543) Train accuracy: 71.9
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 545) Train accuracy: 72.0
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 547) Train accuracy: 69.1
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 549) Train accuracy: 66.8
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 551) Train accuracy: 71.6
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 553) Train accuracy: 72.0
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 555) Train accuracy: 70.2
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 557) Train accuracy: 74.0
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 559) Train accuracy: 68.2
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 561) Train accuracy: 69.3
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 563) Train accuracy: 72.7
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 565) Train accuracy: 70.5
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 567) Train accuracy: 71.6
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 569) Train accuracy: 69.8
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 571) Train accuracy: 64.0
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 573) Train accuracy: 70.2
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 575) Train accuracy: 68.2
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 577) Train accuracy: 70.4
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 579) Train accuracy: 73.3
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 581) Train accuracy: 68.8
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 583) Train accuracy: 71.2
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 585) Train accuracy: 72.0
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 587) Train accuracy: 69.5
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 589) Train accuracy: 72.4
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 591) Train accuracy: 71.7
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 593) Train accuracy: 71.3
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 595) Train accuracy: 67.5
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 597) Train accuracy: 68.0
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 599) Train accuracy: 70.1
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 601) Train accuracy: 73.5
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 603) Train accuracy: 74.3
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 605) Train accuracy: 70.6
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 607) Train accuracy: 72.0
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 609) Train accuracy: 73.6
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 611) Train accuracy: 73.7
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 613) Train accuracy: 71.2
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 615) Train accuracy: 71.1
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 617) Train accuracy: 72.0
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 619) Train accuracy: 70.9
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 621) Train accuracy: 69.6
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 623) Train accuracy: 71.6
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 625) Train accuracy: 68.3
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 627) Train accuracy: 71.3
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 629) Train accuracy: 71.0
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 631) Train accuracy: 71.4
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 633) Train accuracy: 76.8
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 635) Train accuracy: 72.4
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 637) Train accuracy: 73.5
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 639) Train accuracy: 75.8
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 641) Train accuracy: 71.7
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 643) Train accuracy: 72.2
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 645) Train accuracy: 70.9
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 647) Train accuracy: 73.4
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 649) Train accuracy: 71.9
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 651) Train accuracy: 73.2
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 653) Train accuracy: 73.1
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 655) Train accuracy: 72.8
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 657) Train accuracy: 70.4
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 659) Train accuracy: 68.1
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 661) Train accuracy: 72.2
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 663) Train accuracy: 76.0
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 665) Train accuracy: 74.6
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 667) Train accuracy: 71.4
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 669) Train accuracy: 72.7
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 671) Train accuracy: 73.1
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 673) Train accuracy: 71.2
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 675) Train accuracy: 69.6
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 677) Train accuracy: 69.4
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 679) Train accuracy: 75.4
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 681) Train accuracy: 72.1
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 683) Train accuracy: 70.9
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 685) Train accuracy: 74.6
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 687) Train accuracy: 73.7
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 689) Train accuracy: 76.1
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 691) Train accuracy: 71.1
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 693) Train accuracy: 70.6
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 695) Train accuracy: 73.7
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 697) Train accuracy: 73.2
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 699) Train accuracy: 72.4
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 701) Train accuracy: 71.4
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 703) Train accuracy: 72.4
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 705) Train accuracy: 75.1
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 707) Train accuracy: 73.6
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 709) Train accuracy: 77.2
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 711) Train accuracy: 74.5
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 713) Train accuracy: 67.2
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 715) Train accuracy: 73.1
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 717) Train accuracy: 75.6
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 719) Train accuracy: 75.4
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 721) Train accuracy: 72.8
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 723) Train accuracy: 72.5
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 725) Train accuracy: 71.9
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 727) Train accuracy: 75.1
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 729) Train accuracy: 74.6
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 731) Train accuracy: 72.7
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 733) Train accuracy: 75.9
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 735) Train accuracy: 73.2
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 737) Train accuracy: 71.8
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 739) Train accuracy: 74.8
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 741) Train accuracy: 70.1
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 743) Train accuracy: 75.4
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 745) Train accuracy: 75.2
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 747) Train accuracy: 72.8
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 749) Train accuracy: 73.0
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 751) Train accuracy: 75.1
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 753) Train accuracy: 77.5
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 755) Train accuracy: 76.4
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 757) Train accuracy: 75.2
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 759) Train accuracy: 73.2
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 761) Train accuracy: 72.0
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 763) Train accuracy: 69.4
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 765) Train accuracy: 76.8
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 767) Train accuracy: 74.4
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 769) Train accuracy: 70.3
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 771) Train accuracy: 74.2
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 773) Train accuracy: 74.7
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 775) Train accuracy: 76.0
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 777) Train accuracy: 73.3
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 779) Train accuracy: 75.5
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 781) Train accuracy: 77.5
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 783) Train accuracy: 71.7
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 785) Train accuracy: 74.2
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 787) Train accuracy: 74.6
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 789) Train accuracy: 74.3
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 791) Train accuracy: 72.5
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 793) Train accuracy: 75.2
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 795) Train accuracy: 71.3
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 797) Train accuracy: 74.5
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 799) Train accuracy: 74.4
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 801) Train accuracy: 75.0
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 803) Train accuracy: 74.6
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 805) Train accuracy: 75.0
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 807) Train accuracy: 76.2
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 809) Train accuracy: 73.3
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 811) Train accuracy: 73.1
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 813) Train accuracy: 75.8
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 815) Train accuracy: 75.0
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 817) Train accuracy: 78.0
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 819) Train accuracy: 72.9
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 821) Train accuracy: 75.8
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 823) Train accuracy: 74.1
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 825) Train accuracy: 77.6
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 827) Train accuracy: 77.8
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 829) Train accuracy: 72.8
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 831) Train accuracy: 74.1
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 833) Train accuracy: 74.0
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 835) Train accuracy: 75.3
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 837) Train accuracy: 72.4
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 839) Train accuracy: 75.1
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 841) Train accuracy: 74.0
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 843) Train accuracy: 75.4
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 845) Train accuracy: 72.2
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 847) Train accuracy: 74.9
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 849) Train accuracy: 73.2
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 851) Train accuracy: 73.4
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 853) Train accuracy: 73.2
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 855) Train accuracy: 73.4
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 857) Train accuracy: 74.8
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 859) Train accuracy: 78.2
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 861) Train accuracy: 73.7
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 863) Train accuracy: 75.4
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 865) Train accuracy: 74.1
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 867) Train accuracy: 77.8
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 869) Train accuracy: 74.4
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 871) Train accuracy: 76.5
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 873) Train accuracy: 77.7
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 875) Train accuracy: 73.8
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 877) Train accuracy: 76.9
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 879) Train accuracy: 73.6
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 881) Train accuracy: 72.8
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 883) Train accuracy: 75.2
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 885) Train accuracy: 72.2
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 887) Train accuracy: 75.1
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 889) Train accuracy: 75.3
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 891) Train accuracy: 76.1
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 893) Train accuracy: 74.3
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 895) Train accuracy: 75.3
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 897) Train accuracy: 78.1
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 899) Train accuracy: 76.2
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 901) Train accuracy: 72.7
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 903) Train accuracy: 76.9
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 905) Train accuracy: 76.8
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 907) Train accuracy: 73.9
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 909) Train accuracy: 75.6
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 911) Train accuracy: 72.5
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 913) Train accuracy: 77.0
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 915) Train accuracy: 75.2
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 917) Train accuracy: 75.0
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 919) Train accuracy: 75.3
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 921) Train accuracy: 75.7
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 923) Train accuracy: 75.8
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 925) Train accuracy: 75.0
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 927) Train accuracy: 74.0
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 929) Train accuracy: 75.5
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 931) Train accuracy: 78.5
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 933) Train accuracy: 75.2
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 935) Train accuracy: 72.3
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 937) Train accuracy: 75.9
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 939) Train accuracy: 74.8
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 941) Train accuracy: 76.8
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 943) Train accuracy: 76.7
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 945) Train accuracy: 77.4
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 947) Train accuracy: 74.5
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 949) Train accuracy: 75.9
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 951) Train accuracy: 74.4
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 953) Train accuracy: 76.2
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 955) Train accuracy: 76.7
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 957) Train accuracy: 74.6
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 959) Train accuracy: 76.8
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 961) Train accuracy: 75.9
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 963) Train accuracy: 73.5
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 965) Train accuracy: 74.0
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 967) Train accuracy: 74.0
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 969) Train accuracy: 75.4
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 971) Train accuracy: 75.2
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 973) Train accuracy: 76.8
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 975) Train accuracy: 73.6
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 977) Train accuracy: 78.8
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 979) Train accuracy: 73.9
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 981) Train accuracy: 76.6
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 983) Train accuracy: 77.5
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 985) Train accuracy: 75.7
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 987) Train accuracy: 74.0
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 989) Train accuracy: 75.5
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 991) Train accuracy: 75.7
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 993) Train accuracy: 74.0
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 995) Train accuracy: 75.0
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 997) Train accuracy: 75.8
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 999) Train accuracy: 74.1
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 1001) Train accuracy: 76.9
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 1003) Train accuracy: 74.6
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 1005) Train accuracy: 77.1
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 1007) Train accuracy: 75.8
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 1009) Train accuracy: 76.5
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 1011) Train accuracy: 74.9
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 1013) Train accuracy: 77.1
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 1015) Train accuracy: 75.8
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 1017) Train accuracy: 76.2
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 1019) Train accuracy: 76.0
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 1021) Train accuracy: 74.1
+--------------------
+('Covar_type: ', 'diag', ', number gaussian', 1023) Train accuracy: 76.8

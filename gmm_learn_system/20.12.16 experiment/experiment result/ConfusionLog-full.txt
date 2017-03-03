@@ -1,0 +1,1009 @@
+
+--------------------
+('Covar_type: full, number gaussian = ', 1)
+Conf_matrix: 
+[7861 1543] [ 44889 139111]
+--------------------
+('Covar_type: full, number gaussian = ', 3)
+Conf_matrix: 
+[8603  801] [ 75779 108221]
+--------------------
+('Covar_type: full, number gaussian = ', 5)
+Conf_matrix: 
+[8705  699] [107130  76870]
+--------------------
+('Covar_type: full, number gaussian = ', 7)
+Conf_matrix: 
+[8574  830] [111012  72988]
+--------------------
+('Covar_type: full, number gaussian = ', 9)
+Conf_matrix: 
+[8381 1023] [108259  75741]
+--------------------
+('Covar_type: full, number gaussian = ', 11)
+Conf_matrix: 
+[8587  817] [106587  77413]
+--------------------
+('Covar_type: full, number gaussian = ', 13)
+Conf_matrix: 
+[8602  802] [103529  80471]
+--------------------
+('Covar_type: full, number gaussian = ', 15)
+Conf_matrix: 
+[8485  919] [117428  66572]
+--------------------
+('Covar_type: full, number gaussian = ', 17)
+Conf_matrix: 
+[8464  940] [113909  70091]
+--------------------
+('Covar_type: full, number gaussian = ', 19)
+Conf_matrix: 
+[8445  959] [116626  67374]
+--------------------
+('Covar_type: full, number gaussian = ', 21)
+Conf_matrix: 
+[8339 1065] [113246  70754]
+--------------------
+('Covar_type: full, number gaussian = ', 23)
+Conf_matrix: 
+[7347 2057] [96858 87142]
+--------------------
+('Covar_type: full, number gaussian = ', 25)
+Conf_matrix: 
+[7115 2289] [91969 92031]
+--------------------
+('Covar_type: full, number gaussian = ', 27)
+Conf_matrix: 
+[8019 1385] [104423  79577]
+--------------------
+('Covar_type: full, number gaussian = ', 29)
+Conf_matrix: 
+[7018 2386] [ 81362 102638]
+--------------------
+('Covar_type: full, number gaussian = ', 31)
+Conf_matrix: 
+[6913 2491] [ 78764 105236]
+--------------------
+('Covar_type: full, number gaussian = ', 33)
+Conf_matrix: 
+[7075 2329] [ 82590 101410]
+--------------------
+('Covar_type: full, number gaussian = ', 35)
+Conf_matrix: 
+[7591 1813] [91066 92934]
+--------------------
+('Covar_type: full, number gaussian = ', 37)
+Conf_matrix: 
+[7184 2220] [90703 93297]
+--------------------
+('Covar_type: full, number gaussian = ', 39)
+Conf_matrix: 
+[7837 1567] [98519 85481]
+--------------------
+('Covar_type: full, number gaussian = ', 41)
+Conf_matrix: 
+[7393 2011] [86731 97269]
+--------------------
+('Covar_type: full, number gaussian = ', 43)
+Conf_matrix: 
+[6967 2437] [ 83402 100598]
+--------------------
+('Covar_type: full, number gaussian = ', 45)
+Conf_matrix: 
+[7636 1768] [87177 96823]
+--------------------
+('Covar_type: full, number gaussian = ', 47)
+Conf_matrix: 
+[8165 1239] [108913  75087]
+--------------------
+('Covar_type: full, number gaussian = ', 49)
+Conf_matrix: 
+[8201 1203] [109096  74904]
+--------------------
+('Covar_type: full, number gaussian = ', 51)
+Conf_matrix: 
+[7849 1555] [97655 86345]
+--------------------
+('Covar_type: full, number gaussian = ', 53)
+Conf_matrix: 
+[8004 1400] [99501 84499]
+--------------------
+('Covar_type: full, number gaussian = ', 55)
+Conf_matrix: 
+[8151 1253] [99133 84867]
+--------------------
+('Covar_type: full, number gaussian = ', 57)
+Conf_matrix: 
+[8253 1151] [109797  74203]
+--------------------
+('Covar_type: full, number gaussian = ', 59)
+Conf_matrix: 
+[8294 1110] [105412  78588]
+--------------------
+('Covar_type: full, number gaussian = ', 61)
+Conf_matrix: 
+[7804 1600] [92161 91839]
+--------------------
+('Covar_type: full, number gaussian = ', 63)
+Conf_matrix: 
+[7691 1713] [88880 95120]
+--------------------
+('Covar_type: full, number gaussian = ', 65)
+Conf_matrix: 
+[7888 1516] [101704  82296]
+--------------------
+('Covar_type: full, number gaussian = ', 67)
+Conf_matrix: 
+[8016 1388] [96519 87481]
+--------------------
+('Covar_type: full, number gaussian = ', 69)
+Conf_matrix: 
+[8076 1328] [94933 89067]
+--------------------
+('Covar_type: full, number gaussian = ', 71)
+Conf_matrix: 
+[7947 1457] [91728 92272]
+--------------------
+('Covar_type: full, number gaussian = ', 73)
+Conf_matrix: 
+[7742 1662] [92470 91530]
+--------------------
+('Covar_type: full, number gaussian = ', 75)
+Conf_matrix: 
+[7317 2087] [90149 93851]
+--------------------
+('Covar_type: full, number gaussian = ', 77)
+Conf_matrix: 
+[7480 1924] [88230 95770]
+--------------------
+('Covar_type: full, number gaussian = ', 79)
+Conf_matrix: 
+[7536 1868] [90679 93321]
+--------------------
+('Covar_type: full, number gaussian = ', 81)
+Conf_matrix: 
+[7471 1933] [86259 97741]
+--------------------
+('Covar_type: full, number gaussian = ', 83)
+Conf_matrix: 
+[7895 1509] [99366 84634]
+--------------------
+('Covar_type: full, number gaussian = ', 85)
+Conf_matrix: 
+[7665 1739] [91537 92463]
+--------------------
+('Covar_type: full, number gaussian = ', 87)
+Conf_matrix: 
+[7447 1957] [ 81461 102539]
+--------------------
+('Covar_type: full, number gaussian = ', 89)
+Conf_matrix: 
+[7373 2031] [87912 96088]
+--------------------
+('Covar_type: full, number gaussian = ', 91)
+Conf_matrix: 
+[7666 1738] [96142 87858]
+--------------------
+('Covar_type: full, number gaussian = ', 93)
+Conf_matrix: 
+[7405 1999] [ 83231 100769]
+--------------------
+('Covar_type: full, number gaussian = ', 95)
+Conf_matrix: 
+[7428 1976] [91258 92742]
+--------------------
+('Covar_type: full, number gaussian = ', 97)
+Conf_matrix: 
+[6958 2446] [ 74185 109815]
+--------------------
+('Covar_type: full, number gaussian = ', 99)
+Conf_matrix: 
+[7467 1937] [90801 93199]
+--------------------
+('Covar_type: full, number gaussian = ', 101)
+Conf_matrix: 
+[7360 2044] [ 83235 100765]
+--------------------
+('Covar_type: full, number gaussian = ', 103)
+Conf_matrix: 
+[7410 1994] [91116 92884]
+--------------------
+('Covar_type: full, number gaussian = ', 105)
+Conf_matrix: 
+[7169 2235] [ 77422 106578]
+--------------------
+('Covar_type: full, number gaussian = ', 107)
+Conf_matrix: 
+[6667 2737] [ 69545 114455]
+--------------------
+('Covar_type: full, number gaussian = ', 109)
+Conf_matrix: 
+[6772 2632] [ 72912 111088]
+--------------------
+('Covar_type: full, number gaussian = ', 111)
+Conf_matrix: 
+[7055 2349] [ 81493 102507]
+--------------------
+('Covar_type: full, number gaussian = ', 113)
+Conf_matrix: 
+[6972 2432] [ 73579 110421]
+--------------------
+('Covar_type: full, number gaussian = ', 115)
+Conf_matrix: 
+[7204 2200] [ 82083 101917]
+--------------------
+('Covar_type: full, number gaussian = ', 117)
+Conf_matrix: 
+[6761 2643] [ 78789 105211]
+--------------------
+('Covar_type: full, number gaussian = ', 119)
+Conf_matrix: 
+[7103 2301] [ 79006 104994]
+--------------------
+('Covar_type: full, number gaussian = ', 121)
+Conf_matrix: 
+[6659 2745] [ 72449 111551]
+--------------------
+('Covar_type: full, number gaussian = ', 123)
+Conf_matrix: 
+[6366 3038] [ 64265 119735]
+--------------------
+('Covar_type: full, number gaussian = ', 125)
+Conf_matrix: 
+[6556 2848] [ 62831 121169]
+--------------------
+('Covar_type: full, number gaussian = ', 127)
+Conf_matrix: 
+[6295 3109] [ 55703 128297]
+--------------------
+('Covar_type: full, number gaussian = ', 129)
+Conf_matrix: 
+[6474 2930] [ 67241 116759]
+--------------------
+('Covar_type: full, number gaussian = ', 131)
+Conf_matrix: 
+[6618 2786] [ 68725 115275]
+--------------------
+('Covar_type: full, number gaussian = ', 133)
+Conf_matrix: 
+[5974 3430] [ 59018 124982]
+--------------------
+('Covar_type: full, number gaussian = ', 135)
+Conf_matrix: 
+[6333 3071] [ 66638 117362]
+--------------------
+('Covar_type: full, number gaussian = ', 137)
+Conf_matrix: 
+[6217 3187] [ 59860 124140]
+--------------------
+('Covar_type: full, number gaussian = ', 139)
+Conf_matrix: 
+[6405 2999] [ 62852 121148]
+--------------------
+('Covar_type: full, number gaussian = ', 141)
+Conf_matrix: 
+[5997 3407] [ 57881 126119]
+--------------------
+('Covar_type: full, number gaussian = ', 143)
+Conf_matrix: 
+[6259 3145] [ 65137 118863]
+--------------------
+('Covar_type: full, number gaussian = ', 145)
+Conf_matrix: 
+[6078 3326] [ 59484 124516]
+--------------------
+('Covar_type: full, number gaussian = ', 147)
+Conf_matrix: 
+[5829 3575] [ 56914 127086]
+--------------------
+('Covar_type: full, number gaussian = ', 149)
+Conf_matrix: 
+[5791 3613] [ 56597 127403]
+--------------------
+('Covar_type: full, number gaussian = ', 151)
+Conf_matrix: 
+[5195 4209] [ 44713 139287]
+--------------------
+('Covar_type: full, number gaussian = ', 153)
+Conf_matrix: 
+[5506 3898] [ 47147 136853]
+--------------------
+('Covar_type: full, number gaussian = ', 155)
+Conf_matrix: 
+[5406 3998] [ 54137 129863]
+--------------------
+('Covar_type: full, number gaussian = ', 157)
+Conf_matrix: 
+[5657 3747] [ 48636 135364]
+--------------------
+('Covar_type: full, number gaussian = ', 159)
+Conf_matrix: 
+[4503 4901] [ 39262 144738]
+--------------------
+('Covar_type: full, number gaussian = ', 161)
+Conf_matrix: 
+[5323 4081] [ 46685 137315]
+--------------------
+('Covar_type: full, number gaussian = ', 163)
+Conf_matrix: 
+[4866 4538] [ 42112 141888]
+--------------------
+('Covar_type: full, number gaussian = ', 165)
+Conf_matrix: 
+[4727 4677] [ 42295 141705]
+--------------------
+('Covar_type: full, number gaussian = ', 167)
+Conf_matrix: 
+[5076 4328] [ 47808 136192]
+--------------------
+('Covar_type: full, number gaussian = ', 169)
+Conf_matrix: 
+[5411 3993] [ 49441 134559]
+--------------------
+('Covar_type: full, number gaussian = ', 171)
+Conf_matrix: 
+[5844 3560] [ 48106 135894]
+--------------------
+('Covar_type: full, number gaussian = ', 173)
+Conf_matrix: 
+[4600 4804] [ 37364 146636]
+--------------------
+('Covar_type: full, number gaussian = ', 175)
+Conf_matrix: 
+[4930 4474] [ 42651 141349]
+--------------------
+('Covar_type: full, number gaussian = ', 177)
+Conf_matrix: 
+[4151 5253] [ 32276 151724]
+--------------------
+('Covar_type: full, number gaussian = ', 179)
+Conf_matrix: 
+[4997 4407] [ 42728 141272]
+--------------------
+('Covar_type: full, number gaussian = ', 181)
+Conf_matrix: 
+[4844 4560] [ 38393 145607]
+--------------------
+('Covar_type: full, number gaussian = ', 183)
+Conf_matrix: 
+[4247 5157] [ 30770 153230]
+--------------------
+('Covar_type: full, number gaussian = ', 185)
+Conf_matrix: 
+[4486 4918] [ 36005 147995]
+--------------------
+('Covar_type: full, number gaussian = ', 187)
+Conf_matrix: 
+[4596 4808] [ 38911 145089]
+--------------------
+('Covar_type: full, number gaussian = ', 189)
+Conf_matrix: 
+[4503 4901] [ 37899 146101]
+--------------------
+('Covar_type: full, number gaussian = ', 191)
+Conf_matrix: 
+[4732 4672] [ 38622 145378]
+--------------------
+('Covar_type: full, number gaussian = ', 193)
+Conf_matrix: 
+[3508 5896] [ 25761 158239]
+--------------------
+('Covar_type: full, number gaussian = ', 195)
+Conf_matrix: 
+[4483 4921] [ 38473 145527]
+--------------------
+('Covar_type: full, number gaussian = ', 197)
+Conf_matrix: 
+[4337 5067] [ 31432 152568]
+--------------------
+('Covar_type: full, number gaussian = ', 199)
+Conf_matrix: 
+[3870 5534] [ 31804 152196]
+--------------------
+('Covar_type: full, number gaussian = ', 201)
+Conf_matrix: 
+[4285 5119] [ 30626 153374]
+--------------------
+('Covar_type: full, number gaussian = ', 203)
+Conf_matrix: 
+[4049 5355] [ 31261 152739]
+--------------------
+('Covar_type: full, number gaussian = ', 205)
+Conf_matrix: 
+[3818 5586] [ 25574 158426]
+--------------------
+('Covar_type: full, number gaussian = ', 207)
+Conf_matrix: 
+[3815 5589] [ 28127 155873]
+--------------------
+('Covar_type: full, number gaussian = ', 209)
+Conf_matrix: 
+[3844 5560] [ 25416 158584]
+--------------------
+('Covar_type: full, number gaussian = ', 211)
+Conf_matrix: 
+[3086 6318] [ 21222 162778]
+--------------------
+('Covar_type: full, number gaussian = ', 213)
+Conf_matrix: 
+[3658 5746] [ 22318 161682]
+--------------------
+('Covar_type: full, number gaussian = ', 215)
+Conf_matrix: 
+[2686 6718] [ 16855 167145]
+--------------------
+('Covar_type: full, number gaussian = ', 217)
+Conf_matrix: 
+[2780 6624] [ 18351 165649]
+--------------------
+('Covar_type: full, number gaussian = ', 219)
+Conf_matrix: 
+[2748 6656] [ 15565 168435]
+--------------------
+('Covar_type: full, number gaussian = ', 221)
+Conf_matrix: 
+[3327 6077] [ 22372 161628]
+--------------------
+('Covar_type: full, number gaussian = ', 223)
+Conf_matrix: 
+[2595 6809] [ 17737 166263]
+--------------------
+('Covar_type: full, number gaussian = ', 225)
+Conf_matrix: 
+[3361 6043] [ 31562 152438]
+--------------------
+('Covar_type: full, number gaussian = ', 227)
+Conf_matrix: 
+[3328 6076] [ 23405 160595]
+--------------------
+('Covar_type: full, number gaussian = ', 229)
+Conf_matrix: 
+[2588 6816] [ 17087 166913]
+--------------------
+('Covar_type: full, number gaussian = ', 231)
+Conf_matrix: 
+[1834 7570] [ 12968 171032]
+--------------------
+('Covar_type: full, number gaussian = ', 233)
+Conf_matrix: 
+[2189 7215] [ 11092 172908]
+--------------------
+('Covar_type: full, number gaussian = ', 235)
+Conf_matrix: 
+[2806 6598] [ 17898 166102]
+--------------------
+('Covar_type: full, number gaussian = ', 237)
+Conf_matrix: 
+[2218 7186] [ 18603 165397]
+--------------------
+('Covar_type: full, number gaussian = ', 239)
+Conf_matrix: 
+[2367 7037] [ 14858 169142]
+--------------------
+('Covar_type: full, number gaussian = ', 241)
+Conf_matrix: 
+[2271 7133] [ 13900 170100]
+--------------------
+('Covar_type: full, number gaussian = ', 243)
+Conf_matrix: 
+[1169 8235] [  8502 175498]
+--------------------
+('Covar_type: full, number gaussian = ', 245)
+Conf_matrix: 
+[2939 6465] [ 23260 160740]
+--------------------
+('Covar_type: full, number gaussian = ', 247)
+Conf_matrix: 
+[2187 7217] [ 12470 171530]
+--------------------
+('Covar_type: full, number gaussian = ', 249)
+Conf_matrix: 
+[2777 6627] [ 18819 165181]
+--------------------
+('Covar_type: full, number gaussian = ', 251)
+Conf_matrix: 
+[2461 6943] [ 12311 171689]
+--------------------
+('Covar_type: full, number gaussian = ', 253)
+Conf_matrix: 
+[1341 8063] [  9294 174706]
+--------------------
+('Covar_type: full, number gaussian = ', 255)
+Conf_matrix: 
+[1224 8180] [  5775 178225]
+--------------------
+('Covar_type: full, number gaussian = ', 257)
+Conf_matrix: 
+[1700 7704] [ 13712 170288]
+--------------------
+('Covar_type: full, number gaussian = ', 259)
+Conf_matrix: 
+[1589 7815] [  9188 174812]
+--------------------
+('Covar_type: full, number gaussian = ', 261)
+Conf_matrix: 
+[1613 7791] [  8768 175232]
+--------------------
+('Covar_type: full, number gaussian = ', 263)
+Conf_matrix: 
+[1235 8169] [  8614 175386]
+--------------------
+('Covar_type: full, number gaussian = ', 265)
+Conf_matrix: 
+[1472 7932] [  8452 175548]
+--------------------
+('Covar_type: full, number gaussian = ', 267)
+Conf_matrix: 
+[1544 7860] [ 11956 172044]
+--------------------
+('Covar_type: full, number gaussian = ', 269)
+Conf_matrix: 
+[1207 8197] [  7898 176102]
+--------------------
+('Covar_type: full, number gaussian = ', 271)
+Conf_matrix: 
+[ 962 8442] [  5687 178313]
+--------------------
+('Covar_type: full, number gaussian = ', 273)
+Conf_matrix: 
+[2340 7064] [ 15348 168652]
+--------------------
+('Covar_type: full, number gaussian = ', 275)
+Conf_matrix: 
+[2046 7358] [ 10841 173159]
+--------------------
+('Covar_type: full, number gaussian = ', 277)
+Conf_matrix: 
+[1007 8397] [  5058 178942]
+--------------------
+('Covar_type: full, number gaussian = ', 279)
+Conf_matrix: 
+[1837 7567] [  8823 175177]
+--------------------
+('Covar_type: full, number gaussian = ', 281)
+Conf_matrix: 
+[ 826 8578] [  5768 178232]
+--------------------
+('Covar_type: full, number gaussian = ', 283)
+Conf_matrix: 
+[1305 8099] [  7396 176604]
+--------------------
+('Covar_type: full, number gaussian = ', 285)
+Conf_matrix: 
+[1020 8384] [  7051 176949]
+--------------------
+('Covar_type: full, number gaussian = ', 287)
+Conf_matrix: 
+[1635 7769] [ 15879 168121]
+--------------------
+('Covar_type: full, number gaussian = ', 289)
+Conf_matrix: 
+[1375 8029] [  8203 175797]
+--------------------
+('Covar_type: full, number gaussian = ', 291)
+Conf_matrix: 
+[ 950 8454] [  7405 176595]
+--------------------
+('Covar_type: full, number gaussian = ', 293)
+Conf_matrix: 
+[ 544 8860] [  2531 181469]
+--------------------
+('Covar_type: full, number gaussian = ', 295)
+Conf_matrix: 
+[ 523 8881] [  7888 176112]
+--------------------
+('Covar_type: full, number gaussian = ', 297)
+Conf_matrix: 
+[ 910 8494] [  6653 177347]
+--------------------
+('Covar_type: full, number gaussian = ', 299)
+Conf_matrix: 
+[ 441 8963] [  2145 181855]
+--------------------
+('Covar_type: full, number gaussian = ', 301)
+Conf_matrix: 
+[ 475 8929] [  3177 180823]
+--------------------
+('Covar_type: full, number gaussian = ', 303)
+Conf_matrix: 
+[ 284 9120] [  1687 182313]
+--------------------
+('Covar_type: full, number gaussian = ', 305)
+Conf_matrix: 
+[ 312 9092] [  2196 181804]
+--------------------
+('Covar_type: full, number gaussian = ', 307)
+Conf_matrix: 
+[ 464 8940] [  2202 181798]
+--------------------
+('Covar_type: full, number gaussian = ', 309)
+Conf_matrix: 
+[1398 8006] [  8360 175640]
+--------------------
+('Covar_type: full, number gaussian = ', 311)
+Conf_matrix: 
+[ 348 9056] [  3346 180654]
+--------------------
+('Covar_type: full, number gaussian = ', 313)
+Conf_matrix: 
+[1131 8273] [  5456 178544]
+--------------------
+('Covar_type: full, number gaussian = ', 315)
+Conf_matrix: 
+[ 764 8640] [  6076 177924]
+--------------------
+('Covar_type: full, number gaussian = ', 317)
+Conf_matrix: 
+[ 802 8602] [  5553 178447]
+--------------------
+('Covar_type: full, number gaussian = ', 319)
+Conf_matrix: 
+[ 306 9098] [  1880 182120]
+--------------------
+('Covar_type: full, number gaussian = ', 321)
+Conf_matrix: 
+[ 352 9052] [  2616 181384]
+--------------------
+('Covar_type: full, number gaussian = ', 323)
+Conf_matrix: 
+[1399 8005] [  6311 177689]
+--------------------
+('Covar_type: full, number gaussian = ', 325)
+Conf_matrix: 
+[ 168 9236] [   819 183181]
+--------------------
+('Covar_type: full, number gaussian = ', 327)
+Conf_matrix: 
+[ 293 9111] [   715 183285]
+--------------------
+('Covar_type: full, number gaussian = ', 329)
+Conf_matrix: 
+[ 919 8485] [  5265 178735]
+--------------------
+('Covar_type: full, number gaussian = ', 331)
+Conf_matrix: 
+[ 225 9179] [  1225 182775]
+--------------------
+('Covar_type: full, number gaussian = ', 333)
+Conf_matrix: 
+[ 761 8643] [  6493 177507]
+--------------------
+('Covar_type: full, number gaussian = ', 335)
+Conf_matrix: 
+[ 101 9303] [   529 183471]
+--------------------
+('Covar_type: full, number gaussian = ', 337)
+Conf_matrix: 
+[ 291 9113] [  2688 181312]
+--------------------
+('Covar_type: full, number gaussian = ', 339)
+Conf_matrix: 
+[ 116 9288] [  1445 182555]
+--------------------
+('Covar_type: full, number gaussian = ', 341)
+Conf_matrix: 
+[ 341 9063] [  3634 180366]
+--------------------
+('Covar_type: full, number gaussian = ', 343)
+Conf_matrix: 
+[  22 9382] [   455 183545]
+--------------------
+('Covar_type: full, number gaussian = ', 345)
+Conf_matrix: 
+[ 152 9252] [  1170 182830]
+--------------------
+('Covar_type: full, number gaussian = ', 347)
+Conf_matrix: 
+[ 187 9217] [  1153 182847]
+--------------------
+('Covar_type: full, number gaussian = ', 349)
+Conf_matrix: 
+[  65 9339] [   634 183366]
+--------------------
+('Covar_type: full, number gaussian = ', 351)
+Conf_matrix: 
+[ 307 9097] [  1745 182255]
+--------------------
+('Covar_type: full, number gaussian = ', 353)
+Conf_matrix: 
+[  93 9311] [   489 183511]
+--------------------
+('Covar_type: full, number gaussian = ', 355)
+Conf_matrix: 
+[ 469 8935] [  2492 181508]
+--------------------
+('Covar_type: full, number gaussian = ', 357)
+Conf_matrix: 
+[  80 9324] [   710 183290]
+--------------------
+('Covar_type: full, number gaussian = ', 359)
+Conf_matrix: 
+[ 113 9291] [  1329 182671]
+--------------------
+('Covar_type: full, number gaussian = ', 361)
+Conf_matrix: 
+[ 123 9281] [   394 183606]
+--------------------
+('Covar_type: full, number gaussian = ', 363)
+Conf_matrix: 
+[ 512 8892] [  3584 180416]
+--------------------
+('Covar_type: full, number gaussian = ', 365)
+Conf_matrix: 
+[  12 9392] [   174 183826]
+--------------------
+('Covar_type: full, number gaussian = ', 367)
+Conf_matrix: 
+[ 134 9270] [   366 183634]
+--------------------
+('Covar_type: full, number gaussian = ', 369)
+Conf_matrix: 
+[  58 9346] [   234 183766]
+--------------------
+('Covar_type: full, number gaussian = ', 371)
+Conf_matrix: 
+[ 149 9255] [  1062 182938]
+--------------------
+('Covar_type: full, number gaussian = ', 373)
+Conf_matrix: 
+[  52 9352] [   350 183650]
+--------------------
+('Covar_type: full, number gaussian = ', 375)
+Conf_matrix: 
+[ 251 9153] [  1549 182451]
+--------------------
+('Covar_type: full, number gaussian = ', 377)
+Conf_matrix: 
+[ 142 9262] [   620 183380]
+--------------------
+('Covar_type: full, number gaussian = ', 379)
+Conf_matrix: 
+[  52 9352] [   731 183269]
+--------------------
+('Covar_type: full, number gaussian = ', 381)
+Conf_matrix: 
+[   5 9399] [   135 183865]
+--------------------
+('Covar_type: full, number gaussian = ', 383)
+Conf_matrix: 
+[ 260 9144] [  1857 182143]
+--------------------
+('Covar_type: full, number gaussian = ', 385)
+Conf_matrix: 
+[  39 9365] [   445 183555]
+--------------------
+('Covar_type: full, number gaussian = ', 387)
+Conf_matrix: 
+[  74 9330] [   221 183779]
+--------------------
+('Covar_type: full, number gaussian = ', 389)
+Conf_matrix: 
+[ 133 9271] [   695 183305]
+--------------------
+('Covar_type: full, number gaussian = ', 391)
+Conf_matrix: 
+[ 124 9280] [   897 183103]
+--------------------
+('Covar_type: full, number gaussian = ', 393)
+Conf_matrix: 
+[ 721 8683] [  8464 175536]
+--------------------
+('Covar_type: full, number gaussian = ', 395)
+Conf_matrix: 
+[  12 9392] [   114 183886]
+--------------------
+('Covar_type: full, number gaussian = ', 397)
+Conf_matrix: 
+[  63 9341] [   271 183729]
+--------------------
+('Covar_type: full, number gaussian = ', 399)
+Conf_matrix: 
+[ 147 9257] [  3460 180540]
+--------------------
+('Covar_type: full, number gaussian = ', 401)
+Conf_matrix: 
+[   2 9402] [   158 183842]
+--------------------
+('Covar_type: full, number gaussian = ', 403)
+Conf_matrix: 
+[  23 9381] [   131 183869]
+--------------------
+('Covar_type: full, number gaussian = ', 405)
+Conf_matrix: 
+[  23 9381] [   328 183672]
+--------------------
+('Covar_type: full, number gaussian = ', 407)
+Conf_matrix: 
+[  68 9336] [   646 183354]
+--------------------
+('Covar_type: full, number gaussian = ', 409)
+Conf_matrix: 
+[   3 9401] [    46 183954]
+--------------------
+('Covar_type: full, number gaussian = ', 411)
+Conf_matrix: 
+[   8 9396] [   284 183716]
+--------------------
+('Covar_type: full, number gaussian = ', 413)
+Conf_matrix: 
+[  95 9309] [   541 183459]
+--------------------
+('Covar_type: full, number gaussian = ', 415)
+Conf_matrix: 
+[  34 9370] [   139 183861]
+--------------------
+('Covar_type: full, number gaussian = ', 417)
+Conf_matrix: 
+[ 111 9293] [   460 183540]
+--------------------
+('Covar_type: full, number gaussian = ', 419)
+Conf_matrix: 
+[   9 9395] [    23 183977]
+--------------------
+('Covar_type: full, number gaussian = ', 421)
+Conf_matrix: 
+[   1 9403] [    11 183989]
+--------------------
+('Covar_type: full, number gaussian = ', 423)
+Conf_matrix: 
+[  21 9383] [   508 183492]
+--------------------
+('Covar_type: full, number gaussian = ', 425)
+Conf_matrix: 
+[  17 9387] [   246 183754]
+--------------------
+('Covar_type: full, number gaussian = ', 427)
+Conf_matrix: 
+[  13 9391] [   125 183875]
+--------------------
+('Covar_type: full, number gaussian = ', 429)
+Conf_matrix: 
+[   7 9397] [    54 183946]
+--------------------
+('Covar_type: full, number gaussian = ', 431)
+Conf_matrix: 
+[   7 9397] [   164 183836]
+--------------------
+('Covar_type: full, number gaussian = ', 433)
+Conf_matrix: 
+[  15 9389] [    54 183946]
+--------------------
+('Covar_type: full, number gaussian = ', 435)
+Conf_matrix: 
+[  14 9390] [   304 183696]
+--------------------
+('Covar_type: full, number gaussian = ', 437)
+Conf_matrix: 
+[   1 9403] [    41 183959]
+--------------------
+('Covar_type: full, number gaussian = ', 439)
+Conf_matrix: 
+[   0 9404] [    11 183989]
+--------------------
+('Covar_type: full, number gaussian = ', 441)
+Conf_matrix: 
+[   3 9401] [    61 183939]
+--------------------
+('Covar_type: full, number gaussian = ', 443)
+Conf_matrix: 
+[  13 9391] [    41 183959]
+--------------------
+('Covar_type: full, number gaussian = ', 445)
+Conf_matrix: 
+[   0 9404] [    17 183983]
+--------------------
+('Covar_type: full, number gaussian = ', 447)
+Conf_matrix: 
+[   2 9402] [    21 183979]
+--------------------
+('Covar_type: full, number gaussian = ', 449)
+Conf_matrix: 
+[   7 9397] [   200 183800]
+--------------------
+('Covar_type: full, number gaussian = ', 451)
+Conf_matrix: 
+[  12 9392] [    53 183947]
+--------------------
+('Covar_type: full, number gaussian = ', 453)
+Conf_matrix: 
+[   4 9400] [    29 183971]
+--------------------
+('Covar_type: full, number gaussian = ', 455)
+Conf_matrix: 
+[   1 9403] [     5 183995]
+--------------------
+('Covar_type: full, number gaussian = ', 457)
+Conf_matrix: 
+[  30 9374] [   192 183808]
+--------------------
+('Covar_type: full, number gaussian = ', 459)
+Conf_matrix: 
+[  12 9392] [   163 183837]
+--------------------
+('Covar_type: full, number gaussian = ', 461)
+Conf_matrix: 
+[   1 9403] [    33 183967]
+--------------------
+('Covar_type: full, number gaussian = ', 463)
+Conf_matrix: 
+[   0 9404] [    13 183987]
+--------------------
+('Covar_type: full, number gaussian = ', 465)
+Conf_matrix: 
+[   4 9400] [    37 183963]
+--------------------
+('Covar_type: full, number gaussian = ', 467)
+Conf_matrix: 
+[   0 9404] [     6 183994]
+--------------------
+('Covar_type: full, number gaussian = ', 469)
+Conf_matrix: 
+[  36 9368] [   215 183785]
+--------------------
+('Covar_type: full, number gaussian = ', 471)
+Conf_matrix: 
+[   2 9402] [    25 183975]
+--------------------
+('Covar_type: full, number gaussian = ', 473)
+Conf_matrix: 
+[   1 9403] [    31 183969]
+--------------------
+('Covar_type: full, number gaussian = ', 475)
+Conf_matrix: 
+[   0 9404] [   154 183846]
+--------------------
+('Covar_type: full, number gaussian = ', 477)
+Conf_matrix: 
+[  12 9392] [    21 183979]
+--------------------
+('Covar_type: full, number gaussian = ', 479)
+Conf_matrix: 
+[   1 9403] [     5 183995]
+--------------------
+('Covar_type: full, number gaussian = ', 481)
+Conf_matrix: 
+[   0 9404] [     4 183996]
+--------------------
+('Covar_type: full, number gaussian = ', 483)
+Conf_matrix: 
+[   2 9402] [    27 183973]
+--------------------
+('Covar_type: full, number gaussian = ', 485)
+Conf_matrix: 
+[   0 9404] [     0 184000]
+--------------------
+('Covar_type: full, number gaussian = ', 487)
+Conf_matrix: 
+[   0 9404] [    12 183988]
+--------------------
+('Covar_type: full, number gaussian = ', 489)
+Conf_matrix: 
+[   0 9404] [     0 184000]
+--------------------
+('Covar_type: full, number gaussian = ', 491)
+Conf_matrix: 
+[   1 9403] [     4 183996]
+--------------------
+('Covar_type: full, number gaussian = ', 493)
+Conf_matrix: 
+[   0 9404] [    24 183976]
+--------------------
+('Covar_type: full, number gaussian = ', 495)
+Conf_matrix: 
+[   1 9403] [    17 183983]
+--------------------
+('Covar_type: full, number gaussian = ', 497)
+Conf_matrix: 
+[   2 9402] [    25 183975]
+--------------------
+('Covar_type: full, number gaussian = ', 499)
+Conf_matrix: 
+[   0 9404] [     1 183999]
+--------------------
+('Covar_type: full, number gaussian = ', 501)
+Conf_matrix: 
+[   0 9404] [    20 183980]
+--------------------
+('Covar_type: full, number gaussian = ', 503)
+Conf_matrix: 
+[   2 9402] [     1 183999]

@@ -1,0 +1,2049 @@
+
+--------------------
+('Covar_type: spherical, number gaussian = ', 1)
+Conf_matrix: 
+[7971 1433] [ 57300 126700]
+--------------------
+('Covar_type: spherical, number gaussian = ', 3)
+Conf_matrix: 
+[7977 1427] [ 61686 122314]
+--------------------
+('Covar_type: spherical, number gaussian = ', 5)
+Conf_matrix: 
+[8014 1390] [ 62937 121063]
+--------------------
+('Covar_type: spherical, number gaussian = ', 7)
+Conf_matrix: 
+[8281 1123] [ 63809 120191]
+--------------------
+('Covar_type: spherical, number gaussian = ', 9)
+Conf_matrix: 
+[8265 1139] [ 63285 120715]
+--------------------
+('Covar_type: spherical, number gaussian = ', 11)
+Conf_matrix: 
+[8313 1091] [ 61694 122306]
+--------------------
+('Covar_type: spherical, number gaussian = ', 13)
+Conf_matrix: 
+[8255 1149] [ 60082 123918]
+--------------------
+('Covar_type: spherical, number gaussian = ', 15)
+Conf_matrix: 
+[8184 1220] [ 61150 122850]
+--------------------
+('Covar_type: spherical, number gaussian = ', 17)
+Conf_matrix: 
+[8149 1255] [ 59296 124704]
+--------------------
+('Covar_type: spherical, number gaussian = ', 19)
+Conf_matrix: 
+[8055 1349] [ 59321 124679]
+--------------------
+('Covar_type: spherical, number gaussian = ', 21)
+Conf_matrix: 
+[8005 1399] [ 57096 126904]
+--------------------
+('Covar_type: spherical, number gaussian = ', 23)
+Conf_matrix: 
+[7916 1488] [ 58664 125336]
+--------------------
+('Covar_type: spherical, number gaussian = ', 25)
+Conf_matrix: 
+[8087 1317] [ 59678 124322]
+--------------------
+('Covar_type: spherical, number gaussian = ', 27)
+Conf_matrix: 
+[8051 1353] [ 60808 123192]
+--------------------
+('Covar_type: spherical, number gaussian = ', 29)
+Conf_matrix: 
+[8024 1380] [ 58065 125935]
+--------------------
+('Covar_type: spherical, number gaussian = ', 31)
+Conf_matrix: 
+[7917 1487] [ 59557 124443]
+--------------------
+('Covar_type: spherical, number gaussian = ', 33)
+Conf_matrix: 
+[7836 1568] [ 58861 125139]
+--------------------
+('Covar_type: spherical, number gaussian = ', 35)
+Conf_matrix: 
+[7601 1803] [ 56816 127184]
+--------------------
+('Covar_type: spherical, number gaussian = ', 37)
+Conf_matrix: 
+[7882 1522] [ 57415 126585]
+--------------------
+('Covar_type: spherical, number gaussian = ', 39)
+Conf_matrix: 
+[7954 1450] [ 60319 123681]
+--------------------
+('Covar_type: spherical, number gaussian = ', 41)
+Conf_matrix: 
+[7829 1575] [ 59729 124271]
+--------------------
+('Covar_type: spherical, number gaussian = ', 43)
+Conf_matrix: 
+[7869 1535] [ 58579 125421]
+--------------------
+('Covar_type: spherical, number gaussian = ', 45)
+Conf_matrix: 
+[7808 1596] [ 60904 123096]
+--------------------
+('Covar_type: spherical, number gaussian = ', 47)
+Conf_matrix: 
+[7568 1836] [ 57030 126970]
+--------------------
+('Covar_type: spherical, number gaussian = ', 49)
+Conf_matrix: 
+[7869 1535] [ 65135 118865]
+--------------------
+('Covar_type: spherical, number gaussian = ', 51)
+Conf_matrix: 
+[7751 1653] [ 63670 120330]
+--------------------
+('Covar_type: spherical, number gaussian = ', 53)
+Conf_matrix: 
+[7915 1489] [ 62327 121673]
+--------------------
+('Covar_type: spherical, number gaussian = ', 55)
+Conf_matrix: 
+[8075 1329] [ 63739 120261]
+--------------------
+('Covar_type: spherical, number gaussian = ', 57)
+Conf_matrix: 
+[7967 1437] [ 60158 123842]
+--------------------
+('Covar_type: spherical, number gaussian = ', 59)
+Conf_matrix: 
+[7940 1464] [ 67440 116560]
+--------------------
+('Covar_type: spherical, number gaussian = ', 61)
+Conf_matrix: 
+[8017 1387] [ 62984 121016]
+--------------------
+('Covar_type: spherical, number gaussian = ', 63)
+Conf_matrix: 
+[8165 1239] [ 67466 116534]
+--------------------
+('Covar_type: spherical, number gaussian = ', 65)
+Conf_matrix: 
+[8037 1367] [ 64397 119603]
+--------------------
+('Covar_type: spherical, number gaussian = ', 67)
+Conf_matrix: 
+[8176 1228] [ 72795 111205]
+--------------------
+('Covar_type: spherical, number gaussian = ', 69)
+Conf_matrix: 
+[8136 1268] [ 67716 116284]
+--------------------
+('Covar_type: spherical, number gaussian = ', 71)
+Conf_matrix: 
+[8193 1211] [ 74467 109533]
+--------------------
+('Covar_type: spherical, number gaussian = ', 73)
+Conf_matrix: 
+[8128 1276] [ 68930 115070]
+--------------------
+('Covar_type: spherical, number gaussian = ', 75)
+Conf_matrix: 
+[8188 1216] [ 70440 113560]
+--------------------
+('Covar_type: spherical, number gaussian = ', 77)
+Conf_matrix: 
+[8124 1280] [ 70403 113597]
+--------------------
+('Covar_type: spherical, number gaussian = ', 79)
+Conf_matrix: 
+[8105 1299] [ 69468 114532]
+--------------------
+('Covar_type: spherical, number gaussian = ', 81)
+Conf_matrix: 
+[8097 1307] [ 69925 114075]
+--------------------
+('Covar_type: spherical, number gaussian = ', 83)
+Conf_matrix: 
+[8187 1217] [ 81895 102105]
+--------------------
+('Covar_type: spherical, number gaussian = ', 85)
+Conf_matrix: 
+[8236 1168] [ 69683 114317]
+--------------------
+('Covar_type: spherical, number gaussian = ', 87)
+Conf_matrix: 
+[8093 1311] [ 61900 122100]
+--------------------
+('Covar_type: spherical, number gaussian = ', 89)
+Conf_matrix: 
+[7995 1409] [ 71352 112648]
+--------------------
+('Covar_type: spherical, number gaussian = ', 91)
+Conf_matrix: 
+[8171 1233] [ 73033 110967]
+--------------------
+('Covar_type: spherical, number gaussian = ', 93)
+Conf_matrix: 
+[8143 1261] [ 70534 113466]
+--------------------
+('Covar_type: spherical, number gaussian = ', 95)
+Conf_matrix: 
+[8157 1247] [ 73494 110506]
+--------------------
+('Covar_type: spherical, number gaussian = ', 97)
+Conf_matrix: 
+[8085 1319] [ 71408 112592]
+--------------------
+('Covar_type: spherical, number gaussian = ', 99)
+Conf_matrix: 
+[8261 1143] [ 76313 107687]
+--------------------
+('Covar_type: spherical, number gaussian = ', 101)
+Conf_matrix: 
+[8053 1351] [ 74337 109663]
+--------------------
+('Covar_type: spherical, number gaussian = ', 103)
+Conf_matrix: 
+[8119 1285] [84852 99148]
+--------------------
+('Covar_type: spherical, number gaussian = ', 105)
+Conf_matrix: 
+[8105 1299] [ 74272 109728]
+--------------------
+('Covar_type: spherical, number gaussian = ', 107)
+Conf_matrix: 
+[8273 1131] [ 75966 108034]
+--------------------
+('Covar_type: spherical, number gaussian = ', 109)
+Conf_matrix: 
+[8122 1282] [ 75078 108922]
+--------------------
+('Covar_type: spherical, number gaussian = ', 111)
+Conf_matrix: 
+[8236 1168] [ 81655 102345]
+--------------------
+('Covar_type: spherical, number gaussian = ', 113)
+Conf_matrix: 
+[8146 1258] [ 76125 107875]
+--------------------
+('Covar_type: spherical, number gaussian = ', 115)
+Conf_matrix: 
+[8211 1193] [ 77195 106805]
+--------------------
+('Covar_type: spherical, number gaussian = ', 117)
+Conf_matrix: 
+[8166 1238] [84917 99083]
+--------------------
+('Covar_type: spherical, number gaussian = ', 119)
+Conf_matrix: 
+[8219 1185] [ 79162 104838]
+--------------------
+('Covar_type: spherical, number gaussian = ', 121)
+Conf_matrix: 
+[8210 1194] [ 76425 107575]
+--------------------
+('Covar_type: spherical, number gaussian = ', 123)
+Conf_matrix: 
+[8112 1292] [ 72698 111302]
+--------------------
+('Covar_type: spherical, number gaussian = ', 125)
+Conf_matrix: 
+[8147 1257] [ 80015 103985]
+--------------------
+('Covar_type: spherical, number gaussian = ', 127)
+Conf_matrix: 
+[8153 1251] [ 79652 104348]
+--------------------
+('Covar_type: spherical, number gaussian = ', 129)
+Conf_matrix: 
+[8075 1329] [ 73747 110253]
+--------------------
+('Covar_type: spherical, number gaussian = ', 131)
+Conf_matrix: 
+[8091 1313] [ 78056 105944]
+--------------------
+('Covar_type: spherical, number gaussian = ', 133)
+Conf_matrix: 
+[8157 1247] [ 76180 107820]
+--------------------
+('Covar_type: spherical, number gaussian = ', 135)
+Conf_matrix: 
+[8113 1291] [ 75718 108282]
+--------------------
+('Covar_type: spherical, number gaussian = ', 137)
+Conf_matrix: 
+[8114 1290] [ 81276 102724]
+--------------------
+('Covar_type: spherical, number gaussian = ', 139)
+Conf_matrix: 
+[8079 1325] [ 75769 108231]
+--------------------
+('Covar_type: spherical, number gaussian = ', 141)
+Conf_matrix: 
+[8070 1334] [ 71891 112109]
+--------------------
+('Covar_type: spherical, number gaussian = ', 143)
+Conf_matrix: 
+[8015 1389] [ 78255 105745]
+--------------------
+('Covar_type: spherical, number gaussian = ', 145)
+Conf_matrix: 
+[8040 1364] [ 81567 102433]
+--------------------
+('Covar_type: spherical, number gaussian = ', 147)
+Conf_matrix: 
+[8117 1287] [ 81955 102045]
+--------------------
+('Covar_type: spherical, number gaussian = ', 149)
+Conf_matrix: 
+[8134 1270] [ 73537 110463]
+--------------------
+('Covar_type: spherical, number gaussian = ', 151)
+Conf_matrix: 
+[7949 1455] [ 73050 110950]
+--------------------
+('Covar_type: spherical, number gaussian = ', 153)
+Conf_matrix: 
+[8130 1274] [97179 86821]
+--------------------
+('Covar_type: spherical, number gaussian = ', 155)
+Conf_matrix: 
+[8139 1265] [ 79154 104846]
+--------------------
+('Covar_type: spherical, number gaussian = ', 157)
+Conf_matrix: 
+[8166 1238] [ 81587 102413]
+--------------------
+('Covar_type: spherical, number gaussian = ', 159)
+Conf_matrix: 
+[7930 1474] [ 74544 109456]
+--------------------
+('Covar_type: spherical, number gaussian = ', 161)
+Conf_matrix: 
+[7994 1410] [ 72237 111763]
+--------------------
+('Covar_type: spherical, number gaussian = ', 163)
+Conf_matrix: 
+[8126 1278] [ 77926 106074]
+--------------------
+('Covar_type: spherical, number gaussian = ', 165)
+Conf_matrix: 
+[8153 1251] [ 75859 108141]
+--------------------
+('Covar_type: spherical, number gaussian = ', 167)
+Conf_matrix: 
+[8124 1280] [ 81843 102157]
+--------------------
+('Covar_type: spherical, number gaussian = ', 169)
+Conf_matrix: 
+[8012 1392] [ 74737 109263]
+--------------------
+('Covar_type: spherical, number gaussian = ', 171)
+Conf_matrix: 
+[8067 1337] [ 78423 105577]
+--------------------
+('Covar_type: spherical, number gaussian = ', 173)
+Conf_matrix: 
+[8134 1270] [87922 96078]
+--------------------
+('Covar_type: spherical, number gaussian = ', 175)
+Conf_matrix: 
+[8030 1374] [ 77514 106486]
+--------------------
+('Covar_type: spherical, number gaussian = ', 177)
+Conf_matrix: 
+[7965 1439] [ 81250 102750]
+--------------------
+('Covar_type: spherical, number gaussian = ', 179)
+Conf_matrix: 
+[8065 1339] [ 73328 110672]
+--------------------
+('Covar_type: spherical, number gaussian = ', 181)
+Conf_matrix: 
+[7983 1421] [ 72732 111268]
+--------------------
+('Covar_type: spherical, number gaussian = ', 183)
+Conf_matrix: 
+[7881 1523] [ 76631 107369]
+--------------------
+('Covar_type: spherical, number gaussian = ', 185)
+Conf_matrix: 
+[8028 1376] [ 77715 106285]
+--------------------
+('Covar_type: spherical, number gaussian = ', 187)
+Conf_matrix: 
+[7887 1517] [ 76601 107399]
+--------------------
+('Covar_type: spherical, number gaussian = ', 189)
+Conf_matrix: 
+[7851 1553] [ 73839 110161]
+--------------------
+('Covar_type: spherical, number gaussian = ', 191)
+Conf_matrix: 
+[7825 1579] [ 72643 111357]
+--------------------
+('Covar_type: spherical, number gaussian = ', 193)
+Conf_matrix: 
+[7963 1441] [ 80004 103996]
+--------------------
+('Covar_type: spherical, number gaussian = ', 195)
+Conf_matrix: 
+[7849 1555] [ 65795 118205]
+--------------------
+('Covar_type: spherical, number gaussian = ', 197)
+Conf_matrix: 
+[7760 1644] [ 65549 118451]
+--------------------
+('Covar_type: spherical, number gaussian = ', 199)
+Conf_matrix: 
+[8006 1398] [ 74169 109831]
+--------------------
+('Covar_type: spherical, number gaussian = ', 201)
+Conf_matrix: 
+[7842 1562] [ 75997 108003]
+--------------------
+('Covar_type: spherical, number gaussian = ', 203)
+Conf_matrix: 
+[7985 1419] [ 75298 108702]
+--------------------
+('Covar_type: spherical, number gaussian = ', 205)
+Conf_matrix: 
+[7608 1796] [ 73249 110751]
+--------------------
+('Covar_type: spherical, number gaussian = ', 207)
+Conf_matrix: 
+[7764 1640] [ 67683 116317]
+--------------------
+('Covar_type: spherical, number gaussian = ', 209)
+Conf_matrix: 
+[7750 1654] [ 67083 116917]
+--------------------
+('Covar_type: spherical, number gaussian = ', 211)
+Conf_matrix: 
+[7844 1560] [ 82111 101889]
+--------------------
+('Covar_type: spherical, number gaussian = ', 213)
+Conf_matrix: 
+[7812 1592] [ 69914 114086]
+--------------------
+('Covar_type: spherical, number gaussian = ', 215)
+Conf_matrix: 
+[7990 1414] [ 75875 108125]
+--------------------
+('Covar_type: spherical, number gaussian = ', 217)
+Conf_matrix: 
+[7576 1828] [ 68900 115100]
+--------------------
+('Covar_type: spherical, number gaussian = ', 219)
+Conf_matrix: 
+[7535 1869] [ 62764 121236]
+--------------------
+('Covar_type: spherical, number gaussian = ', 221)
+Conf_matrix: 
+[7755 1649] [ 80351 103649]
+--------------------
+('Covar_type: spherical, number gaussian = ', 223)
+Conf_matrix: 
+[7883 1521] [ 68138 115862]
+--------------------
+('Covar_type: spherical, number gaussian = ', 225)
+Conf_matrix: 
+[7814 1590] [ 74179 109821]
+--------------------
+('Covar_type: spherical, number gaussian = ', 227)
+Conf_matrix: 
+[7905 1499] [ 70343 113657]
+--------------------
+('Covar_type: spherical, number gaussian = ', 229)
+Conf_matrix: 
+[7870 1534] [ 76898 107102]
+--------------------
+('Covar_type: spherical, number gaussian = ', 231)
+Conf_matrix: 
+[7663 1741] [ 70690 113310]
+--------------------
+('Covar_type: spherical, number gaussian = ', 233)
+Conf_matrix: 
+[7925 1479] [ 71973 112027]
+--------------------
+('Covar_type: spherical, number gaussian = ', 235)
+Conf_matrix: 
+[7759 1645] [ 65481 118519]
+--------------------
+('Covar_type: spherical, number gaussian = ', 237)
+Conf_matrix: 
+[8062 1342] [ 72120 111880]
+--------------------
+('Covar_type: spherical, number gaussian = ', 239)
+Conf_matrix: 
+[7805 1599] [ 74854 109146]
+--------------------
+('Covar_type: spherical, number gaussian = ', 241)
+Conf_matrix: 
+[7587 1817] [ 63658 120342]
+--------------------
+('Covar_type: spherical, number gaussian = ', 243)
+Conf_matrix: 
+[7749 1655] [ 71429 112571]
+--------------------
+('Covar_type: spherical, number gaussian = ', 245)
+Conf_matrix: 
+[7734 1670] [ 68757 115243]
+--------------------
+('Covar_type: spherical, number gaussian = ', 247)
+Conf_matrix: 
+[7884 1520] [ 71008 112992]
+--------------------
+('Covar_type: spherical, number gaussian = ', 249)
+Conf_matrix: 
+[7576 1828] [ 69494 114506]
+--------------------
+('Covar_type: spherical, number gaussian = ', 251)
+Conf_matrix: 
+[8100 1304] [ 69421 114579]
+--------------------
+('Covar_type: spherical, number gaussian = ', 253)
+Conf_matrix: 
+[7620 1784] [ 72181 111819]
+--------------------
+('Covar_type: spherical, number gaussian = ', 255)
+Conf_matrix: 
+[7555 1849] [ 62326 121674]
+--------------------
+('Covar_type: spherical, number gaussian = ', 257)
+Conf_matrix: 
+[7815 1589] [ 65775 118225]
+--------------------
+('Covar_type: spherical, number gaussian = ', 259)
+Conf_matrix: 
+[7518 1886] [ 61335 122665]
+--------------------
+('Covar_type: spherical, number gaussian = ', 261)
+Conf_matrix: 
+[7790 1614] [ 76975 107025]
+--------------------
+('Covar_type: spherical, number gaussian = ', 263)
+Conf_matrix: 
+[7537 1867] [ 66651 117349]
+--------------------
+('Covar_type: spherical, number gaussian = ', 265)
+Conf_matrix: 
+[7423 1981] [ 65172 118828]
+--------------------
+('Covar_type: spherical, number gaussian = ', 267)
+Conf_matrix: 
+[7529 1875] [ 65346 118654]
+--------------------
+('Covar_type: spherical, number gaussian = ', 269)
+Conf_matrix: 
+[7862 1542] [ 68953 115047]
+--------------------
+('Covar_type: spherical, number gaussian = ', 271)
+Conf_matrix: 
+[7605 1799] [ 73731 110269]
+--------------------
+('Covar_type: spherical, number gaussian = ', 273)
+Conf_matrix: 
+[7505 1899] [ 62622 121378]
+--------------------
+('Covar_type: spherical, number gaussian = ', 275)
+Conf_matrix: 
+[7296 2108] [ 63710 120290]
+--------------------
+('Covar_type: spherical, number gaussian = ', 277)
+Conf_matrix: 
+[7213 2191] [ 59424 124576]
+--------------------
+('Covar_type: spherical, number gaussian = ', 279)
+Conf_matrix: 
+[7648 1756] [ 70564 113436]
+--------------------
+('Covar_type: spherical, number gaussian = ', 281)
+Conf_matrix: 
+[7750 1654] [ 63751 120249]
+--------------------
+('Covar_type: spherical, number gaussian = ', 283)
+Conf_matrix: 
+[7607 1797] [ 69014 114986]
+--------------------
+('Covar_type: spherical, number gaussian = ', 285)
+Conf_matrix: 
+[7727 1677] [ 78346 105654]
+--------------------
+('Covar_type: spherical, number gaussian = ', 287)
+Conf_matrix: 
+[7439 1965] [ 61885 122115]
+--------------------
+('Covar_type: spherical, number gaussian = ', 289)
+Conf_matrix: 
+[7709 1695] [ 63791 120209]
+--------------------
+('Covar_type: spherical, number gaussian = ', 291)
+Conf_matrix: 
+[7521 1883] [ 64666 119334]
+--------------------
+('Covar_type: spherical, number gaussian = ', 293)
+Conf_matrix: 
+[7751 1653] [ 70624 113376]
+--------------------
+('Covar_type: spherical, number gaussian = ', 295)
+Conf_matrix: 
+[7566 1838] [ 63676 120324]
+--------------------
+('Covar_type: spherical, number gaussian = ', 297)
+Conf_matrix: 
+[7640 1764] [ 67281 116719]
+--------------------
+('Covar_type: spherical, number gaussian = ', 299)
+Conf_matrix: 
+[7724 1680] [ 77562 106438]
+--------------------
+('Covar_type: spherical, number gaussian = ', 301)
+Conf_matrix: 
+[7521 1883] [ 56971 127029]
+--------------------
+('Covar_type: spherical, number gaussian = ', 303)
+Conf_matrix: 
+[7477 1927] [ 61949 122051]
+--------------------
+('Covar_type: spherical, number gaussian = ', 305)
+Conf_matrix: 
+[7564 1840] [ 66721 117279]
+--------------------
+('Covar_type: spherical, number gaussian = ', 307)
+Conf_matrix: 
+[7315 2089] [ 65435 118565]
+--------------------
+('Covar_type: spherical, number gaussian = ', 309)
+Conf_matrix: 
+[7889 1515] [ 67181 116819]
+--------------------
+('Covar_type: spherical, number gaussian = ', 311)
+Conf_matrix: 
+[7351 2053] [ 61129 122871]
+--------------------
+('Covar_type: spherical, number gaussian = ', 313)
+Conf_matrix: 
+[7438 1966] [ 66326 117674]
+--------------------
+('Covar_type: spherical, number gaussian = ', 315)
+Conf_matrix: 
+[7352 2052] [ 62514 121486]
+--------------------
+('Covar_type: spherical, number gaussian = ', 317)
+Conf_matrix: 
+[7636 1768] [ 68924 115076]
+--------------------
+('Covar_type: spherical, number gaussian = ', 319)
+Conf_matrix: 
+[7466 1938] [ 69618 114382]
+--------------------
+('Covar_type: spherical, number gaussian = ', 321)
+Conf_matrix: 
+[7768 1636] [ 73227 110773]
+--------------------
+('Covar_type: spherical, number gaussian = ', 323)
+Conf_matrix: 
+[7543 1861] [ 65526 118474]
+--------------------
+('Covar_type: spherical, number gaussian = ', 325)
+Conf_matrix: 
+[7286 2118] [ 68427 115573]
+--------------------
+('Covar_type: spherical, number gaussian = ', 327)
+Conf_matrix: 
+[7562 1842] [ 65710 118290]
+--------------------
+('Covar_type: spherical, number gaussian = ', 329)
+Conf_matrix: 
+[7528 1876] [ 73870 110130]
+--------------------
+('Covar_type: spherical, number gaussian = ', 331)
+Conf_matrix: 
+[7539 1865] [ 62510 121490]
+--------------------
+('Covar_type: spherical, number gaussian = ', 333)
+Conf_matrix: 
+[7275 2129] [ 60078 123922]
+--------------------
+('Covar_type: spherical, number gaussian = ', 335)
+Conf_matrix: 
+[7291 2113] [ 64087 119913]
+--------------------
+('Covar_type: spherical, number gaussian = ', 337)
+Conf_matrix: 
+[7497 1907] [ 68175 115825]
+--------------------
+('Covar_type: spherical, number gaussian = ', 339)
+Conf_matrix: 
+[7603 1801] [ 61340 122660]
+--------------------
+('Covar_type: spherical, number gaussian = ', 341)
+Conf_matrix: 
+[7443 1961] [ 65147 118853]
+--------------------
+('Covar_type: spherical, number gaussian = ', 343)
+Conf_matrix: 
+[7556 1848] [ 60601 123399]
+--------------------
+('Covar_type: spherical, number gaussian = ', 345)
+Conf_matrix: 
+[7605 1799] [ 65452 118548]
+--------------------
+('Covar_type: spherical, number gaussian = ', 347)
+Conf_matrix: 
+[7244 2160] [ 59461 124539]
+--------------------
+('Covar_type: spherical, number gaussian = ', 349)
+Conf_matrix: 
+[7616 1788] [ 79965 104035]
+--------------------
+('Covar_type: spherical, number gaussian = ', 351)
+Conf_matrix: 
+[7504 1900] [ 62049 121951]
+--------------------
+('Covar_type: spherical, number gaussian = ', 353)
+Conf_matrix: 
+[7538 1866] [ 65615 118385]
+--------------------
+('Covar_type: spherical, number gaussian = ', 355)
+Conf_matrix: 
+[7429 1975] [ 59706 124294]
+--------------------
+('Covar_type: spherical, number gaussian = ', 357)
+Conf_matrix: 
+[7263 2141] [ 52741 131259]
+--------------------
+('Covar_type: spherical, number gaussian = ', 359)
+Conf_matrix: 
+[7151 2253] [ 56948 127052]
+--------------------
+('Covar_type: spherical, number gaussian = ', 361)
+Conf_matrix: 
+[7060 2344] [ 58526 125474]
+--------------------
+('Covar_type: spherical, number gaussian = ', 363)
+Conf_matrix: 
+[7539 1865] [ 61881 122119]
+--------------------
+('Covar_type: spherical, number gaussian = ', 365)
+Conf_matrix: 
+[7362 2042] [ 60086 123914]
+--------------------
+('Covar_type: spherical, number gaussian = ', 367)
+Conf_matrix: 
+[7240 2164] [ 59151 124849]
+--------------------
+('Covar_type: spherical, number gaussian = ', 369)
+Conf_matrix: 
+[7355 2049] [ 62249 121751]
+--------------------
+('Covar_type: spherical, number gaussian = ', 371)
+Conf_matrix: 
+[7593 1811] [ 67699 116301]
+--------------------
+('Covar_type: spherical, number gaussian = ', 373)
+Conf_matrix: 
+[7494 1910] [ 67670 116330]
+--------------------
+('Covar_type: spherical, number gaussian = ', 375)
+Conf_matrix: 
+[7429 1975] [ 62309 121691]
+--------------------
+('Covar_type: spherical, number gaussian = ', 377)
+Conf_matrix: 
+[7458 1946] [ 61634 122366]
+--------------------
+('Covar_type: spherical, number gaussian = ', 379)
+Conf_matrix: 
+[7563 1841] [ 62280 121720]
+--------------------
+('Covar_type: spherical, number gaussian = ', 381)
+Conf_matrix: 
+[7474 1930] [ 59066 124934]
+--------------------
+('Covar_type: spherical, number gaussian = ', 383)
+Conf_matrix: 
+[7410 1994] [ 60644 123356]
+--------------------
+('Covar_type: spherical, number gaussian = ', 385)
+Conf_matrix: 
+[7358 2046] [ 61125 122875]
+--------------------
+('Covar_type: spherical, number gaussian = ', 387)
+Conf_matrix: 
+[7271 2133] [ 63773 120227]
+--------------------
+('Covar_type: spherical, number gaussian = ', 389)
+Conf_matrix: 
+[7377 2027] [ 60115 123885]
+--------------------
+('Covar_type: spherical, number gaussian = ', 391)
+Conf_matrix: 
+[7432 1972] [ 64625 119375]
+--------------------
+('Covar_type: spherical, number gaussian = ', 393)
+Conf_matrix: 
+[7189 2215] [ 57029 126971]
+--------------------
+('Covar_type: spherical, number gaussian = ', 395)
+Conf_matrix: 
+[7410 1994] [ 64337 119663]
+--------------------
+('Covar_type: spherical, number gaussian = ', 397)
+Conf_matrix: 
+[7225 2179] [ 54650 129350]
+--------------------
+('Covar_type: spherical, number gaussian = ', 399)
+Conf_matrix: 
+[7185 2219] [ 58008 125992]
+--------------------
+('Covar_type: spherical, number gaussian = ', 401)
+Conf_matrix: 
+[7183 2221] [ 56774 127226]
+--------------------
+('Covar_type: spherical, number gaussian = ', 403)
+Conf_matrix: 
+[7509 1895] [ 57956 126044]
+--------------------
+('Covar_type: spherical, number gaussian = ', 405)
+Conf_matrix: 
+[7525 1879] [ 58418 125582]
+--------------------
+('Covar_type: spherical, number gaussian = ', 407)
+Conf_matrix: 
+[7422 1982] [ 61597 122403]
+--------------------
+('Covar_type: spherical, number gaussian = ', 409)
+Conf_matrix: 
+[7214 2190] [ 64254 119746]
+--------------------
+('Covar_type: spherical, number gaussian = ', 411)
+Conf_matrix: 
+[7427 1977] [ 56125 127875]
+--------------------
+('Covar_type: spherical, number gaussian = ', 413)
+Conf_matrix: 
+[7413 1991] [ 67218 116782]
+--------------------
+('Covar_type: spherical, number gaussian = ', 415)
+Conf_matrix: 
+[6981 2423] [ 53046 130954]
+--------------------
+('Covar_type: spherical, number gaussian = ', 417)
+Conf_matrix: 
+[7152 2252] [ 60070 123930]
+--------------------
+('Covar_type: spherical, number gaussian = ', 419)
+Conf_matrix: 
+[7213 2191] [ 55262 128738]
+--------------------
+('Covar_type: spherical, number gaussian = ', 421)
+Conf_matrix: 
+[7273 2131] [ 55786 128214]
+--------------------
+('Covar_type: spherical, number gaussian = ', 423)
+Conf_matrix: 
+[7403 2001] [ 59967 124033]
+--------------------
+('Covar_type: spherical, number gaussian = ', 425)
+Conf_matrix: 
+[7273 2131] [ 60282 123718]
+--------------------
+('Covar_type: spherical, number gaussian = ', 427)
+Conf_matrix: 
+[7161 2243] [ 53649 130351]
+--------------------
+('Covar_type: spherical, number gaussian = ', 429)
+Conf_matrix: 
+[6914 2490] [ 55586 128414]
+--------------------
+('Covar_type: spherical, number gaussian = ', 431)
+Conf_matrix: 
+[7223 2181] [ 59969 124031]
+--------------------
+('Covar_type: spherical, number gaussian = ', 433)
+Conf_matrix: 
+[7020 2384] [ 55770 128230]
+--------------------
+('Covar_type: spherical, number gaussian = ', 435)
+Conf_matrix: 
+[7436 1968] [ 57662 126338]
+--------------------
+('Covar_type: spherical, number gaussian = ', 437)
+Conf_matrix: 
+[7597 1807] [ 72593 111407]
+--------------------
+('Covar_type: spherical, number gaussian = ', 439)
+Conf_matrix: 
+[7203 2201] [ 59457 124543]
+--------------------
+('Covar_type: spherical, number gaussian = ', 441)
+Conf_matrix: 
+[6758 2646] [ 54212 129788]
+--------------------
+('Covar_type: spherical, number gaussian = ', 443)
+Conf_matrix: 
+[7253 2151] [ 54256 129744]
+--------------------
+('Covar_type: spherical, number gaussian = ', 445)
+Conf_matrix: 
+[7437 1967] [ 58120 125880]
+--------------------
+('Covar_type: spherical, number gaussian = ', 447)
+Conf_matrix: 
+[6971 2433] [ 58282 125718]
+--------------------
+('Covar_type: spherical, number gaussian = ', 449)
+Conf_matrix: 
+[7462 1942] [ 62586 121414]
+--------------------
+('Covar_type: spherical, number gaussian = ', 451)
+Conf_matrix: 
+[6991 2413] [ 55661 128339]
+--------------------
+('Covar_type: spherical, number gaussian = ', 453)
+Conf_matrix: 
+[7190 2214] [ 58863 125137]
+--------------------
+('Covar_type: spherical, number gaussian = ', 455)
+Conf_matrix: 
+[6985 2419] [ 56424 127576]
+--------------------
+('Covar_type: spherical, number gaussian = ', 457)
+Conf_matrix: 
+[6956 2448] [ 55892 128108]
+--------------------
+('Covar_type: spherical, number gaussian = ', 459)
+Conf_matrix: 
+[7061 2343] [ 59118 124882]
+--------------------
+('Covar_type: spherical, number gaussian = ', 461)
+Conf_matrix: 
+[6982 2422] [ 53491 130509]
+--------------------
+('Covar_type: spherical, number gaussian = ', 463)
+Conf_matrix: 
+[6962 2442] [ 53286 130714]
+--------------------
+('Covar_type: spherical, number gaussian = ', 465)
+Conf_matrix: 
+[7231 2173] [ 56046 127954]
+--------------------
+('Covar_type: spherical, number gaussian = ', 467)
+Conf_matrix: 
+[6574 2830] [ 52260 131740]
+--------------------
+('Covar_type: spherical, number gaussian = ', 469)
+Conf_matrix: 
+[6872 2532] [ 49310 134690]
+--------------------
+('Covar_type: spherical, number gaussian = ', 471)
+Conf_matrix: 
+[7209 2195] [ 57405 126595]
+--------------------
+('Covar_type: spherical, number gaussian = ', 473)
+Conf_matrix: 
+[7183 2221] [ 63103 120897]
+--------------------
+('Covar_type: spherical, number gaussian = ', 475)
+Conf_matrix: 
+[6899 2505] [ 57733 126267]
+--------------------
+('Covar_type: spherical, number gaussian = ', 477)
+Conf_matrix: 
+[7198 2206] [ 60958 123042]
+--------------------
+('Covar_type: spherical, number gaussian = ', 479)
+Conf_matrix: 
+[7335 2069] [ 63812 120188]
+--------------------
+('Covar_type: spherical, number gaussian = ', 481)
+Conf_matrix: 
+[7084 2320] [ 55725 128275]
+--------------------
+('Covar_type: spherical, number gaussian = ', 483)
+Conf_matrix: 
+[7088 2316] [ 56017 127983]
+--------------------
+('Covar_type: spherical, number gaussian = ', 485)
+Conf_matrix: 
+[6751 2653] [ 50276 133724]
+--------------------
+('Covar_type: spherical, number gaussian = ', 487)
+Conf_matrix: 
+[7199 2205] [ 58659 125341]
+--------------------
+('Covar_type: spherical, number gaussian = ', 489)
+Conf_matrix: 
+[6916 2488] [ 52391 131609]
+--------------------
+('Covar_type: spherical, number gaussian = ', 491)
+Conf_matrix: 
+[6972 2432] [ 55674 128326]
+--------------------
+('Covar_type: spherical, number gaussian = ', 493)
+Conf_matrix: 
+[7139 2265] [ 61799 122201]
+--------------------
+('Covar_type: spherical, number gaussian = ', 495)
+Conf_matrix: 
+[7023 2381] [ 64486 119514]
+--------------------
+('Covar_type: spherical, number gaussian = ', 497)
+Conf_matrix: 
+[7238 2166] [ 54096 129904]
+--------------------
+('Covar_type: spherical, number gaussian = ', 499)
+Conf_matrix: 
+[7097 2307] [ 56162 127838]
+--------------------
+('Covar_type: spherical, number gaussian = ', 501)
+Conf_matrix: 
+[6745 2659] [ 53335 130665]
+--------------------
+('Covar_type: spherical, number gaussian = ', 503)
+Conf_matrix: 
+[7131 2273] [ 54317 129683]
+--------------------
+('Covar_type: spherical, number gaussian = ', 505)
+Conf_matrix: 
+[7038 2366] [ 52371 131629]
+--------------------
+('Covar_type: spherical, number gaussian = ', 507)
+Conf_matrix: 
+[7259 2145] [ 64372 119628]
+--------------------
+('Covar_type: spherical, number gaussian = ', 509)
+Conf_matrix: 
+[6758 2646] [ 53789 130211]
+--------------------
+('Covar_type: spherical, number gaussian = ', 511)
+Conf_matrix: 
+[7087 2317] [ 58318 125682]
+--------------------
+('Covar_type: spherical, number gaussian = ', 513)
+Conf_matrix: 
+[6845 2559] [ 50816 133184]
+--------------------
+('Covar_type: spherical, number gaussian = ', 515)
+Conf_matrix: 
+[7172 2232] [ 62190 121810]
+--------------------
+('Covar_type: spherical, number gaussian = ', 517)
+Conf_matrix: 
+[6983 2421] [ 55326 128674]
+--------------------
+('Covar_type: spherical, number gaussian = ', 519)
+Conf_matrix: 
+[6968 2436] [ 55144 128856]
+--------------------
+('Covar_type: spherical, number gaussian = ', 521)
+Conf_matrix: 
+[6923 2481] [ 58444 125556]
+--------------------
+('Covar_type: spherical, number gaussian = ', 523)
+Conf_matrix: 
+[7391 2013] [ 61441 122559]
+--------------------
+('Covar_type: spherical, number gaussian = ', 525)
+Conf_matrix: 
+[6833 2571] [ 52849 131151]
+--------------------
+('Covar_type: spherical, number gaussian = ', 527)
+Conf_matrix: 
+[6998 2406] [ 56774 127226]
+--------------------
+('Covar_type: spherical, number gaussian = ', 529)
+Conf_matrix: 
+[6963 2441] [ 54947 129053]
+--------------------
+('Covar_type: spherical, number gaussian = ', 531)
+Conf_matrix: 
+[7294 2110] [ 55181 128819]
+--------------------
+('Covar_type: spherical, number gaussian = ', 533)
+Conf_matrix: 
+[7208 2196] [ 55855 128145]
+--------------------
+('Covar_type: spherical, number gaussian = ', 535)
+Conf_matrix: 
+[6774 2630] [ 46886 137114]
+--------------------
+('Covar_type: spherical, number gaussian = ', 537)
+Conf_matrix: 
+[6607 2797] [ 53946 130054]
+--------------------
+('Covar_type: spherical, number gaussian = ', 539)
+Conf_matrix: 
+[6896 2508] [ 49653 134347]
+--------------------
+('Covar_type: spherical, number gaussian = ', 541)
+Conf_matrix: 
+[7184 2220] [ 59939 124061]
+--------------------
+('Covar_type: spherical, number gaussian = ', 543)
+Conf_matrix: 
+[6503 2901] [ 53521 130479]
+--------------------
+('Covar_type: spherical, number gaussian = ', 545)
+Conf_matrix: 
+[6808 2596] [ 54773 129227]
+--------------------
+('Covar_type: spherical, number gaussian = ', 547)
+Conf_matrix: 
+[7085 2319] [ 59781 124219]
+--------------------
+('Covar_type: spherical, number gaussian = ', 549)
+Conf_matrix: 
+[7256 2148] [ 57334 126666]
+--------------------
+('Covar_type: spherical, number gaussian = ', 551)
+Conf_matrix: 
+[6793 2611] [ 56277 127723]
+--------------------
+('Covar_type: spherical, number gaussian = ', 553)
+Conf_matrix: 
+[7080 2324] [ 58864 125136]
+--------------------
+('Covar_type: spherical, number gaussian = ', 555)
+Conf_matrix: 
+[7139 2265] [ 61461 122539]
+--------------------
+('Covar_type: spherical, number gaussian = ', 557)
+Conf_matrix: 
+[7146 2258] [ 53853 130147]
+--------------------
+('Covar_type: spherical, number gaussian = ', 559)
+Conf_matrix: 
+[6846 2558] [ 61169 122831]
+--------------------
+('Covar_type: spherical, number gaussian = ', 561)
+Conf_matrix: 
+[7039 2365] [ 57751 126249]
+--------------------
+('Covar_type: spherical, number gaussian = ', 563)
+Conf_matrix: 
+[6782 2622] [ 54191 129809]
+--------------------
+('Covar_type: spherical, number gaussian = ', 565)
+Conf_matrix: 
+[7208 2196] [ 52825 131175]
+--------------------
+('Covar_type: spherical, number gaussian = ', 567)
+Conf_matrix: 
+[7010 2394] [ 52838 131162]
+--------------------
+('Covar_type: spherical, number gaussian = ', 569)
+Conf_matrix: 
+[7197 2207] [ 64652 119348]
+--------------------
+('Covar_type: spherical, number gaussian = ', 571)
+Conf_matrix: 
+[6924 2480] [ 51444 132556]
+--------------------
+('Covar_type: spherical, number gaussian = ', 573)
+Conf_matrix: 
+[6726 2678] [ 53389 130611]
+--------------------
+('Covar_type: spherical, number gaussian = ', 575)
+Conf_matrix: 
+[6636 2768] [ 51409 132591]
+--------------------
+('Covar_type: spherical, number gaussian = ', 577)
+Conf_matrix: 
+[6712 2692] [ 48728 135272]
+--------------------
+('Covar_type: spherical, number gaussian = ', 579)
+Conf_matrix: 
+[6514 2890] [ 58106 125894]
+--------------------
+('Covar_type: spherical, number gaussian = ', 581)
+Conf_matrix: 
+[7014 2390] [ 53377 130623]
+--------------------
+('Covar_type: spherical, number gaussian = ', 583)
+Conf_matrix: 
+[6911 2493] [ 53012 130988]
+--------------------
+('Covar_type: spherical, number gaussian = ', 585)
+Conf_matrix: 
+[6825 2579] [ 56152 127848]
+--------------------
+('Covar_type: spherical, number gaussian = ', 587)
+Conf_matrix: 
+[7090 2314] [ 55651 128349]
+--------------------
+('Covar_type: spherical, number gaussian = ', 589)
+Conf_matrix: 
+[6976 2428] [ 58689 125311]
+--------------------
+('Covar_type: spherical, number gaussian = ', 591)
+Conf_matrix: 
+[6464 2940] [ 57866 126134]
+--------------------
+('Covar_type: spherical, number gaussian = ', 593)
+Conf_matrix: 
+[6824 2580] [ 51520 132480]
+--------------------
+('Covar_type: spherical, number gaussian = ', 595)
+Conf_matrix: 
+[6902 2502] [ 57156 126844]
+--------------------
+('Covar_type: spherical, number gaussian = ', 597)
+Conf_matrix: 
+[6839 2565] [ 55873 128127]
+--------------------
+('Covar_type: spherical, number gaussian = ', 599)
+Conf_matrix: 
+[7304 2100] [ 55230 128770]
+--------------------
+('Covar_type: spherical, number gaussian = ', 601)
+Conf_matrix: 
+[6858 2546] [ 53758 130242]
+--------------------
+('Covar_type: spherical, number gaussian = ', 603)
+Conf_matrix: 
+[6997 2407] [ 59751 124249]
+--------------------
+('Covar_type: spherical, number gaussian = ', 605)
+Conf_matrix: 
+[7135 2269] [ 59070 124930]
+--------------------
+('Covar_type: spherical, number gaussian = ', 607)
+Conf_matrix: 
+[7060 2344] [ 55341 128659]
+--------------------
+('Covar_type: spherical, number gaussian = ', 609)
+Conf_matrix: 
+[7074 2330] [ 50726 133274]
+--------------------
+('Covar_type: spherical, number gaussian = ', 611)
+Conf_matrix: 
+[6927 2477] [ 55176 128824]
+--------------------
+('Covar_type: spherical, number gaussian = ', 613)
+Conf_matrix: 
+[7013 2391] [ 57642 126358]
+--------------------
+('Covar_type: spherical, number gaussian = ', 615)
+Conf_matrix: 
+[7072 2332] [ 56515 127485]
+--------------------
+('Covar_type: spherical, number gaussian = ', 617)
+Conf_matrix: 
+[6850 2554] [ 50132 133868]
+--------------------
+('Covar_type: spherical, number gaussian = ', 619)
+Conf_matrix: 
+[7288 2116] [ 56066 127934]
+--------------------
+('Covar_type: spherical, number gaussian = ', 621)
+Conf_matrix: 
+[6684 2720] [ 50205 133795]
+--------------------
+('Covar_type: spherical, number gaussian = ', 623)
+Conf_matrix: 
+[7048 2356] [ 57956 126044]
+--------------------
+('Covar_type: spherical, number gaussian = ', 625)
+Conf_matrix: 
+[7065 2339] [ 53661 130339]
+--------------------
+('Covar_type: spherical, number gaussian = ', 627)
+Conf_matrix: 
+[6326 3078] [ 48954 135046]
+--------------------
+('Covar_type: spherical, number gaussian = ', 629)
+Conf_matrix: 
+[6812 2592] [ 54477 129523]
+--------------------
+('Covar_type: spherical, number gaussian = ', 631)
+Conf_matrix: 
+[6506 2898] [ 49744 134256]
+--------------------
+('Covar_type: spherical, number gaussian = ', 633)
+Conf_matrix: 
+[6833 2571] [ 50265 133735]
+--------------------
+('Covar_type: spherical, number gaussian = ', 635)
+Conf_matrix: 
+[6864 2540] [ 53493 130507]
+--------------------
+('Covar_type: spherical, number gaussian = ', 637)
+Conf_matrix: 
+[6655 2749] [ 50622 133378]
+--------------------
+('Covar_type: spherical, number gaussian = ', 639)
+Conf_matrix: 
+[6603 2801] [ 51301 132699]
+--------------------
+('Covar_type: spherical, number gaussian = ', 641)
+Conf_matrix: 
+[6861 2543] [ 56811 127189]
+--------------------
+('Covar_type: spherical, number gaussian = ', 643)
+Conf_matrix: 
+[6982 2422] [ 52808 131192]
+--------------------
+('Covar_type: spherical, number gaussian = ', 645)
+Conf_matrix: 
+[6756 2648] [ 55484 128516]
+--------------------
+('Covar_type: spherical, number gaussian = ', 647)
+Conf_matrix: 
+[6656 2748] [ 52633 131367]
+--------------------
+('Covar_type: spherical, number gaussian = ', 649)
+Conf_matrix: 
+[6965 2439] [ 52948 131052]
+--------------------
+('Covar_type: spherical, number gaussian = ', 651)
+Conf_matrix: 
+[6670 2734] [ 51105 132895]
+--------------------
+('Covar_type: spherical, number gaussian = ', 653)
+Conf_matrix: 
+[6674 2730] [ 52206 131794]
+--------------------
+('Covar_type: spherical, number gaussian = ', 655)
+Conf_matrix: 
+[6522 2882] [ 49565 134435]
+--------------------
+('Covar_type: spherical, number gaussian = ', 657)
+Conf_matrix: 
+[6932 2472] [ 56336 127664]
+--------------------
+('Covar_type: spherical, number gaussian = ', 659)
+Conf_matrix: 
+[6750 2654] [ 55378 128622]
+--------------------
+('Covar_type: spherical, number gaussian = ', 661)
+Conf_matrix: 
+[6903 2501] [ 57454 126546]
+--------------------
+('Covar_type: spherical, number gaussian = ', 663)
+Conf_matrix: 
+[6664 2740] [ 47220 136780]
+--------------------
+('Covar_type: spherical, number gaussian = ', 665)
+Conf_matrix: 
+[7116 2288] [ 60544 123456]
+--------------------
+('Covar_type: spherical, number gaussian = ', 667)
+Conf_matrix: 
+[7098 2306] [ 57811 126189]
+--------------------
+('Covar_type: spherical, number gaussian = ', 669)
+Conf_matrix: 
+[6987 2417] [ 51430 132570]
+--------------------
+('Covar_type: spherical, number gaussian = ', 671)
+Conf_matrix: 
+[6891 2513] [ 53830 130170]
+--------------------
+('Covar_type: spherical, number gaussian = ', 673)
+Conf_matrix: 
+[6597 2807] [ 52271 131729]
+--------------------
+('Covar_type: spherical, number gaussian = ', 675)
+Conf_matrix: 
+[6337 3067] [ 55182 128818]
+--------------------
+('Covar_type: spherical, number gaussian = ', 677)
+Conf_matrix: 
+[7171 2233] [ 59200 124800]
+--------------------
+('Covar_type: spherical, number gaussian = ', 679)
+Conf_matrix: 
+[6817 2587] [ 49302 134698]
+--------------------
+('Covar_type: spherical, number gaussian = ', 681)
+Conf_matrix: 
+[6379 3025] [ 49701 134299]
+--------------------
+('Covar_type: spherical, number gaussian = ', 683)
+Conf_matrix: 
+[7027 2377] [ 50328 133672]
+--------------------
+('Covar_type: spherical, number gaussian = ', 685)
+Conf_matrix: 
+[6989 2415] [ 56830 127170]
+--------------------
+('Covar_type: spherical, number gaussian = ', 687)
+Conf_matrix: 
+[6990 2414] [ 54153 129847]
+--------------------
+('Covar_type: spherical, number gaussian = ', 689)
+Conf_matrix: 
+[6962 2442] [ 54800 129200]
+--------------------
+('Covar_type: spherical, number gaussian = ', 691)
+Conf_matrix: 
+[7199 2205] [ 55968 128032]
+--------------------
+('Covar_type: spherical, number gaussian = ', 693)
+Conf_matrix: 
+[6949 2455] [ 54231 129769]
+--------------------
+('Covar_type: spherical, number gaussian = ', 695)
+Conf_matrix: 
+[6750 2654] [ 53961 130039]
+--------------------
+('Covar_type: spherical, number gaussian = ', 697)
+Conf_matrix: 
+[7025 2379] [ 52875 131125]
+--------------------
+('Covar_type: spherical, number gaussian = ', 699)
+Conf_matrix: 
+[6826 2578] [ 60923 123077]
+--------------------
+('Covar_type: spherical, number gaussian = ', 701)
+Conf_matrix: 
+[6801 2603] [ 52412 131588]
+--------------------
+('Covar_type: spherical, number gaussian = ', 703)
+Conf_matrix: 
+[6608 2796] [ 50691 133309]
+--------------------
+('Covar_type: spherical, number gaussian = ', 705)
+Conf_matrix: 
+[6924 2480] [ 53850 130150]
+--------------------
+('Covar_type: spherical, number gaussian = ', 707)
+Conf_matrix: 
+[6807 2597] [ 50612 133388]
+--------------------
+('Covar_type: spherical, number gaussian = ', 709)
+Conf_matrix: 
+[6806 2598] [ 49444 134556]
+--------------------
+('Covar_type: spherical, number gaussian = ', 711)
+Conf_matrix: 
+[7021 2383] [ 53835 130165]
+--------------------
+('Covar_type: spherical, number gaussian = ', 713)
+Conf_matrix: 
+[6977 2427] [ 53271 130729]
+--------------------
+('Covar_type: spherical, number gaussian = ', 715)
+Conf_matrix: 
+[7016 2388] [ 60234 123766]
+--------------------
+('Covar_type: spherical, number gaussian = ', 717)
+Conf_matrix: 
+[6879 2525] [ 53006 130994]
+--------------------
+('Covar_type: spherical, number gaussian = ', 719)
+Conf_matrix: 
+[7063 2341] [ 58088 125912]
+--------------------
+('Covar_type: spherical, number gaussian = ', 721)
+Conf_matrix: 
+[6669 2735] [ 49421 134579]
+--------------------
+('Covar_type: spherical, number gaussian = ', 723)
+Conf_matrix: 
+[6701 2703] [ 48285 135715]
+--------------------
+('Covar_type: spherical, number gaussian = ', 725)
+Conf_matrix: 
+[6561 2843] [ 48154 135846]
+--------------------
+('Covar_type: spherical, number gaussian = ', 727)
+Conf_matrix: 
+[6777 2627] [ 54580 129420]
+--------------------
+('Covar_type: spherical, number gaussian = ', 729)
+Conf_matrix: 
+[6918 2486] [ 57737 126263]
+--------------------
+('Covar_type: spherical, number gaussian = ', 731)
+Conf_matrix: 
+[6704 2700] [ 49669 134331]
+--------------------
+('Covar_type: spherical, number gaussian = ', 733)
+Conf_matrix: 
+[6874 2530] [ 50532 133468]
+--------------------
+('Covar_type: spherical, number gaussian = ', 735)
+Conf_matrix: 
+[6932 2472] [ 53351 130649]
+--------------------
+('Covar_type: spherical, number gaussian = ', 737)
+Conf_matrix: 
+[6786 2618] [ 49656 134344]
+--------------------
+('Covar_type: spherical, number gaussian = ', 739)
+Conf_matrix: 
+[6833 2571] [ 53723 130277]
+--------------------
+('Covar_type: spherical, number gaussian = ', 741)
+Conf_matrix: 
+[6787 2617] [ 50677 133323]
+--------------------
+('Covar_type: spherical, number gaussian = ', 743)
+Conf_matrix: 
+[6514 2890] [ 49456 134544]
+--------------------
+('Covar_type: spherical, number gaussian = ', 745)
+Conf_matrix: 
+[6734 2670] [ 51261 132739]
+--------------------
+('Covar_type: spherical, number gaussian = ', 747)
+Conf_matrix: 
+[6987 2417] [ 54489 129511]
+--------------------
+('Covar_type: spherical, number gaussian = ', 749)
+Conf_matrix: 
+[6455 2949] [ 47405 136595]
+--------------------
+('Covar_type: spherical, number gaussian = ', 751)
+Conf_matrix: 
+[6844 2560] [ 51939 132061]
+--------------------
+('Covar_type: spherical, number gaussian = ', 753)
+Conf_matrix: 
+[6618 2786] [ 56697 127303]
+--------------------
+('Covar_type: spherical, number gaussian = ', 755)
+Conf_matrix: 
+[6450 2954] [ 49369 134631]
+--------------------
+('Covar_type: spherical, number gaussian = ', 757)
+Conf_matrix: 
+[6929 2475] [ 50331 133669]
+--------------------
+('Covar_type: spherical, number gaussian = ', 759)
+Conf_matrix: 
+[7093 2311] [ 59611 124389]
+--------------------
+('Covar_type: spherical, number gaussian = ', 761)
+Conf_matrix: 
+[6583 2821] [ 53173 130827]
+--------------------
+('Covar_type: spherical, number gaussian = ', 763)
+Conf_matrix: 
+[6821 2583] [ 51356 132644]
+--------------------
+('Covar_type: spherical, number gaussian = ', 765)
+Conf_matrix: 
+[7047 2357] [ 51270 132730]
+--------------------
+('Covar_type: spherical, number gaussian = ', 767)
+Conf_matrix: 
+[6895 2509] [ 55529 128471]
+--------------------
+('Covar_type: spherical, number gaussian = ', 769)
+Conf_matrix: 
+[6808 2596] [ 52335 131665]
+--------------------
+('Covar_type: spherical, number gaussian = ', 771)
+Conf_matrix: 
+[6869 2535] [ 51519 132481]
+--------------------
+('Covar_type: spherical, number gaussian = ', 773)
+Conf_matrix: 
+[6741 2663] [ 54128 129872]
+--------------------
+('Covar_type: spherical, number gaussian = ', 775)
+Conf_matrix: 
+[6857 2547] [ 53788 130212]
+--------------------
+('Covar_type: spherical, number gaussian = ', 777)
+Conf_matrix: 
+[6706 2698] [ 49331 134669]
+--------------------
+('Covar_type: spherical, number gaussian = ', 779)
+Conf_matrix: 
+[7078 2326] [ 54399 129601]
+--------------------
+('Covar_type: spherical, number gaussian = ', 781)
+Conf_matrix: 
+[6345 3059] [ 47753 136247]
+--------------------
+('Covar_type: spherical, number gaussian = ', 783)
+Conf_matrix: 
+[6519 2885] [ 45557 138443]
+--------------------
+('Covar_type: spherical, number gaussian = ', 785)
+Conf_matrix: 
+[6596 2808] [ 48645 135355]
+--------------------
+('Covar_type: spherical, number gaussian = ', 787)
+Conf_matrix: 
+[6930 2474] [ 54792 129208]
+--------------------
+('Covar_type: spherical, number gaussian = ', 789)
+Conf_matrix: 
+[6687 2717] [ 55268 128732]
+--------------------
+('Covar_type: spherical, number gaussian = ', 791)
+Conf_matrix: 
+[6728 2676] [ 53005 130995]
+--------------------
+('Covar_type: spherical, number gaussian = ', 793)
+Conf_matrix: 
+[6785 2619] [ 53592 130408]
+--------------------
+('Covar_type: spherical, number gaussian = ', 795)
+Conf_matrix: 
+[6401 3003] [ 53749 130251]
+--------------------
+('Covar_type: spherical, number gaussian = ', 797)
+Conf_matrix: 
+[6695 2709] [ 54662 129338]
+--------------------
+('Covar_type: spherical, number gaussian = ', 799)
+Conf_matrix: 
+[7382 2022] [ 62892 121108]
+--------------------
+('Covar_type: spherical, number gaussian = ', 801)
+Conf_matrix: 
+[6609 2795] [ 51547 132453]
+--------------------
+('Covar_type: spherical, number gaussian = ', 803)
+Conf_matrix: 
+[6774 2630] [ 52855 131145]
+--------------------
+('Covar_type: spherical, number gaussian = ', 805)
+Conf_matrix: 
+[6505 2899] [ 46927 137073]
+--------------------
+('Covar_type: spherical, number gaussian = ', 807)
+Conf_matrix: 
+[6948 2456] [ 56029 127971]
+--------------------
+('Covar_type: spherical, number gaussian = ', 809)
+Conf_matrix: 
+[6835 2569] [ 50644 133356]
+--------------------
+('Covar_type: spherical, number gaussian = ', 811)
+Conf_matrix: 
+[6649 2755] [ 50905 133095]
+--------------------
+('Covar_type: spherical, number gaussian = ', 813)
+Conf_matrix: 
+[6976 2428] [ 51141 132859]
+--------------------
+('Covar_type: spherical, number gaussian = ', 815)
+Conf_matrix: 
+[7028 2376] [ 55943 128057]
+--------------------
+('Covar_type: spherical, number gaussian = ', 817)
+Conf_matrix: 
+[6795 2609] [ 49793 134207]
+--------------------
+('Covar_type: spherical, number gaussian = ', 819)
+Conf_matrix: 
+[6706 2698] [ 50284 133716]
+--------------------
+('Covar_type: spherical, number gaussian = ', 821)
+Conf_matrix: 
+[7137 2267] [ 59935 124065]
+--------------------
+('Covar_type: spherical, number gaussian = ', 823)
+Conf_matrix: 
+[6904 2500] [ 52220 131780]
+--------------------
+('Covar_type: spherical, number gaussian = ', 825)
+Conf_matrix: 
+[6567 2837] [ 49540 134460]
+--------------------
+('Covar_type: spherical, number gaussian = ', 827)
+Conf_matrix: 
+[6492 2912] [ 48440 135560]
+--------------------
+('Covar_type: spherical, number gaussian = ', 829)
+Conf_matrix: 
+[6955 2449] [ 53123 130877]
+--------------------
+('Covar_type: spherical, number gaussian = ', 831)
+Conf_matrix: 
+[6807 2597] [ 48570 135430]
+--------------------
+('Covar_type: spherical, number gaussian = ', 833)
+Conf_matrix: 
+[6891 2513] [ 50516 133484]
+--------------------
+('Covar_type: spherical, number gaussian = ', 835)
+Conf_matrix: 
+[6734 2670] [ 48233 135767]
+--------------------
+('Covar_type: spherical, number gaussian = ', 837)
+Conf_matrix: 
+[6679 2725] [ 49699 134301]
+--------------------
+('Covar_type: spherical, number gaussian = ', 839)
+Conf_matrix: 
+[6508 2896] [ 49834 134166]
+--------------------
+('Covar_type: spherical, number gaussian = ', 841)
+Conf_matrix: 
+[6859 2545] [ 54713 129287]
+--------------------
+('Covar_type: spherical, number gaussian = ', 843)
+Conf_matrix: 
+[6954 2450] [ 51433 132567]
+--------------------
+('Covar_type: spherical, number gaussian = ', 845)
+Conf_matrix: 
+[6519 2885] [ 50401 133599]
+--------------------
+('Covar_type: spherical, number gaussian = ', 847)
+Conf_matrix: 
+[6737 2667] [ 48198 135802]
+--------------------
+('Covar_type: spherical, number gaussian = ', 849)
+Conf_matrix: 
+[6652 2752] [ 48167 135833]
+--------------------
+('Covar_type: spherical, number gaussian = ', 851)
+Conf_matrix: 
+[6344 3060] [ 48189 135811]
+--------------------
+('Covar_type: spherical, number gaussian = ', 853)
+Conf_matrix: 
+[6920 2484] [ 54181 129819]
+--------------------
+('Covar_type: spherical, number gaussian = ', 855)
+Conf_matrix: 
+[6210 3194] [ 44068 139932]
+--------------------
+('Covar_type: spherical, number gaussian = ', 857)
+Conf_matrix: 
+[6593 2811] [ 48798 135202]
+--------------------
+('Covar_type: spherical, number gaussian = ', 859)
+Conf_matrix: 
+[6660 2744] [ 50225 133775]
+--------------------
+('Covar_type: spherical, number gaussian = ', 861)
+Conf_matrix: 
+[6845 2559] [ 53594 130406]
+--------------------
+('Covar_type: spherical, number gaussian = ', 863)
+Conf_matrix: 
+[6973 2431] [ 57884 126116]
+--------------------
+('Covar_type: spherical, number gaussian = ', 865)
+Conf_matrix: 
+[6924 2480] [ 55546 128454]
+--------------------
+('Covar_type: spherical, number gaussian = ', 867)
+Conf_matrix: 
+[7037 2367] [ 56021 127979]
+--------------------
+('Covar_type: spherical, number gaussian = ', 869)
+Conf_matrix: 
+[6843 2561] [ 56134 127866]
+--------------------
+('Covar_type: spherical, number gaussian = ', 871)
+Conf_matrix: 
+[7135 2269] [ 54804 129196]
+--------------------
+('Covar_type: spherical, number gaussian = ', 873)
+Conf_matrix: 
+[6637 2767] [ 48319 135681]
+--------------------
+('Covar_type: spherical, number gaussian = ', 875)
+Conf_matrix: 
+[6501 2903] [ 48566 135434]
+--------------------
+('Covar_type: spherical, number gaussian = ', 877)
+Conf_matrix: 
+[7109 2295] [ 53879 130121]
+--------------------
+('Covar_type: spherical, number gaussian = ', 879)
+Conf_matrix: 
+[6581 2823] [ 50315 133685]
+--------------------
+('Covar_type: spherical, number gaussian = ', 881)
+Conf_matrix: 
+[7010 2394] [ 56029 127971]
+--------------------
+('Covar_type: spherical, number gaussian = ', 883)
+Conf_matrix: 
+[6458 2946] [ 50813 133187]
+--------------------
+('Covar_type: spherical, number gaussian = ', 885)
+Conf_matrix: 
+[6520 2884] [ 47317 136683]
+--------------------
+('Covar_type: spherical, number gaussian = ', 887)
+Conf_matrix: 
+[6923 2481] [ 54424 129576]
+--------------------
+('Covar_type: spherical, number gaussian = ', 889)
+Conf_matrix: 
+[6360 3044] [ 47825 136175]
+--------------------
+('Covar_type: spherical, number gaussian = ', 891)
+Conf_matrix: 
+[7066 2338] [ 51503 132497]
+--------------------
+('Covar_type: spherical, number gaussian = ', 893)
+Conf_matrix: 
+[6937 2467] [ 55779 128221]
+--------------------
+('Covar_type: spherical, number gaussian = ', 895)
+Conf_matrix: 
+[6763 2641] [ 48783 135217]
+--------------------
+('Covar_type: spherical, number gaussian = ', 897)
+Conf_matrix: 
+[7119 2285] [ 49738 134262]
+--------------------
+('Covar_type: spherical, number gaussian = ', 899)
+Conf_matrix: 
+[6899 2505] [ 49196 134804]
+--------------------
+('Covar_type: spherical, number gaussian = ', 901)
+Conf_matrix: 
+[6495 2909] [ 51507 132493]
+--------------------
+('Covar_type: spherical, number gaussian = ', 903)
+Conf_matrix: 
+[6726 2678] [ 48468 135532]
+--------------------
+('Covar_type: spherical, number gaussian = ', 905)
+Conf_matrix: 
+[7007 2397] [ 54588 129412]
+--------------------
+('Covar_type: spherical, number gaussian = ', 907)
+Conf_matrix: 
+[6714 2690] [ 51802 132198]
+--------------------
+('Covar_type: spherical, number gaussian = ', 909)
+Conf_matrix: 
+[6769 2635] [ 47699 136301]
+--------------------
+('Covar_type: spherical, number gaussian = ', 911)
+Conf_matrix: 
+[6642 2762] [ 49707 134293]
+--------------------
+('Covar_type: spherical, number gaussian = ', 913)
+Conf_matrix: 
+[7154 2250] [ 56201 127799]
+--------------------
+('Covar_type: spherical, number gaussian = ', 915)
+Conf_matrix: 
+[6822 2582] [ 57081 126919]
+--------------------
+('Covar_type: spherical, number gaussian = ', 917)
+Conf_matrix: 
+[6866 2538] [ 54399 129601]
+--------------------
+('Covar_type: spherical, number gaussian = ', 919)
+Conf_matrix: 
+[6581 2823] [ 47103 136897]
+--------------------
+('Covar_type: spherical, number gaussian = ', 921)
+Conf_matrix: 
+[6732 2672] [ 51697 132303]
+--------------------
+('Covar_type: spherical, number gaussian = ', 923)
+Conf_matrix: 
+[6759 2645] [ 51912 132088]
+--------------------
+('Covar_type: spherical, number gaussian = ', 925)
+Conf_matrix: 
+[6817 2587] [ 49114 134886]
+--------------------
+('Covar_type: spherical, number gaussian = ', 927)
+Conf_matrix: 
+[6719 2685] [ 51407 132593]
+--------------------
+('Covar_type: spherical, number gaussian = ', 929)
+Conf_matrix: 
+[6467 2937] [ 44345 139655]
+--------------------
+('Covar_type: spherical, number gaussian = ', 931)
+Conf_matrix: 
+[7146 2258] [ 59806 124194]
+--------------------
+('Covar_type: spherical, number gaussian = ', 933)
+Conf_matrix: 
+[6477 2927] [ 47549 136451]
+--------------------
+('Covar_type: spherical, number gaussian = ', 935)
+Conf_matrix: 
+[7210 2194] [ 57098 126902]
+--------------------
+('Covar_type: spherical, number gaussian = ', 937)
+Conf_matrix: 
+[6528 2876] [ 48214 135786]
+--------------------
+('Covar_type: spherical, number gaussian = ', 939)
+Conf_matrix: 
+[6897 2507] [ 50072 133928]
+--------------------
+('Covar_type: spherical, number gaussian = ', 941)
+Conf_matrix: 
+[6376 3028] [ 46383 137617]
+--------------------
+('Covar_type: spherical, number gaussian = ', 943)
+Conf_matrix: 
+[6655 2749] [ 48822 135178]
+--------------------
+('Covar_type: spherical, number gaussian = ', 945)
+Conf_matrix: 
+[6624 2780] [ 51026 132974]
+--------------------
+('Covar_type: spherical, number gaussian = ', 947)
+Conf_matrix: 
+[6544 2860] [ 51580 132420]
+--------------------
+('Covar_type: spherical, number gaussian = ', 949)
+Conf_matrix: 
+[6952 2452] [ 52596 131404]
+--------------------
+('Covar_type: spherical, number gaussian = ', 951)
+Conf_matrix: 
+[6487 2917] [ 53185 130815]
+--------------------
+('Covar_type: spherical, number gaussian = ', 953)
+Conf_matrix: 
+[6824 2580] [ 48866 135134]
+--------------------
+('Covar_type: spherical, number gaussian = ', 955)
+Conf_matrix: 
+[6795 2609] [ 51651 132349]
+--------------------
+('Covar_type: spherical, number gaussian = ', 957)
+Conf_matrix: 
+[6706 2698] [ 53544 130456]
+--------------------
+('Covar_type: spherical, number gaussian = ', 959)
+Conf_matrix: 
+[6645 2759] [ 51900 132100]
+--------------------
+('Covar_type: spherical, number gaussian = ', 961)
+Conf_matrix: 
+[6833 2571] [ 51312 132688]
+--------------------
+('Covar_type: spherical, number gaussian = ', 963)
+Conf_matrix: 
+[7070 2334] [ 55485 128515]
+--------------------
+('Covar_type: spherical, number gaussian = ', 965)
+Conf_matrix: 
+[6555 2849] [ 50586 133414]
+--------------------
+('Covar_type: spherical, number gaussian = ', 967)
+Conf_matrix: 
+[6402 3002] [ 48781 135219]
+--------------------
+('Covar_type: spherical, number gaussian = ', 969)
+Conf_matrix: 
+[6520 2884] [ 51064 132936]
+--------------------
+('Covar_type: spherical, number gaussian = ', 971)
+Conf_matrix: 
+[6743 2661] [ 46375 137625]
+--------------------
+('Covar_type: spherical, number gaussian = ', 973)
+Conf_matrix: 
+[5894 3510] [ 41771 142229]
+--------------------
+('Covar_type: spherical, number gaussian = ', 975)
+Conf_matrix: 
+[7002 2402] [ 53319 130681]
+--------------------
+('Covar_type: spherical, number gaussian = ', 977)
+Conf_matrix: 
+[6721 2683] [ 50010 133990]
+--------------------
+('Covar_type: spherical, number gaussian = ', 979)
+Conf_matrix: 
+[6852 2552] [ 52442 131558]
+--------------------
+('Covar_type: spherical, number gaussian = ', 981)
+Conf_matrix: 
+[6895 2509] [ 53856 130144]
+--------------------
+('Covar_type: spherical, number gaussian = ', 983)
+Conf_matrix: 
+[6565 2839] [ 47284 136716]
+--------------------
+('Covar_type: spherical, number gaussian = ', 985)
+Conf_matrix: 
+[7147 2257] [ 54664 129336]
+--------------------
+('Covar_type: spherical, number gaussian = ', 987)
+Conf_matrix: 
+[7027 2377] [ 51590 132410]
+--------------------
+('Covar_type: spherical, number gaussian = ', 989)
+Conf_matrix: 
+[6517 2887] [ 49865 134135]
+--------------------
+('Covar_type: spherical, number gaussian = ', 991)
+Conf_matrix: 
+[6334 3070] [ 46683 137317]
+--------------------
+('Covar_type: spherical, number gaussian = ', 993)
+Conf_matrix: 
+[6779 2625] [ 49204 134796]
+--------------------
+('Covar_type: spherical, number gaussian = ', 995)
+Conf_matrix: 
+[6770 2634] [ 51008 132992]
+--------------------
+('Covar_type: spherical, number gaussian = ', 997)
+Conf_matrix: 
+[6645 2759] [ 50334 133666]
+--------------------
+('Covar_type: spherical, number gaussian = ', 999)
+Conf_matrix: 
+[6683 2721] [ 51045 132955]
+--------------------
+('Covar_type: spherical, number gaussian = ', 1001)
+Conf_matrix: 
+[6397 3007] [ 45366 138634]
+--------------------
+('Covar_type: spherical, number gaussian = ', 1003)
+Conf_matrix: 
+[6718 2686] [ 46099 137901]
+--------------------
+('Covar_type: spherical, number gaussian = ', 1005)
+Conf_matrix: 
+[6321 3083] [ 52933 131067]
+--------------------
+('Covar_type: spherical, number gaussian = ', 1007)
+Conf_matrix: 
+[6845 2559] [ 55113 128887]
+--------------------
+('Covar_type: spherical, number gaussian = ', 1009)
+Conf_matrix: 
+[6604 2800] [ 49822 134178]
+--------------------
+('Covar_type: spherical, number gaussian = ', 1011)
+Conf_matrix: 
+[6682 2722] [ 50341 133659]
+--------------------
+('Covar_type: spherical, number gaussian = ', 1013)
+Conf_matrix: 
+[6725 2679] [ 47873 136127]
+--------------------
+('Covar_type: spherical, number gaussian = ', 1015)
+Conf_matrix: 
+[6507 2897] [ 48145 135855]
+--------------------
+('Covar_type: spherical, number gaussian = ', 1017)
+Conf_matrix: 
+[6576 2828] [ 47420 136580]
+--------------------
+('Covar_type: spherical, number gaussian = ', 1019)
+Conf_matrix: 
+[6943 2461] [ 51969 132031]
+--------------------
+('Covar_type: spherical, number gaussian = ', 1021)
+Conf_matrix: 
+[6543 2861] [ 50084 133916]
+--------------------
+('Covar_type: spherical, number gaussian = ', 1023)
+Conf_matrix: 
+[6588 2816] [ 49090 134910]

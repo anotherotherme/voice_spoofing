@@ -1,0 +1,1025 @@
+
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 1) Train accuracy: 76.0
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 3) Train accuracy: 72.7
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 5) Train accuracy: 69.4
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 7) Train accuracy: 66.4
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 9) Train accuracy: 63.9
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 11) Train accuracy: 62.3
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 13) Train accuracy: 59.6
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 15) Train accuracy: 60.7
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 17) Train accuracy: 60.5
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 19) Train accuracy: 59.2
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 21) Train accuracy: 60.9
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 23) Train accuracy: 55.0
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 25) Train accuracy: 57.5
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 27) Train accuracy: 55.0
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 29) Train accuracy: 56.2
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 31) Train accuracy: 52.0
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 33) Train accuracy: 52.8
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 35) Train accuracy: 49.5
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 37) Train accuracy: 53.5
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 39) Train accuracy: 50.4
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 41) Train accuracy: 49.2
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 43) Train accuracy: 49.9
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 45) Train accuracy: 48.1
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 47) Train accuracy: 50.0
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 49) Train accuracy: 48.4
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 51) Train accuracy: 47.4
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 53) Train accuracy: 48.0
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 55) Train accuracy: 46.8
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 57) Train accuracy: 47.0
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 59) Train accuracy: 45.3
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 61) Train accuracy: 46.3
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 63) Train accuracy: 43.8
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 65) Train accuracy: 45.0
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 67) Train accuracy: 43.3
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 69) Train accuracy: 44.3
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 71) Train accuracy: 41.6
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 73) Train accuracy: 43.2
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 75) Train accuracy: 42.7
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 77) Train accuracy: 43.3
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 79) Train accuracy: 40.8
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 81) Train accuracy: 41.7
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 83) Train accuracy: 42.8
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 85) Train accuracy: 39.7
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 87) Train accuracy: 40.2
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 89) Train accuracy: 40.4
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 91) Train accuracy: 41.7
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 93) Train accuracy: 39.5
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 95) Train accuracy: 40.2
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 97) Train accuracy: 39.5
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 99) Train accuracy: 40.1
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 101) Train accuracy: 41.6
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 103) Train accuracy: 39.1
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 105) Train accuracy: 39.6
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 107) Train accuracy: 38.9
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 109) Train accuracy: 39.6
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 111) Train accuracy: 38.0
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 113) Train accuracy: 39.8
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 115) Train accuracy: 39.7
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 117) Train accuracy: 37.6
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 119) Train accuracy: 39.6
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 121) Train accuracy: 38.1
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 123) Train accuracy: 39.0
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 125) Train accuracy: 38.4
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 127) Train accuracy: 37.4
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 129) Train accuracy: 38.3
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 131) Train accuracy: 38.3
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 133) Train accuracy: 37.0
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 135) Train accuracy: 37.3
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 137) Train accuracy: 39.0
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 139) Train accuracy: 37.7
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 141) Train accuracy: 37.9
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 143) Train accuracy: 37.3
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 145) Train accuracy: 37.8
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 147) Train accuracy: 36.4
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 149) Train accuracy: 37.2
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 151) Train accuracy: 37.6
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 153) Train accuracy: 37.5
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 155) Train accuracy: 37.1
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 157) Train accuracy: 37.6
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 159) Train accuracy: 36.8
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 161) Train accuracy: 36.7
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 163) Train accuracy: 35.6
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 165) Train accuracy: 36.6
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 167) Train accuracy: 37.7
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 169) Train accuracy: 36.8
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 171) Train accuracy: 37.7
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 173) Train accuracy: 35.6
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 175) Train accuracy: 36.5
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 177) Train accuracy: 37.5
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 179) Train accuracy: 37.5
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 181) Train accuracy: 37.1
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 183) Train accuracy: 36.3
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 185) Train accuracy: 36.1
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 187) Train accuracy: 36.5
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 189) Train accuracy: 36.2
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 191) Train accuracy: 36.8
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 193) Train accuracy: 36.4
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 195) Train accuracy: 35.7
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 197) Train accuracy: 35.0
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 199) Train accuracy: 37.1
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 201) Train accuracy: 35.4
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 203) Train accuracy: 37.1
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 205) Train accuracy: 35.8
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 207) Train accuracy: 37.1
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 209) Train accuracy: 35.2
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 211) Train accuracy: 35.5
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 213) Train accuracy: 36.0
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 215) Train accuracy: 36.2
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 217) Train accuracy: 35.9
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 219) Train accuracy: 35.9
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 221) Train accuracy: 36.3
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 223) Train accuracy: 36.3
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 225) Train accuracy: 36.0
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 227) Train accuracy: 36.6
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 229) Train accuracy: 35.9
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 231) Train accuracy: 35.9
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 233) Train accuracy: 36.6
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 235) Train accuracy: 36.2
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 237) Train accuracy: 34.8
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 239) Train accuracy: 35.5
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 241) Train accuracy: 35.5
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 243) Train accuracy: 36.1
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 245) Train accuracy: 36.4
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 247) Train accuracy: 35.1
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 249) Train accuracy: 34.4
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 251) Train accuracy: 36.4
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 253) Train accuracy: 35.7
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 255) Train accuracy: 35.4
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 257) Train accuracy: 35.0
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 259) Train accuracy: 35.6
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 261) Train accuracy: 35.6
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 263) Train accuracy: 35.7
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 265) Train accuracy: 35.7
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 267) Train accuracy: 35.4
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 269) Train accuracy: 35.3
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 271) Train accuracy: 35.2
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 273) Train accuracy: 35.1
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 275) Train accuracy: 35.1
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 277) Train accuracy: 35.9
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 279) Train accuracy: 35.6
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 281) Train accuracy: 35.1
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 283) Train accuracy: 36.3
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 285) Train accuracy: 35.2
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 287) Train accuracy: 34.8
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 289) Train accuracy: 36.0
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 291) Train accuracy: 34.4
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 293) Train accuracy: 34.3
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 295) Train accuracy: 34.0
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 297) Train accuracy: 33.9
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 299) Train accuracy: 34.8
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 301) Train accuracy: 34.0
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 303) Train accuracy: 35.2
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 305) Train accuracy: 36.1
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 307) Train accuracy: 35.0
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 309) Train accuracy: 35.0
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 311) Train accuracy: 34.3
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 313) Train accuracy: 33.3
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 315) Train accuracy: 34.8
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 317) Train accuracy: 34.5
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 319) Train accuracy: 34.5
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 321) Train accuracy: 34.6
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 323) Train accuracy: 34.9
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 325) Train accuracy: 35.3
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 327) Train accuracy: 34.3
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 329) Train accuracy: 34.2
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 331) Train accuracy: 34.0
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 333) Train accuracy: 34.2
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 335) Train accuracy: 33.7
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 337) Train accuracy: 33.7
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 339) Train accuracy: 34.2
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 341) Train accuracy: 34.4
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 343) Train accuracy: 34.9
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 345) Train accuracy: 33.8
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 347) Train accuracy: 33.5
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 349) Train accuracy: 34.3
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 351) Train accuracy: 34.8
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 353) Train accuracy: 34.7
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 355) Train accuracy: 34.5
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 357) Train accuracy: 33.3
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 359) Train accuracy: 34.5
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 361) Train accuracy: 34.0
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 363) Train accuracy: 34.2
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 365) Train accuracy: 32.9
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 367) Train accuracy: 33.5
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 369) Train accuracy: 33.8
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 371) Train accuracy: 34.7
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 373) Train accuracy: 34.0
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 375) Train accuracy: 33.9
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 377) Train accuracy: 33.8
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 379) Train accuracy: 33.9
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 381) Train accuracy: 34.6
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 383) Train accuracy: 34.1
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 385) Train accuracy: 34.0
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 387) Train accuracy: 33.1
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 389) Train accuracy: 33.5
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 391) Train accuracy: 35.0
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 393) Train accuracy: 33.2
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 395) Train accuracy: 34.3
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 397) Train accuracy: 33.6
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 399) Train accuracy: 33.8
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 401) Train accuracy: 33.8
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 403) Train accuracy: 34.6
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 405) Train accuracy: 33.5
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 407) Train accuracy: 34.3
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 409) Train accuracy: 33.6
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 411) Train accuracy: 33.0
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 413) Train accuracy: 32.8
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 415) Train accuracy: 33.4
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 417) Train accuracy: 33.4
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 419) Train accuracy: 34.0
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 421) Train accuracy: 33.1
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 423) Train accuracy: 33.9
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 425) Train accuracy: 33.5
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 427) Train accuracy: 33.4
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 429) Train accuracy: 33.8
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 431) Train accuracy: 33.9
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 433) Train accuracy: 33.8
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 435) Train accuracy: 34.4
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 437) Train accuracy: 33.6
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 439) Train accuracy: 33.9
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 441) Train accuracy: 32.6
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 443) Train accuracy: 33.4
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 445) Train accuracy: 33.1
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 447) Train accuracy: 32.9
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 449) Train accuracy: 34.0
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 451) Train accuracy: 33.0
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 453) Train accuracy: 33.1
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 455) Train accuracy: 33.4
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 457) Train accuracy: 33.3
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 459) Train accuracy: 33.9
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 461) Train accuracy: 33.8
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 463) Train accuracy: 32.9
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 465) Train accuracy: 33.2
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 467) Train accuracy: 33.5
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 469) Train accuracy: 32.7
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 471) Train accuracy: 31.7
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 473) Train accuracy: 33.3
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 475) Train accuracy: 32.8
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 477) Train accuracy: 32.1
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 479) Train accuracy: 32.8
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 481) Train accuracy: 32.6
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 483) Train accuracy: 33.2
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 485) Train accuracy: 33.2
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 487) Train accuracy: 32.2
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 489) Train accuracy: 33.0
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 491) Train accuracy: 32.7
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 493) Train accuracy: 33.6
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 495) Train accuracy: 34.4
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 497) Train accuracy: 32.9
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 499) Train accuracy: 33.8
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 501) Train accuracy: 33.0
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 503) Train accuracy: 34.0
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 505) Train accuracy: 32.7
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 507) Train accuracy: 33.9
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 509) Train accuracy: 33.9
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 511) Train accuracy: 33.4
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 513) Train accuracy: 33.5
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 515) Train accuracy: 32.5
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 517) Train accuracy: 33.5
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 519) Train accuracy: 33.6
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 521) Train accuracy: 33.1
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 523) Train accuracy: 32.2
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 525) Train accuracy: 33.6
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 527) Train accuracy: 32.8
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 529) Train accuracy: 32.6
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 531) Train accuracy: 33.0
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 533) Train accuracy: 32.7
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 535) Train accuracy: 33.7
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 537) Train accuracy: 32.8
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 539) Train accuracy: 33.5
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 541) Train accuracy: 33.0
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 543) Train accuracy: 32.7
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 545) Train accuracy: 33.6
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 547) Train accuracy: 32.9
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 549) Train accuracy: 32.9
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 551) Train accuracy: 33.2
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 553) Train accuracy: 33.7
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 555) Train accuracy: 33.3
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 557) Train accuracy: 33.3
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 559) Train accuracy: 33.2
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 561) Train accuracy: 32.7
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 563) Train accuracy: 33.1
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 565) Train accuracy: 33.1
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 567) Train accuracy: 32.5
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 569) Train accuracy: 33.1
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 571) Train accuracy: 32.5
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 573) Train accuracy: 32.9
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 575) Train accuracy: 32.6
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 577) Train accuracy: 32.8
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 579) Train accuracy: 32.9
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 581) Train accuracy: 33.4
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 583) Train accuracy: 32.7
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 585) Train accuracy: 33.1
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 587) Train accuracy: 32.5
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 589) Train accuracy: 32.7
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 591) Train accuracy: 33.0
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 593) Train accuracy: 33.1
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 595) Train accuracy: 33.3
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 597) Train accuracy: 33.0
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 599) Train accuracy: 32.8
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 601) Train accuracy: 33.0
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 603) Train accuracy: 33.3
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 605) Train accuracy: 33.3
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 607) Train accuracy: 33.8
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 609) Train accuracy: 31.9
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 611) Train accuracy: 33.3
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 613) Train accuracy: 32.8
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 615) Train accuracy: 32.4
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 617) Train accuracy: 33.0
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 619) Train accuracy: 33.3
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 621) Train accuracy: 33.1
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 623) Train accuracy: 33.6
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 625) Train accuracy: 32.6
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 627) Train accuracy: 33.6
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 629) Train accuracy: 33.3
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 631) Train accuracy: 32.5
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 633) Train accuracy: 32.9
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 635) Train accuracy: 33.0
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 637) Train accuracy: 32.6
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 639) Train accuracy: 33.7
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 641) Train accuracy: 32.6
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 643) Train accuracy: 33.5
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 645) Train accuracy: 32.9
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 647) Train accuracy: 33.9
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 649) Train accuracy: 33.1
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 651) Train accuracy: 33.4
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 653) Train accuracy: 33.4
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 655) Train accuracy: 33.5
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 657) Train accuracy: 33.1
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 659) Train accuracy: 33.3
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 661) Train accuracy: 32.7
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 663) Train accuracy: 33.5
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 665) Train accuracy: 34.1
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 667) Train accuracy: 34.0
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 669) Train accuracy: 33.5
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 671) Train accuracy: 33.2
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 673) Train accuracy: 33.3
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 675) Train accuracy: 33.2
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 677) Train accuracy: 34.2
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 679) Train accuracy: 33.6
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 681) Train accuracy: 34.2
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 683) Train accuracy: 33.8
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 685) Train accuracy: 33.0
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 687) Train accuracy: 33.1
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 689) Train accuracy: 33.7
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 691) Train accuracy: 35.1
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 693) Train accuracy: 33.1
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 695) Train accuracy: 33.3
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 697) Train accuracy: 34.2
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 699) Train accuracy: 31.9
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 701) Train accuracy: 33.5
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 703) Train accuracy: 33.3
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 705) Train accuracy: 32.9
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 707) Train accuracy: 33.1
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 709) Train accuracy: 33.1
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 711) Train accuracy: 34.0
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 713) Train accuracy: 33.3
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 715) Train accuracy: 32.3
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 717) Train accuracy: 33.2
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 719) Train accuracy: 33.8
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 721) Train accuracy: 34.2
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 723) Train accuracy: 33.3
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 725) Train accuracy: 32.3
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 727) Train accuracy: 33.8
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 729) Train accuracy: 32.7
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 731) Train accuracy: 33.5
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 733) Train accuracy: 33.4
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 735) Train accuracy: 33.4
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 737) Train accuracy: 34.6
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 739) Train accuracy: 33.3
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 741) Train accuracy: 33.0
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 743) Train accuracy: 32.8
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 745) Train accuracy: 33.8
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 747) Train accuracy: 33.6
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 749) Train accuracy: 34.3
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 751) Train accuracy: 33.6
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 753) Train accuracy: 33.6
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 755) Train accuracy: 33.6
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 757) Train accuracy: 34.4
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 759) Train accuracy: 33.6
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 761) Train accuracy: 34.0
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 763) Train accuracy: 33.3
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 765) Train accuracy: 34.3
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 767) Train accuracy: 34.3
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 769) Train accuracy: 33.2
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 771) Train accuracy: 33.3
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 773) Train accuracy: 34.1
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 775) Train accuracy: 34.1
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 777) Train accuracy: 33.9
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 779) Train accuracy: 33.6
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 781) Train accuracy: 33.9
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 783) Train accuracy: 33.3
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 785) Train accuracy: 33.5
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 787) Train accuracy: 34.2
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 789) Train accuracy: 32.8
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 791) Train accuracy: 34.3
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 793) Train accuracy: 34.2
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 795) Train accuracy: 33.6
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 797) Train accuracy: 33.6
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 799) Train accuracy: 34.4
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 801) Train accuracy: 33.9
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 803) Train accuracy: 32.8
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 805) Train accuracy: 34.5
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 807) Train accuracy: 34.5
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 809) Train accuracy: 34.3
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 811) Train accuracy: 33.7
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 813) Train accuracy: 34.3
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 815) Train accuracy: 33.6
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 817) Train accuracy: 33.8
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 819) Train accuracy: 34.2
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 821) Train accuracy: 35.3
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 823) Train accuracy: 34.5
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 825) Train accuracy: 33.4
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 827) Train accuracy: 34.1
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 829) Train accuracy: 34.6
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 831) Train accuracy: 33.4
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 833) Train accuracy: 34.6
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 835) Train accuracy: 34.2
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 837) Train accuracy: 33.8
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 839) Train accuracy: 34.3
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 841) Train accuracy: 34.4
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 843) Train accuracy: 34.6
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 845) Train accuracy: 34.3
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 847) Train accuracy: 34.4
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 849) Train accuracy: 35.0
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 851) Train accuracy: 34.9
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 853) Train accuracy: 34.2
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 855) Train accuracy: 34.5
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 857) Train accuracy: 34.6
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 859) Train accuracy: 34.6
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 861) Train accuracy: 34.9
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 863) Train accuracy: 35.3
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 865) Train accuracy: 33.6
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 867) Train accuracy: 34.8
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 869) Train accuracy: 34.6
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 871) Train accuracy: 34.9
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 873) Train accuracy: 34.9
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 875) Train accuracy: 33.8
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 877) Train accuracy: 35.1
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 879) Train accuracy: 34.5
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 881) Train accuracy: 34.8
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 883) Train accuracy: 35.5
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 885) Train accuracy: 33.5
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 887) Train accuracy: 34.0
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 889) Train accuracy: 34.5
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 891) Train accuracy: 34.5
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 893) Train accuracy: 34.6
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 895) Train accuracy: 35.5
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 897) Train accuracy: 35.9
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 899) Train accuracy: 34.6
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 901) Train accuracy: 34.2
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 903) Train accuracy: 34.9
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 905) Train accuracy: 35.2
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 907) Train accuracy: 34.6
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 909) Train accuracy: 34.9
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 911) Train accuracy: 34.2
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 913) Train accuracy: 36.2
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 915) Train accuracy: 34.3
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 917) Train accuracy: 34.9
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 919) Train accuracy: 35.0
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 921) Train accuracy: 34.8
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 923) Train accuracy: 35.6
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 925) Train accuracy: 34.9
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 927) Train accuracy: 34.9
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 929) Train accuracy: 34.4
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 931) Train accuracy: 35.3
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 933) Train accuracy: 35.4
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 935) Train accuracy: 35.7
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 937) Train accuracy: 35.1
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 939) Train accuracy: 35.4
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 941) Train accuracy: 35.0
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 943) Train accuracy: 36.0
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 945) Train accuracy: 35.1
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 947) Train accuracy: 35.8
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 949) Train accuracy: 34.5
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 951) Train accuracy: 35.3
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 953) Train accuracy: 35.4
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 955) Train accuracy: 35.9
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 957) Train accuracy: 36.1
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 959) Train accuracy: 35.8
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 961) Train accuracy: 35.8
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 963) Train accuracy: 34.9
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 965) Train accuracy: 36.0
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 967) Train accuracy: 34.9
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 969) Train accuracy: 36.0
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 971) Train accuracy: 36.1
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 973) Train accuracy: 36.6
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 975) Train accuracy: 36.6
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 977) Train accuracy: 35.9
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 979) Train accuracy: 36.7
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 981) Train accuracy: 35.9
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 983) Train accuracy: 37.6
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 985) Train accuracy: 35.6
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 987) Train accuracy: 36.1
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 989) Train accuracy: 36.5
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 991) Train accuracy: 35.3
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 993) Train accuracy: 36.3
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 995) Train accuracy: 36.4
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 997) Train accuracy: 36.9
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 999) Train accuracy: 35.1
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 1001) Train accuracy: 36.6
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 1003) Train accuracy: 36.4
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 1005) Train accuracy: 35.5
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 1007) Train accuracy: 36.6
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 1009) Train accuracy: 35.9
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 1011) Train accuracy: 37.4
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 1013) Train accuracy: 36.7
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 1015) Train accuracy: 35.7
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 1017) Train accuracy: 36.3
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 1019) Train accuracy: 36.5
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 1021) Train accuracy: 36.2
+--------------------
+('Covar_type: ', 'tied', ', number gaussian', 1023) Train accuracy: 37.0

@@ -1,0 +1,2049 @@
+
+--------------------
+('Covar_type: diag, number gaussian = ', 1)
+Conf_matrix: 
+[7909 1495] [ 55446 128554]
+--------------------
+('Covar_type: diag, number gaussian = ', 3)
+Conf_matrix: 
+[8153 1251] [ 57905 126095]
+--------------------
+('Covar_type: diag, number gaussian = ', 5)
+Conf_matrix: 
+[8165 1239] [ 58215 125785]
+--------------------
+('Covar_type: diag, number gaussian = ', 7)
+Conf_matrix: 
+[8225 1179] [ 61638 122362]
+--------------------
+('Covar_type: diag, number gaussian = ', 9)
+Conf_matrix: 
+[8225 1179] [ 63957 120043]
+--------------------
+('Covar_type: diag, number gaussian = ', 11)
+Conf_matrix: 
+[8165 1239] [ 60027 123973]
+--------------------
+('Covar_type: diag, number gaussian = ', 13)
+Conf_matrix: 
+[7801 1603] [ 58217 125783]
+--------------------
+('Covar_type: diag, number gaussian = ', 15)
+Conf_matrix: 
+[8276 1128] [ 65497 118503]
+--------------------
+('Covar_type: diag, number gaussian = ', 17)
+Conf_matrix: 
+[8151 1253] [ 55380 128620]
+--------------------
+('Covar_type: diag, number gaussian = ', 19)
+Conf_matrix: 
+[8173 1231] [ 59008 124992]
+--------------------
+('Covar_type: diag, number gaussian = ', 21)
+Conf_matrix: 
+[7868 1536] [ 53376 130624]
+--------------------
+('Covar_type: diag, number gaussian = ', 23)
+Conf_matrix: 
+[7945 1459] [ 53915 130085]
+--------------------
+('Covar_type: diag, number gaussian = ', 25)
+Conf_matrix: 
+[7614 1790] [ 49965 134035]
+--------------------
+('Covar_type: diag, number gaussian = ', 27)
+Conf_matrix: 
+[7712 1692] [ 57282 126718]
+--------------------
+('Covar_type: diag, number gaussian = ', 29)
+Conf_matrix: 
+[7744 1660] [ 55117 128883]
+--------------------
+('Covar_type: diag, number gaussian = ', 31)
+Conf_matrix: 
+[7433 1971] [ 55176 128824]
+--------------------
+('Covar_type: diag, number gaussian = ', 33)
+Conf_matrix: 
+[7759 1645] [ 61561 122439]
+--------------------
+('Covar_type: diag, number gaussian = ', 35)
+Conf_matrix: 
+[7849 1555] [85198 98802]
+--------------------
+('Covar_type: diag, number gaussian = ', 37)
+Conf_matrix: 
+[7688 1716] [ 61882 122118]
+--------------------
+('Covar_type: diag, number gaussian = ', 39)
+Conf_matrix: 
+[7417 1987] [ 62031 121969]
+--------------------
+('Covar_type: diag, number gaussian = ', 41)
+Conf_matrix: 
+[7643 1761] [ 68467 115533]
+--------------------
+('Covar_type: diag, number gaussian = ', 43)
+Conf_matrix: 
+[7884 1520] [92274 91726]
+--------------------
+('Covar_type: diag, number gaussian = ', 45)
+Conf_matrix: 
+[7738 1666] [ 67040 116960]
+--------------------
+('Covar_type: diag, number gaussian = ', 47)
+Conf_matrix: 
+[7874 1530] [ 73184 110816]
+--------------------
+('Covar_type: diag, number gaussian = ', 49)
+Conf_matrix: 
+[7968 1436] [ 67347 116653]
+--------------------
+('Covar_type: diag, number gaussian = ', 51)
+Conf_matrix: 
+[7632 1772] [ 70018 113982]
+--------------------
+('Covar_type: diag, number gaussian = ', 53)
+Conf_matrix: 
+[7993 1411] [ 79221 104779]
+--------------------
+('Covar_type: diag, number gaussian = ', 55)
+Conf_matrix: 
+[7765 1639] [ 63418 120582]
+--------------------
+('Covar_type: diag, number gaussian = ', 57)
+Conf_matrix: 
+[8056 1348] [ 79037 104963]
+--------------------
+('Covar_type: diag, number gaussian = ', 59)
+Conf_matrix: 
+[7968 1436] [ 83863 100137]
+--------------------
+('Covar_type: diag, number gaussian = ', 61)
+Conf_matrix: 
+[7835 1569] [ 58475 125525]
+--------------------
+('Covar_type: diag, number gaussian = ', 63)
+Conf_matrix: 
+[8027 1377] [88824 95176]
+--------------------
+('Covar_type: diag, number gaussian = ', 65)
+Conf_matrix: 
+[7931 1473] [ 70648 113352]
+--------------------
+('Covar_type: diag, number gaussian = ', 67)
+Conf_matrix: 
+[8022 1382] [ 76074 107926]
+--------------------
+('Covar_type: diag, number gaussian = ', 69)
+Conf_matrix: 
+[7931 1473] [ 81805 102195]
+--------------------
+('Covar_type: diag, number gaussian = ', 71)
+Conf_matrix: 
+[8102 1302] [ 68096 115904]
+--------------------
+('Covar_type: diag, number gaussian = ', 73)
+Conf_matrix: 
+[8022 1382] [ 72090 111910]
+--------------------
+('Covar_type: diag, number gaussian = ', 75)
+Conf_matrix: 
+[8055 1349] [ 69522 114478]
+--------------------
+('Covar_type: diag, number gaussian = ', 77)
+Conf_matrix: 
+[8124 1280] [ 73626 110374]
+--------------------
+('Covar_type: diag, number gaussian = ', 79)
+Conf_matrix: 
+[8032 1372] [ 79492 104508]
+--------------------
+('Covar_type: diag, number gaussian = ', 81)
+Conf_matrix: 
+[8020 1384] [ 75703 108297]
+--------------------
+('Covar_type: diag, number gaussian = ', 83)
+Conf_matrix: 
+[8017 1387] [91446 92554]
+--------------------
+('Covar_type: diag, number gaussian = ', 85)
+Conf_matrix: 
+[7971 1433] [ 77031 106969]
+--------------------
+('Covar_type: diag, number gaussian = ', 87)
+Conf_matrix: 
+[8030 1374] [ 72349 111651]
+--------------------
+('Covar_type: diag, number gaussian = ', 89)
+Conf_matrix: 
+[8197 1207] [ 78646 105354]
+--------------------
+('Covar_type: diag, number gaussian = ', 91)
+Conf_matrix: 
+[8139 1265] [ 82326 101674]
+--------------------
+('Covar_type: diag, number gaussian = ', 93)
+Conf_matrix: 
+[8171 1233] [ 81956 102044]
+--------------------
+('Covar_type: diag, number gaussian = ', 95)
+Conf_matrix: 
+[8118 1286] [ 76594 107406]
+--------------------
+('Covar_type: diag, number gaussian = ', 97)
+Conf_matrix: 
+[8073 1331] [ 81774 102226]
+--------------------
+('Covar_type: diag, number gaussian = ', 99)
+Conf_matrix: 
+[8141 1263] [84987 99013]
+--------------------
+('Covar_type: diag, number gaussian = ', 101)
+Conf_matrix: 
+[8100 1304] [ 76654 107346]
+--------------------
+('Covar_type: diag, number gaussian = ', 103)
+Conf_matrix: 
+[7974 1430] [ 78965 105035]
+--------------------
+('Covar_type: diag, number gaussian = ', 105)
+Conf_matrix: 
+[8047 1357] [ 83968 100032]
+--------------------
+('Covar_type: diag, number gaussian = ', 107)
+Conf_matrix: 
+[8087 1317] [ 78870 105130]
+--------------------
+('Covar_type: diag, number gaussian = ', 109)
+Conf_matrix: 
+[7676 1728] [86062 97938]
+--------------------
+('Covar_type: diag, number gaussian = ', 111)
+Conf_matrix: 
+[8032 1372] [84385 99615]
+--------------------
+('Covar_type: diag, number gaussian = ', 113)
+Conf_matrix: 
+[8053 1351] [ 78476 105524]
+--------------------
+('Covar_type: diag, number gaussian = ', 115)
+Conf_matrix: 
+[8162 1242] [84481 99519]
+--------------------
+('Covar_type: diag, number gaussian = ', 117)
+Conf_matrix: 
+[8026 1378] [ 77315 106685]
+--------------------
+('Covar_type: diag, number gaussian = ', 119)
+Conf_matrix: 
+[8155 1249] [92114 91886]
+--------------------
+('Covar_type: diag, number gaussian = ', 121)
+Conf_matrix: 
+[8110 1294] [86881 97119]
+--------------------
+('Covar_type: diag, number gaussian = ', 123)
+Conf_matrix: 
+[8072 1332] [88405 95595]
+--------------------
+('Covar_type: diag, number gaussian = ', 125)
+Conf_matrix: 
+[7900 1504] [ 80830 103170]
+--------------------
+('Covar_type: diag, number gaussian = ', 127)
+Conf_matrix: 
+[8109 1295] [ 81021 102979]
+--------------------
+('Covar_type: diag, number gaussian = ', 129)
+Conf_matrix: 
+[7610 1794] [ 73975 110025]
+--------------------
+('Covar_type: diag, number gaussian = ', 131)
+Conf_matrix: 
+[8132 1272] [97150 86850]
+--------------------
+('Covar_type: diag, number gaussian = ', 133)
+Conf_matrix: 
+[8096 1308] [85784 98216]
+--------------------
+('Covar_type: diag, number gaussian = ', 135)
+Conf_matrix: 
+[8154 1250] [ 83149 100851]
+--------------------
+('Covar_type: diag, number gaussian = ', 137)
+Conf_matrix: 
+[8061 1343] [85435 98565]
+--------------------
+('Covar_type: diag, number gaussian = ', 139)
+Conf_matrix: 
+[8163 1241] [92100 91900]
+--------------------
+('Covar_type: diag, number gaussian = ', 141)
+Conf_matrix: 
+[8022 1382] [84655 99345]
+--------------------
+('Covar_type: diag, number gaussian = ', 143)
+Conf_matrix: 
+[8086 1318] [94781 89219]
+--------------------
+('Covar_type: diag, number gaussian = ', 145)
+Conf_matrix: 
+[8179 1225] [96057 87943]
+--------------------
+('Covar_type: diag, number gaussian = ', 147)
+Conf_matrix: 
+[8089 1315] [ 82814 101186]
+--------------------
+('Covar_type: diag, number gaussian = ', 149)
+Conf_matrix: 
+[7819 1585] [ 80302 103698]
+--------------------
+('Covar_type: diag, number gaussian = ', 151)
+Conf_matrix: 
+[8065 1339] [89640 94360]
+--------------------
+('Covar_type: diag, number gaussian = ', 153)
+Conf_matrix: 
+[7962 1442] [87744 96256]
+--------------------
+('Covar_type: diag, number gaussian = ', 155)
+Conf_matrix: 
+[7997 1407] [93456 90544]
+--------------------
+('Covar_type: diag, number gaussian = ', 157)
+Conf_matrix: 
+[8015 1389] [88826 95174]
+--------------------
+('Covar_type: diag, number gaussian = ', 159)
+Conf_matrix: 
+[8069 1335] [88940 95060]
+--------------------
+('Covar_type: diag, number gaussian = ', 161)
+Conf_matrix: 
+[7874 1530] [ 79737 104263]
+--------------------
+('Covar_type: diag, number gaussian = ', 163)
+Conf_matrix: 
+[8037 1367] [84141 99859]
+--------------------
+('Covar_type: diag, number gaussian = ', 165)
+Conf_matrix: 
+[8211 1193] [91119 92881]
+--------------------
+('Covar_type: diag, number gaussian = ', 167)
+Conf_matrix: 
+[8047 1357] [87108 96892]
+--------------------
+('Covar_type: diag, number gaussian = ', 169)
+Conf_matrix: 
+[8013 1391] [84738 99262]
+--------------------
+('Covar_type: diag, number gaussian = ', 171)
+Conf_matrix: 
+[7909 1495] [ 79649 104351]
+--------------------
+('Covar_type: diag, number gaussian = ', 173)
+Conf_matrix: 
+[8011 1393] [88822 95178]
+--------------------
+('Covar_type: diag, number gaussian = ', 175)
+Conf_matrix: 
+[8033 1371] [86461 97539]
+--------------------
+('Covar_type: diag, number gaussian = ', 177)
+Conf_matrix: 
+[7987 1417] [ 77701 106299]
+--------------------
+('Covar_type: diag, number gaussian = ', 179)
+Conf_matrix: 
+[8030 1374] [91662 92338]
+--------------------
+('Covar_type: diag, number gaussian = ', 181)
+Conf_matrix: 
+[7558 1846] [ 80826 103174]
+--------------------
+('Covar_type: diag, number gaussian = ', 183)
+Conf_matrix: 
+[8045 1359] [ 75553 108447]
+--------------------
+('Covar_type: diag, number gaussian = ', 185)
+Conf_matrix: 
+[7895 1509] [87408 96592]
+--------------------
+('Covar_type: diag, number gaussian = ', 187)
+Conf_matrix: 
+[7986 1418] [86414 97586]
+--------------------
+('Covar_type: diag, number gaussian = ', 189)
+Conf_matrix: 
+[7962 1442] [ 79580 104420]
+--------------------
+('Covar_type: diag, number gaussian = ', 191)
+Conf_matrix: 
+[7644 1760] [ 76521 107479]
+--------------------
+('Covar_type: diag, number gaussian = ', 193)
+Conf_matrix: 
+[7734 1670] [ 82158 101842]
+--------------------
+('Covar_type: diag, number gaussian = ', 195)
+Conf_matrix: 
+[7969 1435] [96044 87956]
+--------------------
+('Covar_type: diag, number gaussian = ', 197)
+Conf_matrix: 
+[8033 1371] [89589 94411]
+--------------------
+('Covar_type: diag, number gaussian = ', 199)
+Conf_matrix: 
+[7914 1490] [84719 99281]
+--------------------
+('Covar_type: diag, number gaussian = ', 201)
+Conf_matrix: 
+[7749 1655] [ 75229 108771]
+--------------------
+('Covar_type: diag, number gaussian = ', 203)
+Conf_matrix: 
+[7746 1658] [ 76507 107493]
+--------------------
+('Covar_type: diag, number gaussian = ', 205)
+Conf_matrix: 
+[7715 1689] [ 71538 112462]
+--------------------
+('Covar_type: diag, number gaussian = ', 207)
+Conf_matrix: 
+[7950 1454] [ 79534 104466]
+--------------------
+('Covar_type: diag, number gaussian = ', 209)
+Conf_matrix: 
+[7855 1549] [ 74241 109759]
+--------------------
+('Covar_type: diag, number gaussian = ', 211)
+Conf_matrix: 
+[7837 1567] [ 76161 107839]
+--------------------
+('Covar_type: diag, number gaussian = ', 213)
+Conf_matrix: 
+[7475 1929] [ 73256 110744]
+--------------------
+('Covar_type: diag, number gaussian = ', 215)
+Conf_matrix: 
+[7857 1547] [ 80990 103010]
+--------------------
+('Covar_type: diag, number gaussian = ', 217)
+Conf_matrix: 
+[7719 1685] [ 81002 102998]
+--------------------
+('Covar_type: diag, number gaussian = ', 219)
+Conf_matrix: 
+[7579 1825] [ 75898 108102]
+--------------------
+('Covar_type: diag, number gaussian = ', 221)
+Conf_matrix: 
+[7761 1643] [ 78664 105336]
+--------------------
+('Covar_type: diag, number gaussian = ', 223)
+Conf_matrix: 
+[7410 1994] [ 77761 106239]
+--------------------
+('Covar_type: diag, number gaussian = ', 225)
+Conf_matrix: 
+[7798 1606] [85915 98085]
+--------------------
+('Covar_type: diag, number gaussian = ', 227)
+Conf_matrix: 
+[7762 1642] [ 78766 105234]
+--------------------
+('Covar_type: diag, number gaussian = ', 229)
+Conf_matrix: 
+[7719 1685] [ 78796 105204]
+--------------------
+('Covar_type: diag, number gaussian = ', 231)
+Conf_matrix: 
+[7858 1546] [ 80094 103906]
+--------------------
+('Covar_type: diag, number gaussian = ', 233)
+Conf_matrix: 
+[7810 1594] [ 81072 102928]
+--------------------
+('Covar_type: diag, number gaussian = ', 235)
+Conf_matrix: 
+[7745 1659] [ 79413 104587]
+--------------------
+('Covar_type: diag, number gaussian = ', 237)
+Conf_matrix: 
+[7817 1587] [95526 88474]
+--------------------
+('Covar_type: diag, number gaussian = ', 239)
+Conf_matrix: 
+[7681 1723] [ 76604 107396]
+--------------------
+('Covar_type: diag, number gaussian = ', 241)
+Conf_matrix: 
+[7761 1643] [ 77335 106665]
+--------------------
+('Covar_type: diag, number gaussian = ', 243)
+Conf_matrix: 
+[7753 1651] [ 83587 100413]
+--------------------
+('Covar_type: diag, number gaussian = ', 245)
+Conf_matrix: 
+[7481 1923] [ 70487 113513]
+--------------------
+('Covar_type: diag, number gaussian = ', 247)
+Conf_matrix: 
+[7797 1607] [ 78994 105006]
+--------------------
+('Covar_type: diag, number gaussian = ', 249)
+Conf_matrix: 
+[6854 2550] [ 66312 117688]
+--------------------
+('Covar_type: diag, number gaussian = ', 251)
+Conf_matrix: 
+[7535 1869] [ 72255 111745]
+--------------------
+('Covar_type: diag, number gaussian = ', 253)
+Conf_matrix: 
+[7440 1964] [ 71072 112928]
+--------------------
+('Covar_type: diag, number gaussian = ', 255)
+Conf_matrix: 
+[6980 2424] [ 66155 117845]
+--------------------
+('Covar_type: diag, number gaussian = ', 257)
+Conf_matrix: 
+[7221 2183] [ 67062 116938]
+--------------------
+('Covar_type: diag, number gaussian = ', 259)
+Conf_matrix: 
+[7690 1714] [ 76672 107328]
+--------------------
+('Covar_type: diag, number gaussian = ', 261)
+Conf_matrix: 
+[7765 1639] [ 76044 107956]
+--------------------
+('Covar_type: diag, number gaussian = ', 263)
+Conf_matrix: 
+[7668 1736] [ 73150 110850]
+--------------------
+('Covar_type: diag, number gaussian = ', 265)
+Conf_matrix: 
+[7852 1552] [ 80955 103045]
+--------------------
+('Covar_type: diag, number gaussian = ', 267)
+Conf_matrix: 
+[7765 1639] [ 82790 101210]
+--------------------
+('Covar_type: diag, number gaussian = ', 269)
+Conf_matrix: 
+[7658 1746] [ 75118 108882]
+--------------------
+('Covar_type: diag, number gaussian = ', 271)
+Conf_matrix: 
+[7695 1709] [ 78193 105807]
+--------------------
+('Covar_type: diag, number gaussian = ', 273)
+Conf_matrix: 
+[7376 2028] [ 69727 114273]
+--------------------
+('Covar_type: diag, number gaussian = ', 275)
+Conf_matrix: 
+[7356 2048] [ 70653 113347]
+--------------------
+('Covar_type: diag, number gaussian = ', 277)
+Conf_matrix: 
+[7674 1730] [ 72573 111427]
+--------------------
+('Covar_type: diag, number gaussian = ', 279)
+Conf_matrix: 
+[7625 1779] [ 73073 110927]
+--------------------
+('Covar_type: diag, number gaussian = ', 281)
+Conf_matrix: 
+[7802 1602] [ 81557 102443]
+--------------------
+('Covar_type: diag, number gaussian = ', 283)
+Conf_matrix: 
+[7428 1976] [ 71429 112571]
+--------------------
+('Covar_type: diag, number gaussian = ', 285)
+Conf_matrix: 
+[7208 2196] [ 69223 114777]
+--------------------
+('Covar_type: diag, number gaussian = ', 287)
+Conf_matrix: 
+[7484 1920] [ 73229 110771]
+--------------------
+('Covar_type: diag, number gaussian = ', 289)
+Conf_matrix: 
+[7479 1925] [ 71207 112793]
+--------------------
+('Covar_type: diag, number gaussian = ', 291)
+Conf_matrix: 
+[7993 1411] [84756 99244]
+--------------------
+('Covar_type: diag, number gaussian = ', 293)
+Conf_matrix: 
+[7341 2063] [ 66528 117472]
+--------------------
+('Covar_type: diag, number gaussian = ', 295)
+Conf_matrix: 
+[7532 1872] [ 69424 114576]
+--------------------
+('Covar_type: diag, number gaussian = ', 297)
+Conf_matrix: 
+[7676 1728] [ 74605 109395]
+--------------------
+('Covar_type: diag, number gaussian = ', 299)
+Conf_matrix: 
+[7256 2148] [ 73975 110025]
+--------------------
+('Covar_type: diag, number gaussian = ', 301)
+Conf_matrix: 
+[6048 3356] [ 65412 118588]
+--------------------
+('Covar_type: diag, number gaussian = ', 303)
+Conf_matrix: 
+[7420 1984] [ 70288 113712]
+--------------------
+('Covar_type: diag, number gaussian = ', 305)
+Conf_matrix: 
+[7630 1774] [ 69347 114653]
+--------------------
+('Covar_type: diag, number gaussian = ', 307)
+Conf_matrix: 
+[6870 2534] [ 61084 122916]
+--------------------
+('Covar_type: diag, number gaussian = ', 309)
+Conf_matrix: 
+[7339 2065] [ 75038 108962]
+--------------------
+('Covar_type: diag, number gaussian = ', 311)
+Conf_matrix: 
+[7455 1949] [ 71009 112991]
+--------------------
+('Covar_type: diag, number gaussian = ', 313)
+Conf_matrix: 
+[6748 2656] [ 59092 124908]
+--------------------
+('Covar_type: diag, number gaussian = ', 315)
+Conf_matrix: 
+[7287 2117] [ 68239 115761]
+--------------------
+('Covar_type: diag, number gaussian = ', 317)
+Conf_matrix: 
+[7531 1873] [ 76350 107650]
+--------------------
+('Covar_type: diag, number gaussian = ', 319)
+Conf_matrix: 
+[7178 2226] [ 71212 112788]
+--------------------
+('Covar_type: diag, number gaussian = ', 321)
+Conf_matrix: 
+[7099 2305] [ 72860 111140]
+--------------------
+('Covar_type: diag, number gaussian = ', 323)
+Conf_matrix: 
+[7510 1894] [ 71245 112755]
+--------------------
+('Covar_type: diag, number gaussian = ', 325)
+Conf_matrix: 
+[7215 2189] [ 64990 119010]
+--------------------
+('Covar_type: diag, number gaussian = ', 327)
+Conf_matrix: 
+[7399 2005] [ 75848 108152]
+--------------------
+('Covar_type: diag, number gaussian = ', 329)
+Conf_matrix: 
+[7461 1943] [ 75140 108860]
+--------------------
+('Covar_type: diag, number gaussian = ', 331)
+Conf_matrix: 
+[6985 2419] [ 60454 123546]
+--------------------
+('Covar_type: diag, number gaussian = ', 333)
+Conf_matrix: 
+[7136 2268] [ 68369 115631]
+--------------------
+('Covar_type: diag, number gaussian = ', 335)
+Conf_matrix: 
+[7526 1878] [ 82689 101311]
+--------------------
+('Covar_type: diag, number gaussian = ', 337)
+Conf_matrix: 
+[7300 2104] [ 75067 108933]
+--------------------
+('Covar_type: diag, number gaussian = ', 339)
+Conf_matrix: 
+[7389 2015] [ 73826 110174]
+--------------------
+('Covar_type: diag, number gaussian = ', 341)
+Conf_matrix: 
+[7268 2136] [ 65626 118374]
+--------------------
+('Covar_type: diag, number gaussian = ', 343)
+Conf_matrix: 
+[7371 2033] [ 63527 120473]
+--------------------
+('Covar_type: diag, number gaussian = ', 345)
+Conf_matrix: 
+[7556 1848] [ 70250 113750]
+--------------------
+('Covar_type: diag, number gaussian = ', 347)
+Conf_matrix: 
+[7414 1990] [ 72650 111350]
+--------------------
+('Covar_type: diag, number gaussian = ', 349)
+Conf_matrix: 
+[7536 1868] [ 70618 113382]
+--------------------
+('Covar_type: diag, number gaussian = ', 351)
+Conf_matrix: 
+[7213 2191] [ 68713 115287]
+--------------------
+('Covar_type: diag, number gaussian = ', 353)
+Conf_matrix: 
+[7556 1848] [ 68272 115728]
+--------------------
+('Covar_type: diag, number gaussian = ', 355)
+Conf_matrix: 
+[7386 2018] [ 66837 117163]
+--------------------
+('Covar_type: diag, number gaussian = ', 357)
+Conf_matrix: 
+[7453 1951] [ 70357 113643]
+--------------------
+('Covar_type: diag, number gaussian = ', 359)
+Conf_matrix: 
+[7388 2016] [ 70191 113809]
+--------------------
+('Covar_type: diag, number gaussian = ', 361)
+Conf_matrix: 
+[6898 2506] [ 70084 113916]
+--------------------
+('Covar_type: diag, number gaussian = ', 363)
+Conf_matrix: 
+[7007 2397] [ 62808 121192]
+--------------------
+('Covar_type: diag, number gaussian = ', 365)
+Conf_matrix: 
+[7027 2377] [ 68522 115478]
+--------------------
+('Covar_type: diag, number gaussian = ', 367)
+Conf_matrix: 
+[6832 2572] [ 61534 122466]
+--------------------
+('Covar_type: diag, number gaussian = ', 369)
+Conf_matrix: 
+[6721 2683] [ 60407 123593]
+--------------------
+('Covar_type: diag, number gaussian = ', 371)
+Conf_matrix: 
+[6538 2866] [ 60158 123842]
+--------------------
+('Covar_type: diag, number gaussian = ', 373)
+Conf_matrix: 
+[6852 2552] [ 63349 120651]
+--------------------
+('Covar_type: diag, number gaussian = ', 375)
+Conf_matrix: 
+[7430 1974] [ 67039 116961]
+--------------------
+('Covar_type: diag, number gaussian = ', 377)
+Conf_matrix: 
+[7558 1846] [ 76067 107933]
+--------------------
+('Covar_type: diag, number gaussian = ', 379)
+Conf_matrix: 
+[7306 2098] [ 74853 109147]
+--------------------
+('Covar_type: diag, number gaussian = ', 381)
+Conf_matrix: 
+[6985 2419] [ 67487 116513]
+--------------------
+('Covar_type: diag, number gaussian = ', 383)
+Conf_matrix: 
+[6847 2557] [ 60662 123338]
+--------------------
+('Covar_type: diag, number gaussian = ', 385)
+Conf_matrix: 
+[7337 2067] [ 66418 117582]
+--------------------
+('Covar_type: diag, number gaussian = ', 387)
+Conf_matrix: 
+[7219 2185] [ 58471 125529]
+--------------------
+('Covar_type: diag, number gaussian = ', 389)
+Conf_matrix: 
+[7283 2121] [ 62742 121258]
+--------------------
+('Covar_type: diag, number gaussian = ', 391)
+Conf_matrix: 
+[7342 2062] [ 64921 119079]
+--------------------
+('Covar_type: diag, number gaussian = ', 393)
+Conf_matrix: 
+[7127 2277] [ 65116 118884]
+--------------------
+('Covar_type: diag, number gaussian = ', 395)
+Conf_matrix: 
+[7319 2085] [ 65446 118554]
+--------------------
+('Covar_type: diag, number gaussian = ', 397)
+Conf_matrix: 
+[7116 2288] [ 63952 120048]
+--------------------
+('Covar_type: diag, number gaussian = ', 399)
+Conf_matrix: 
+[6930 2474] [ 58577 125423]
+--------------------
+('Covar_type: diag, number gaussian = ', 401)
+Conf_matrix: 
+[6542 2862] [ 58674 125326]
+--------------------
+('Covar_type: diag, number gaussian = ', 403)
+Conf_matrix: 
+[6373 3031] [ 59503 124497]
+--------------------
+('Covar_type: diag, number gaussian = ', 405)
+Conf_matrix: 
+[7079 2325] [ 62609 121391]
+--------------------
+('Covar_type: diag, number gaussian = ', 407)
+Conf_matrix: 
+[7247 2157] [ 65030 118970]
+--------------------
+('Covar_type: diag, number gaussian = ', 409)
+Conf_matrix: 
+[7433 1971] [ 68718 115282]
+--------------------
+('Covar_type: diag, number gaussian = ', 411)
+Conf_matrix: 
+[6759 2645] [ 59015 124985]
+--------------------
+('Covar_type: diag, number gaussian = ', 413)
+Conf_matrix: 
+[7508 1896] [ 72254 111746]
+--------------------
+('Covar_type: diag, number gaussian = ', 415)
+Conf_matrix: 
+[7008 2396] [ 63990 120010]
+--------------------
+('Covar_type: diag, number gaussian = ', 417)
+Conf_matrix: 
+[7387 2017] [ 68611 115389]
+--------------------
+('Covar_type: diag, number gaussian = ', 419)
+Conf_matrix: 
+[7256 2148] [ 66989 117011]
+--------------------
+('Covar_type: diag, number gaussian = ', 421)
+Conf_matrix: 
+[6865 2539] [ 63632 120368]
+--------------------
+('Covar_type: diag, number gaussian = ', 423)
+Conf_matrix: 
+[6940 2464] [ 60549 123451]
+--------------------
+('Covar_type: diag, number gaussian = ', 425)
+Conf_matrix: 
+[7206 2198] [ 62599 121401]
+--------------------
+('Covar_type: diag, number gaussian = ', 427)
+Conf_matrix: 
+[7434 1970] [ 68996 115004]
+--------------------
+('Covar_type: diag, number gaussian = ', 429)
+Conf_matrix: 
+[7048 2356] [ 64755 119245]
+--------------------
+('Covar_type: diag, number gaussian = ', 431)
+Conf_matrix: 
+[6719 2685] [ 58062 125938]
+--------------------
+('Covar_type: diag, number gaussian = ', 433)
+Conf_matrix: 
+[7029 2375] [ 62603 121397]
+--------------------
+('Covar_type: diag, number gaussian = ', 435)
+Conf_matrix: 
+[7144 2260] [ 65829 118171]
+--------------------
+('Covar_type: diag, number gaussian = ', 437)
+Conf_matrix: 
+[6752 2652] [ 60970 123030]
+--------------------
+('Covar_type: diag, number gaussian = ', 439)
+Conf_matrix: 
+[7068 2336] [ 63610 120390]
+--------------------
+('Covar_type: diag, number gaussian = ', 441)
+Conf_matrix: 
+[6810 2594] [ 56867 127133]
+--------------------
+('Covar_type: diag, number gaussian = ', 443)
+Conf_matrix: 
+[6964 2440] [ 61901 122099]
+--------------------
+('Covar_type: diag, number gaussian = ', 445)
+Conf_matrix: 
+[7023 2381] [ 59783 124217]
+--------------------
+('Covar_type: diag, number gaussian = ', 447)
+Conf_matrix: 
+[6793 2611] [ 55592 128408]
+--------------------
+('Covar_type: diag, number gaussian = ', 449)
+Conf_matrix: 
+[6941 2463] [ 59360 124640]
+--------------------
+('Covar_type: diag, number gaussian = ', 451)
+Conf_matrix: 
+[6849 2555] [ 56534 127466]
+--------------------
+('Covar_type: diag, number gaussian = ', 453)
+Conf_matrix: 
+[6930 2474] [ 65064 118936]
+--------------------
+('Covar_type: diag, number gaussian = ', 455)
+Conf_matrix: 
+[6823 2581] [ 58891 125109]
+--------------------
+('Covar_type: diag, number gaussian = ', 457)
+Conf_matrix: 
+[6813 2591] [ 56637 127363]
+--------------------
+('Covar_type: diag, number gaussian = ', 459)
+Conf_matrix: 
+[6531 2873] [ 53552 130448]
+--------------------
+('Covar_type: diag, number gaussian = ', 461)
+Conf_matrix: 
+[6817 2587] [ 54877 129123]
+--------------------
+('Covar_type: diag, number gaussian = ', 463)
+Conf_matrix: 
+[7084 2320] [ 62863 121137]
+--------------------
+('Covar_type: diag, number gaussian = ', 465)
+Conf_matrix: 
+[7123 2281] [ 59844 124156]
+--------------------
+('Covar_type: diag, number gaussian = ', 467)
+Conf_matrix: 
+[7038 2366] [ 66403 117597]
+--------------------
+('Covar_type: diag, number gaussian = ', 469)
+Conf_matrix: 
+[6419 2985] [ 56341 127659]
+--------------------
+('Covar_type: diag, number gaussian = ', 471)
+Conf_matrix: 
+[6740 2664] [ 56473 127527]
+--------------------
+('Covar_type: diag, number gaussian = ', 473)
+Conf_matrix: 
+[6989 2415] [ 63922 120078]
+--------------------
+('Covar_type: diag, number gaussian = ', 475)
+Conf_matrix: 
+[6491 2913] [ 54850 129150]
+--------------------
+('Covar_type: diag, number gaussian = ', 477)
+Conf_matrix: 
+[7094 2310] [ 67464 116536]
+--------------------
+('Covar_type: diag, number gaussian = ', 479)
+Conf_matrix: 
+[6724 2680] [ 57087 126913]
+--------------------
+('Covar_type: diag, number gaussian = ', 481)
+Conf_matrix: 
+[6968 2436] [ 55765 128235]
+--------------------
+('Covar_type: diag, number gaussian = ', 483)
+Conf_matrix: 
+[6952 2452] [ 58740 125260]
+--------------------
+('Covar_type: diag, number gaussian = ', 485)
+Conf_matrix: 
+[6567 2837] [ 51957 132043]
+--------------------
+('Covar_type: diag, number gaussian = ', 487)
+Conf_matrix: 
+[6919 2485] [ 55903 128097]
+--------------------
+('Covar_type: diag, number gaussian = ', 489)
+Conf_matrix: 
+[6999 2405] [ 56073 127927]
+--------------------
+('Covar_type: diag, number gaussian = ', 491)
+Conf_matrix: 
+[6973 2431] [ 55663 128337]
+--------------------
+('Covar_type: diag, number gaussian = ', 493)
+Conf_matrix: 
+[6927 2477] [ 54828 129172]
+--------------------
+('Covar_type: diag, number gaussian = ', 495)
+Conf_matrix: 
+[7238 2166] [ 57786 126214]
+--------------------
+('Covar_type: diag, number gaussian = ', 497)
+Conf_matrix: 
+[6910 2494] [ 56885 127115]
+--------------------
+('Covar_type: diag, number gaussian = ', 499)
+Conf_matrix: 
+[6415 2989] [ 53561 130439]
+--------------------
+('Covar_type: diag, number gaussian = ', 501)
+Conf_matrix: 
+[6775 2629] [ 52456 131544]
+--------------------
+('Covar_type: diag, number gaussian = ', 503)
+Conf_matrix: 
+[7054 2350] [ 60731 123269]
+--------------------
+('Covar_type: diag, number gaussian = ', 505)
+Conf_matrix: 
+[6630 2774] [ 55413 128587]
+--------------------
+('Covar_type: diag, number gaussian = ', 507)
+Conf_matrix: 
+[6438 2966] [ 54446 129554]
+--------------------
+('Covar_type: diag, number gaussian = ', 509)
+Conf_matrix: 
+[7011 2393] [ 51845 132155]
+--------------------
+('Covar_type: diag, number gaussian = ', 511)
+Conf_matrix: 
+[6652 2752] [ 52498 131502]
+--------------------
+('Covar_type: diag, number gaussian = ', 513)
+Conf_matrix: 
+[6737 2667] [ 56043 127957]
+--------------------
+('Covar_type: diag, number gaussian = ', 515)
+Conf_matrix: 
+[6877 2527] [ 52808 131192]
+--------------------
+('Covar_type: diag, number gaussian = ', 517)
+Conf_matrix: 
+[6153 3251] [ 50637 133363]
+--------------------
+('Covar_type: diag, number gaussian = ', 519)
+Conf_matrix: 
+[6752 2652] [ 61529 122471]
+--------------------
+('Covar_type: diag, number gaussian = ', 521)
+Conf_matrix: 
+[6831 2573] [ 56301 127699]
+--------------------
+('Covar_type: diag, number gaussian = ', 523)
+Conf_matrix: 
+[7090 2314] [ 55230 128770]
+--------------------
+('Covar_type: diag, number gaussian = ', 525)
+Conf_matrix: 
+[6781 2623] [ 59144 124856]
+--------------------
+('Covar_type: diag, number gaussian = ', 527)
+Conf_matrix: 
+[6648 2756] [ 56137 127863]
+--------------------
+('Covar_type: diag, number gaussian = ', 529)
+Conf_matrix: 
+[6595 2809] [ 59781 124219]
+--------------------
+('Covar_type: diag, number gaussian = ', 531)
+Conf_matrix: 
+[6603 2801] [ 59444 124556]
+--------------------
+('Covar_type: diag, number gaussian = ', 533)
+Conf_matrix: 
+[6257 3147] [ 52351 131649]
+--------------------
+('Covar_type: diag, number gaussian = ', 535)
+Conf_matrix: 
+[6591 2813] [ 56728 127272]
+--------------------
+('Covar_type: diag, number gaussian = ', 537)
+Conf_matrix: 
+[6367 3037] [ 47787 136213]
+--------------------
+('Covar_type: diag, number gaussian = ', 539)
+Conf_matrix: 
+[6678 2726] [ 59064 124936]
+--------------------
+('Covar_type: diag, number gaussian = ', 541)
+Conf_matrix: 
+[6833 2571] [ 55732 128268]
+--------------------
+('Covar_type: diag, number gaussian = ', 543)
+Conf_matrix: 
+[6777 2627] [ 51646 132354]
+--------------------
+('Covar_type: diag, number gaussian = ', 545)
+Conf_matrix: 
+[6656 2748] [ 51342 132658]
+--------------------
+('Covar_type: diag, number gaussian = ', 547)
+Conf_matrix: 
+[7099 2305] [ 57378 126622]
+--------------------
+('Covar_type: diag, number gaussian = ', 549)
+Conf_matrix: 
+[7121 2283] [ 61952 122048]
+--------------------
+('Covar_type: diag, number gaussian = ', 551)
+Conf_matrix: 
+[6191 3213] [ 51621 132379]
+--------------------
+('Covar_type: diag, number gaussian = ', 553)
+Conf_matrix: 
+[6007 3397] [ 50704 133296]
+--------------------
+('Covar_type: diag, number gaussian = ', 555)
+Conf_matrix: 
+[6534 2870] [ 54725 129275]
+--------------------
+('Covar_type: diag, number gaussian = ', 557)
+Conf_matrix: 
+[6948 2456] [ 47740 136260]
+--------------------
+('Covar_type: diag, number gaussian = ', 559)
+Conf_matrix: 
+[6882 2522] [ 58920 125080]
+--------------------
+('Covar_type: diag, number gaussian = ', 561)
+Conf_matrix: 
+[7081 2323] [ 57001 126999]
+--------------------
+('Covar_type: diag, number gaussian = ', 563)
+Conf_matrix: 
+[6758 2646] [ 50112 133888]
+--------------------
+('Covar_type: diag, number gaussian = ', 565)
+Conf_matrix: 
+[6829 2575] [ 54568 129432]
+--------------------
+('Covar_type: diag, number gaussian = ', 567)
+Conf_matrix: 
+[6538 2866] [ 52015 131985]
+--------------------
+('Covar_type: diag, number gaussian = ', 569)
+Conf_matrix: 
+[6840 2564] [ 55841 128159]
+--------------------
+('Covar_type: diag, number gaussian = ', 571)
+Conf_matrix: 
+[7358 2046] [ 67604 116396]
+--------------------
+('Covar_type: diag, number gaussian = ', 573)
+Conf_matrix: 
+[6759 2645] [ 54965 129035]
+--------------------
+('Covar_type: diag, number gaussian = ', 575)
+Conf_matrix: 
+[6929 2475] [ 59010 124990]
+--------------------
+('Covar_type: diag, number gaussian = ', 577)
+Conf_matrix: 
+[6393 3011] [ 54210 129790]
+--------------------
+('Covar_type: diag, number gaussian = ', 579)
+Conf_matrix: 
+[6651 2753] [ 48829 135171]
+--------------------
+('Covar_type: diag, number gaussian = ', 581)
+Conf_matrix: 
+[6778 2626] [ 57794 126206]
+--------------------
+('Covar_type: diag, number gaussian = ', 583)
+Conf_matrix: 
+[6847 2557] [ 53163 130837]
+--------------------
+('Covar_type: diag, number gaussian = ', 585)
+Conf_matrix: 
+[6164 3240] [ 50975 133025]
+--------------------
+('Covar_type: diag, number gaussian = ', 587)
+Conf_matrix: 
+[6386 3018] [ 56005 127995]
+--------------------
+('Covar_type: diag, number gaussian = ', 589)
+Conf_matrix: 
+[6395 3009] [ 50285 133715]
+--------------------
+('Covar_type: diag, number gaussian = ', 591)
+Conf_matrix: 
+[6343 3061] [ 51643 132357]
+--------------------
+('Covar_type: diag, number gaussian = ', 593)
+Conf_matrix: 
+[7098 2306] [ 53139 130861]
+--------------------
+('Covar_type: diag, number gaussian = ', 595)
+Conf_matrix: 
+[6934 2470] [ 60340 123660]
+--------------------
+('Covar_type: diag, number gaussian = ', 597)
+Conf_matrix: 
+[7019 2385] [ 59562 124438]
+--------------------
+('Covar_type: diag, number gaussian = ', 599)
+Conf_matrix: 
+[6543 2861] [ 54944 129056]
+--------------------
+('Covar_type: diag, number gaussian = ', 601)
+Conf_matrix: 
+[6681 2723] [ 48571 135429]
+--------------------
+('Covar_type: diag, number gaussian = ', 603)
+Conf_matrix: 
+[6503 2901] [ 46822 137178]
+--------------------
+('Covar_type: diag, number gaussian = ', 605)
+Conf_matrix: 
+[6799 2605] [ 54282 129718]
+--------------------
+('Covar_type: diag, number gaussian = ', 607)
+Conf_matrix: 
+[6425 2979] [ 51097 132903]
+--------------------
+('Covar_type: diag, number gaussian = ', 609)
+Conf_matrix: 
+[5787 3617] [ 47494 136506]
+--------------------
+('Covar_type: diag, number gaussian = ', 611)
+Conf_matrix: 
+[6380 3024] [ 47793 136207]
+--------------------
+('Covar_type: diag, number gaussian = ', 613)
+Conf_matrix: 
+[6908 2496] [ 53250 130750]
+--------------------
+('Covar_type: diag, number gaussian = ', 615)
+Conf_matrix: 
+[6583 2821] [ 53031 130969]
+--------------------
+('Covar_type: diag, number gaussian = ', 617)
+Conf_matrix: 
+[6682 2722] [ 51404 132596]
+--------------------
+('Covar_type: diag, number gaussian = ', 619)
+Conf_matrix: 
+[6574 2830] [ 53378 130622]
+--------------------
+('Covar_type: diag, number gaussian = ', 621)
+Conf_matrix: 
+[6286 3118] [ 55727 128273]
+--------------------
+('Covar_type: diag, number gaussian = ', 623)
+Conf_matrix: 
+[6332 3072] [ 51805 132195]
+--------------------
+('Covar_type: diag, number gaussian = ', 625)
+Conf_matrix: 
+[6213 3191] [ 58166 125834]
+--------------------
+('Covar_type: diag, number gaussian = ', 627)
+Conf_matrix: 
+[6268 3136] [ 52440 131560]
+--------------------
+('Covar_type: diag, number gaussian = ', 629)
+Conf_matrix: 
+[6667 2737] [ 53293 130707]
+--------------------
+('Covar_type: diag, number gaussian = ', 631)
+Conf_matrix: 
+[6485 2919] [ 52305 131695]
+--------------------
+('Covar_type: diag, number gaussian = ', 633)
+Conf_matrix: 
+[5220 4184] [ 40606 143394]
+--------------------
+('Covar_type: diag, number gaussian = ', 635)
+Conf_matrix: 
+[6810 2594] [ 50807 133193]
+--------------------
+('Covar_type: diag, number gaussian = ', 637)
+Conf_matrix: 
+[6171 3233] [ 48028 135972]
+--------------------
+('Covar_type: diag, number gaussian = ', 639)
+Conf_matrix: 
+[5780 3624] [ 43149 140851]
+--------------------
+('Covar_type: diag, number gaussian = ', 641)
+Conf_matrix: 
+[6554 2850] [ 51833 132167]
+--------------------
+('Covar_type: diag, number gaussian = ', 643)
+Conf_matrix: 
+[6399 3005] [ 50724 133276]
+--------------------
+('Covar_type: diag, number gaussian = ', 645)
+Conf_matrix: 
+[6830 2574] [ 53636 130364]
+--------------------
+('Covar_type: diag, number gaussian = ', 647)
+Conf_matrix: 
+[6459 2945] [ 48411 135589]
+--------------------
+('Covar_type: diag, number gaussian = ', 649)
+Conf_matrix: 
+[6335 3069] [ 51359 132641]
+--------------------
+('Covar_type: diag, number gaussian = ', 651)
+Conf_matrix: 
+[6157 3247] [ 48514 135486]
+--------------------
+('Covar_type: diag, number gaussian = ', 653)
+Conf_matrix: 
+[6176 3228] [ 48872 135128]
+--------------------
+('Covar_type: diag, number gaussian = ', 655)
+Conf_matrix: 
+[6903 2501] [ 50046 133954]
+--------------------
+('Covar_type: diag, number gaussian = ', 657)
+Conf_matrix: 
+[6854 2550] [ 54780 129220]
+--------------------
+('Covar_type: diag, number gaussian = ', 659)
+Conf_matrix: 
+[6540 2864] [ 58926 125074]
+--------------------
+('Covar_type: diag, number gaussian = ', 661)
+Conf_matrix: 
+[6558 2846] [ 50863 133137]
+--------------------
+('Covar_type: diag, number gaussian = ', 663)
+Conf_matrix: 
+[5660 3744] [ 42639 141361]
+--------------------
+('Covar_type: diag, number gaussian = ', 665)
+Conf_matrix: 
+[6429 2975] [ 46086 137914]
+--------------------
+('Covar_type: diag, number gaussian = ', 667)
+Conf_matrix: 
+[6734 2670] [ 52547 131453]
+--------------------
+('Covar_type: diag, number gaussian = ', 669)
+Conf_matrix: 
+[6339 3065] [ 49697 134303]
+--------------------
+('Covar_type: diag, number gaussian = ', 671)
+Conf_matrix: 
+[6394 3010] [ 49088 134912]
+--------------------
+('Covar_type: diag, number gaussian = ', 673)
+Conf_matrix: 
+[6604 2800] [ 52900 131100]
+--------------------
+('Covar_type: diag, number gaussian = ', 675)
+Conf_matrix: 
+[6795 2609] [ 56130 127870]
+--------------------
+('Covar_type: diag, number gaussian = ', 677)
+Conf_matrix: 
+[6691 2713] [ 56556 127444]
+--------------------
+('Covar_type: diag, number gaussian = ', 679)
+Conf_matrix: 
+[6213 3191] [ 44418 139582]
+--------------------
+('Covar_type: diag, number gaussian = ', 681)
+Conf_matrix: 
+[6910 2494] [ 51392 132608]
+--------------------
+('Covar_type: diag, number gaussian = ', 683)
+Conf_matrix: 
+[6701 2703] [ 53546 130454]
+--------------------
+('Covar_type: diag, number gaussian = ', 685)
+Conf_matrix: 
+[6626 2778] [ 46377 137623]
+--------------------
+('Covar_type: diag, number gaussian = ', 687)
+Conf_matrix: 
+[6351 3053] [ 47754 136246]
+--------------------
+('Covar_type: diag, number gaussian = ', 689)
+Conf_matrix: 
+[5979 3425] [ 42799 141201]
+--------------------
+('Covar_type: diag, number gaussian = ', 691)
+Conf_matrix: 
+[6408 2996] [ 52840 131160]
+--------------------
+('Covar_type: diag, number gaussian = ', 693)
+Conf_matrix: 
+[6781 2623] [ 54315 129685]
+--------------------
+('Covar_type: diag, number gaussian = ', 695)
+Conf_matrix: 
+[6684 2720] [ 48053 135947]
+--------------------
+('Covar_type: diag, number gaussian = ', 697)
+Conf_matrix: 
+[6323 3081] [ 48678 135322]
+--------------------
+('Covar_type: diag, number gaussian = ', 699)
+Conf_matrix: 
+[6558 2846] [ 50528 133472]
+--------------------
+('Covar_type: diag, number gaussian = ', 701)
+Conf_matrix: 
+[6821 2583] [ 52767 131233]
+--------------------
+('Covar_type: diag, number gaussian = ', 703)
+Conf_matrix: 
+[6343 3061] [ 50363 133637]
+--------------------
+('Covar_type: diag, number gaussian = ', 705)
+Conf_matrix: 
+[6615 2789] [ 45415 138585]
+--------------------
+('Covar_type: diag, number gaussian = ', 707)
+Conf_matrix: 
+[6081 3323] [ 47813 136187]
+--------------------
+('Covar_type: diag, number gaussian = ', 709)
+Conf_matrix: 
+[5878 3526] [ 40489 143511]
+--------------------
+('Covar_type: diag, number gaussian = ', 711)
+Conf_matrix: 
+[5900 3504] [ 45783 138217]
+--------------------
+('Covar_type: diag, number gaussian = ', 713)
+Conf_matrix: 
+[6940 2464] [ 61057 122943]
+--------------------
+('Covar_type: diag, number gaussian = ', 715)
+Conf_matrix: 
+[6106 3298] [ 48654 135346]
+--------------------
+('Covar_type: diag, number gaussian = ', 717)
+Conf_matrix: 
+[6076 3328] [ 43862 140138]
+--------------------
+('Covar_type: diag, number gaussian = ', 719)
+Conf_matrix: 
+[5815 3589] [ 43947 140053]
+--------------------
+('Covar_type: diag, number gaussian = ', 721)
+Conf_matrix: 
+[6271 3133] [ 49440 134560]
+--------------------
+('Covar_type: diag, number gaussian = ', 723)
+Conf_matrix: 
+[6410 2994] [ 50277 133723]
+--------------------
+('Covar_type: diag, number gaussian = ', 725)
+Conf_matrix: 
+[6711 2693] [ 51647 132353]
+--------------------
+('Covar_type: diag, number gaussian = ', 727)
+Conf_matrix: 
+[6172 3232] [ 44916 139084]
+--------------------
+('Covar_type: diag, number gaussian = ', 729)
+Conf_matrix: 
+[6208 3196] [ 45920 138080]
+--------------------
+('Covar_type: diag, number gaussian = ', 731)
+Conf_matrix: 
+[6241 3163] [ 49575 134425]
+--------------------
+('Covar_type: diag, number gaussian = ', 733)
+Conf_matrix: 
+[5735 3669] [ 42985 141015]
+--------------------
+('Covar_type: diag, number gaussian = ', 735)
+Conf_matrix: 
+[5737 3667] [ 48224 135776]
+--------------------
+('Covar_type: diag, number gaussian = ', 737)
+Conf_matrix: 
+[6338 3066] [ 51520 132480]
+--------------------
+('Covar_type: diag, number gaussian = ', 739)
+Conf_matrix: 
+[6090 3314] [ 45354 138646]
+--------------------
+('Covar_type: diag, number gaussian = ', 741)
+Conf_matrix: 
+[6895 2509] [ 55273 128727]
+--------------------
+('Covar_type: diag, number gaussian = ', 743)
+Conf_matrix: 
+[6499 2905] [ 44741 139259]
+--------------------
+('Covar_type: diag, number gaussian = ', 745)
+Conf_matrix: 
+[5946 3458] [ 44491 139509]
+--------------------
+('Covar_type: diag, number gaussian = ', 747)
+Conf_matrix: 
+[5873 3531] [ 49023 134977]
+--------------------
+('Covar_type: diag, number gaussian = ', 749)
+Conf_matrix: 
+[6436 2968] [ 49158 134842]
+--------------------
+('Covar_type: diag, number gaussian = ', 751)
+Conf_matrix: 
+[6167 3237] [ 44949 139051]
+--------------------
+('Covar_type: diag, number gaussian = ', 753)
+Conf_matrix: 
+[6118 3286] [ 40260 143740]
+--------------------
+('Covar_type: diag, number gaussian = ', 755)
+Conf_matrix: 
+[4839 4565] [ 41132 142868]
+--------------------
+('Covar_type: diag, number gaussian = ', 757)
+Conf_matrix: 
+[5610 3794] [ 44230 139770]
+--------------------
+('Covar_type: diag, number gaussian = ', 759)
+Conf_matrix: 
+[6062 3342] [ 48460 135540]
+--------------------
+('Covar_type: diag, number gaussian = ', 761)
+Conf_matrix: 
+[6454 2950] [ 51120 132880]
+--------------------
+('Covar_type: diag, number gaussian = ', 763)
+Conf_matrix: 
+[6398 3006] [ 56229 127771]
+--------------------
+('Covar_type: diag, number gaussian = ', 765)
+Conf_matrix: 
+[6019 3385] [ 41580 142420]
+--------------------
+('Covar_type: diag, number gaussian = ', 767)
+Conf_matrix: 
+[5952 3452] [ 46025 137975]
+--------------------
+('Covar_type: diag, number gaussian = ', 769)
+Conf_matrix: 
+[6575 2829] [ 54667 129333]
+--------------------
+('Covar_type: diag, number gaussian = ', 771)
+Conf_matrix: 
+[6102 3302] [ 46506 137494]
+--------------------
+('Covar_type: diag, number gaussian = ', 773)
+Conf_matrix: 
+[6482 2922] [ 46095 137905]
+--------------------
+('Covar_type: diag, number gaussian = ', 775)
+Conf_matrix: 
+[6495 2909] [ 43519 140481]
+--------------------
+('Covar_type: diag, number gaussian = ', 777)
+Conf_matrix: 
+[6235 3169] [ 48483 135517]
+--------------------
+('Covar_type: diag, number gaussian = ', 779)
+Conf_matrix: 
+[5890 3514] [ 43799 140201]
+--------------------
+('Covar_type: diag, number gaussian = ', 781)
+Conf_matrix: 
+[6065 3339] [ 40110 143890]
+--------------------
+('Covar_type: diag, number gaussian = ', 783)
+Conf_matrix: 
+[6554 2850] [ 51970 132030]
+--------------------
+('Covar_type: diag, number gaussian = ', 785)
+Conf_matrix: 
+[6524 2880] [ 47082 136918]
+--------------------
+('Covar_type: diag, number gaussian = ', 787)
+Conf_matrix: 
+[6441 2963] [ 46081 137919]
+--------------------
+('Covar_type: diag, number gaussian = ', 789)
+Conf_matrix: 
+[5894 3510] [ 46162 137838]
+--------------------
+('Covar_type: diag, number gaussian = ', 791)
+Conf_matrix: 
+[6219 3185] [ 49939 134061]
+--------------------
+('Covar_type: diag, number gaussian = ', 793)
+Conf_matrix: 
+[6012 3392] [ 44570 139430]
+--------------------
+('Covar_type: diag, number gaussian = ', 795)
+Conf_matrix: 
+[6470 2934] [ 52548 131452]
+--------------------
+('Covar_type: diag, number gaussian = ', 797)
+Conf_matrix: 
+[6470 2934] [ 46447 137553]
+--------------------
+('Covar_type: diag, number gaussian = ', 799)
+Conf_matrix: 
+[5949 3455] [ 46126 137874]
+--------------------
+('Covar_type: diag, number gaussian = ', 801)
+Conf_matrix: 
+[5724 3680] [ 44606 139394]
+--------------------
+('Covar_type: diag, number gaussian = ', 803)
+Conf_matrix: 
+[6307 3097] [ 45976 138024]
+--------------------
+('Covar_type: diag, number gaussian = ', 805)
+Conf_matrix: 
+[6439 2965] [ 45465 138535]
+--------------------
+('Covar_type: diag, number gaussian = ', 807)
+Conf_matrix: 
+[5739 3665] [ 42333 141667]
+--------------------
+('Covar_type: diag, number gaussian = ', 809)
+Conf_matrix: 
+[6215 3189] [ 48462 135538]
+--------------------
+('Covar_type: diag, number gaussian = ', 811)
+Conf_matrix: 
+[6128 3276] [ 48778 135222]
+--------------------
+('Covar_type: diag, number gaussian = ', 813)
+Conf_matrix: 
+[5937 3467] [ 43357 140643]
+--------------------
+('Covar_type: diag, number gaussian = ', 815)
+Conf_matrix: 
+[5808 3596] [ 44825 139175]
+--------------------
+('Covar_type: diag, number gaussian = ', 817)
+Conf_matrix: 
+[5200 4204] [ 38424 145576]
+--------------------
+('Covar_type: diag, number gaussian = ', 819)
+Conf_matrix: 
+[6322 3082] [ 49376 134624]
+--------------------
+('Covar_type: diag, number gaussian = ', 821)
+Conf_matrix: 
+[6330 3074] [ 43719 140281]
+--------------------
+('Covar_type: diag, number gaussian = ', 823)
+Conf_matrix: 
+[6176 3228] [ 46819 137181]
+--------------------
+('Covar_type: diag, number gaussian = ', 825)
+Conf_matrix: 
+[5349 4055] [ 39181 144819]
+--------------------
+('Covar_type: diag, number gaussian = ', 827)
+Conf_matrix: 
+[5298 4106] [ 38862 145138]
+--------------------
+('Covar_type: diag, number gaussian = ', 829)
+Conf_matrix: 
+[6080 3324] [ 49241 134759]
+--------------------
+('Covar_type: diag, number gaussian = ', 831)
+Conf_matrix: 
+[6260 3144] [ 46943 137057]
+--------------------
+('Covar_type: diag, number gaussian = ', 833)
+Conf_matrix: 
+[6259 3145] [ 47180 136820]
+--------------------
+('Covar_type: diag, number gaussian = ', 835)
+Conf_matrix: 
+[5691 3713] [ 44020 139980]
+--------------------
+('Covar_type: diag, number gaussian = ', 837)
+Conf_matrix: 
+[6365 3039] [ 50405 133595]
+--------------------
+('Covar_type: diag, number gaussian = ', 839)
+Conf_matrix: 
+[5873 3531] [ 44593 139407]
+--------------------
+('Covar_type: diag, number gaussian = ', 841)
+Conf_matrix: 
+[5951 3453] [ 46918 137082]
+--------------------
+('Covar_type: diag, number gaussian = ', 843)
+Conf_matrix: 
+[6033 3371] [ 44128 139872]
+--------------------
+('Covar_type: diag, number gaussian = ', 845)
+Conf_matrix: 
+[6271 3133] [ 50723 133277]
+--------------------
+('Covar_type: diag, number gaussian = ', 847)
+Conf_matrix: 
+[6121 3283] [ 45280 138720]
+--------------------
+('Covar_type: diag, number gaussian = ', 849)
+Conf_matrix: 
+[6466 2938] [ 48833 135167]
+--------------------
+('Covar_type: diag, number gaussian = ', 851)
+Conf_matrix: 
+[6298 3106] [ 48418 135582]
+--------------------
+('Covar_type: diag, number gaussian = ', 853)
+Conf_matrix: 
+[6351 3053] [ 48864 135136]
+--------------------
+('Covar_type: diag, number gaussian = ', 855)
+Conf_matrix: 
+[6135 3269] [ 48186 135814]
+--------------------
+('Covar_type: diag, number gaussian = ', 857)
+Conf_matrix: 
+[6515 2889] [ 45841 138159]
+--------------------
+('Covar_type: diag, number gaussian = ', 859)
+Conf_matrix: 
+[5741 3663] [ 38410 145590]
+--------------------
+('Covar_type: diag, number gaussian = ', 861)
+Conf_matrix: 
+[6164 3240] [ 47554 136446]
+--------------------
+('Covar_type: diag, number gaussian = ', 863)
+Conf_matrix: 
+[5971 3433] [ 44226 139774]
+--------------------
+('Covar_type: diag, number gaussian = ', 865)
+Conf_matrix: 
+[6154 3250] [ 46838 137162]
+--------------------
+('Covar_type: diag, number gaussian = ', 867)
+Conf_matrix: 
+[5767 3637] [ 39206 144794]
+--------------------
+('Covar_type: diag, number gaussian = ', 869)
+Conf_matrix: 
+[6697 2707] [ 46746 137254]
+--------------------
+('Covar_type: diag, number gaussian = ', 871)
+Conf_matrix: 
+[6029 3375] [ 42006 141994]
+--------------------
+('Covar_type: diag, number gaussian = ', 873)
+Conf_matrix: 
+[5729 3675] [ 39369 144631]
+--------------------
+('Covar_type: diag, number gaussian = ', 875)
+Conf_matrix: 
+[6261 3143] [ 47603 136397]
+--------------------
+('Covar_type: diag, number gaussian = ', 877)
+Conf_matrix: 
+[6498 2906] [ 41822 142178]
+--------------------
+('Covar_type: diag, number gaussian = ', 879)
+Conf_matrix: 
+[6412 2992] [ 48024 135976]
+--------------------
+('Covar_type: diag, number gaussian = ', 881)
+Conf_matrix: 
+[6622 2782] [ 49866 134134]
+--------------------
+('Covar_type: diag, number gaussian = ', 883)
+Conf_matrix: 
+[6173 3231] [ 44767 139233]
+--------------------
+('Covar_type: diag, number gaussian = ', 885)
+Conf_matrix: 
+[6351 3053] [ 50695 133305]
+--------------------
+('Covar_type: diag, number gaussian = ', 887)
+Conf_matrix: 
+[6160 3244] [ 44901 139099]
+--------------------
+('Covar_type: diag, number gaussian = ', 889)
+Conf_matrix: 
+[6332 3072] [ 44638 139362]
+--------------------
+('Covar_type: diag, number gaussian = ', 891)
+Conf_matrix: 
+[6179 3225] [ 43017 140983]
+--------------------
+('Covar_type: diag, number gaussian = ', 893)
+Conf_matrix: 
+[6516 2888] [ 46876 137124]
+--------------------
+('Covar_type: diag, number gaussian = ', 895)
+Conf_matrix: 
+[6334 3070] [ 44613 139387]
+--------------------
+('Covar_type: diag, number gaussian = ', 897)
+Conf_matrix: 
+[5581 3823] [ 38609 145391]
+--------------------
+('Covar_type: diag, number gaussian = ', 899)
+Conf_matrix: 
+[5633 3771] [ 42180 141820]
+--------------------
+('Covar_type: diag, number gaussian = ', 901)
+Conf_matrix: 
+[6198 3206] [ 49521 134479]
+--------------------
+('Covar_type: diag, number gaussian = ', 903)
+Conf_matrix: 
+[5930 3474] [ 41239 142761]
+--------------------
+('Covar_type: diag, number gaussian = ', 905)
+Conf_matrix: 
+[5657 3747] [ 41161 142839]
+--------------------
+('Covar_type: diag, number gaussian = ', 907)
+Conf_matrix: 
+[6916 2488] [ 48006 135994]
+--------------------
+('Covar_type: diag, number gaussian = ', 909)
+Conf_matrix: 
+[5932 3472] [ 43645 140355]
+--------------------
+('Covar_type: diag, number gaussian = ', 911)
+Conf_matrix: 
+[6550 2854] [ 50267 133733]
+--------------------
+('Covar_type: diag, number gaussian = ', 913)
+Conf_matrix: 
+[5944 3460] [ 41027 142973]
+--------------------
+('Covar_type: diag, number gaussian = ', 915)
+Conf_matrix: 
+[6226 3178] [ 44824 139176]
+--------------------
+('Covar_type: diag, number gaussian = ', 917)
+Conf_matrix: 
+[6174 3230] [ 45165 138835]
+--------------------
+('Covar_type: diag, number gaussian = ', 919)
+Conf_matrix: 
+[6331 3073] [ 44692 139308]
+--------------------
+('Covar_type: diag, number gaussian = ', 921)
+Conf_matrix: 
+[6333 3071] [ 43870 140130]
+--------------------
+('Covar_type: diag, number gaussian = ', 923)
+Conf_matrix: 
+[5923 3481] [ 43359 140641]
+--------------------
+('Covar_type: diag, number gaussian = ', 925)
+Conf_matrix: 
+[6057 3347] [ 44929 139071]
+--------------------
+('Covar_type: diag, number gaussian = ', 927)
+Conf_matrix: 
+[6629 2775] [ 47567 136433]
+--------------------
+('Covar_type: diag, number gaussian = ', 929)
+Conf_matrix: 
+[5981 3423] [ 43951 140049]
+--------------------
+('Covar_type: diag, number gaussian = ', 931)
+Conf_matrix: 
+[5443 3961] [ 37658 146342]
+--------------------
+('Covar_type: diag, number gaussian = ', 933)
+Conf_matrix: 
+[6161 3243] [ 44668 139332]
+--------------------
+('Covar_type: diag, number gaussian = ', 935)
+Conf_matrix: 
+[6450 2954] [ 50567 133433]
+--------------------
+('Covar_type: diag, number gaussian = ', 937)
+Conf_matrix: 
+[5993 3411] [ 43217 140783]
+--------------------
+('Covar_type: diag, number gaussian = ', 939)
+Conf_matrix: 
+[5953 3451] [ 45293 138707]
+--------------------
+('Covar_type: diag, number gaussian = ', 941)
+Conf_matrix: 
+[6143 3261] [ 41699 142301]
+--------------------
+('Covar_type: diag, number gaussian = ', 943)
+Conf_matrix: 
+[5535 3869] [ 41196 142804]
+--------------------
+('Covar_type: diag, number gaussian = ', 945)
+Conf_matrix: 
+[5852 3552] [ 40180 143820]
+--------------------
+('Covar_type: diag, number gaussian = ', 947)
+Conf_matrix: 
+[6207 3197] [ 46100 137900]
+--------------------
+('Covar_type: diag, number gaussian = ', 949)
+Conf_matrix: 
+[6389 3015] [ 43614 140386]
+--------------------
+('Covar_type: diag, number gaussian = ', 951)
+Conf_matrix: 
+[6202 3202] [ 46318 137682]
+--------------------
+('Covar_type: diag, number gaussian = ', 953)
+Conf_matrix: 
+[6083 3321] [ 42629 141371]
+--------------------
+('Covar_type: diag, number gaussian = ', 955)
+Conf_matrix: 
+[5732 3672] [ 41312 142688]
+--------------------
+('Covar_type: diag, number gaussian = ', 957)
+Conf_matrix: 
+[6022 3382] [ 45815 138185]
+--------------------
+('Covar_type: diag, number gaussian = ', 959)
+Conf_matrix: 
+[6297 3107] [ 41700 142300]
+--------------------
+('Covar_type: diag, number gaussian = ', 961)
+Conf_matrix: 
+[6321 3083] [ 43447 140553]
+--------------------
+('Covar_type: diag, number gaussian = ', 963)
+Conf_matrix: 
+[6369 3035] [ 48310 135690]
+--------------------
+('Covar_type: diag, number gaussian = ', 965)
+Conf_matrix: 
+[6119 3285] [ 46938 137062]
+--------------------
+('Covar_type: diag, number gaussian = ', 967)
+Conf_matrix: 
+[6098 3306] [ 46920 137080]
+--------------------
+('Covar_type: diag, number gaussian = ', 969)
+Conf_matrix: 
+[6651 2753] [ 44745 139255]
+--------------------
+('Covar_type: diag, number gaussian = ', 971)
+Conf_matrix: 
+[6121 3283] [ 44703 139297]
+--------------------
+('Covar_type: diag, number gaussian = ', 973)
+Conf_matrix: 
+[5426 3978] [ 40909 143091]
+--------------------
+('Covar_type: diag, number gaussian = ', 975)
+Conf_matrix: 
+[6604 2800] [ 48196 135804]
+--------------------
+('Covar_type: diag, number gaussian = ', 977)
+Conf_matrix: 
+[5981 3423] [ 37536 146464]
+--------------------
+('Covar_type: diag, number gaussian = ', 979)
+Conf_matrix: 
+[6131 3273] [ 47214 136786]
+--------------------
+('Covar_type: diag, number gaussian = ', 981)
+Conf_matrix: 
+[6291 3113] [ 42163 141837]
+--------------------
+('Covar_type: diag, number gaussian = ', 983)
+Conf_matrix: 
+[6186 3218] [ 40381 143619]
+--------------------
+('Covar_type: diag, number gaussian = ', 985)
+Conf_matrix: 
+[6141 3263] [ 43657 140343]
+--------------------
+('Covar_type: diag, number gaussian = ', 987)
+Conf_matrix: 
+[6141 3263] [ 47042 136958]
+--------------------
+('Covar_type: diag, number gaussian = ', 989)
+Conf_matrix: 
+[6061 3343] [ 44080 139920]
+--------------------
+('Covar_type: diag, number gaussian = ', 991)
+Conf_matrix: 
+[6270 3134] [ 43836 140164]
+--------------------
+('Covar_type: diag, number gaussian = ', 993)
+Conf_matrix: 
+[6626 2778] [ 47471 136529]
+--------------------
+('Covar_type: diag, number gaussian = ', 995)
+Conf_matrix: 
+[6471 2933] [ 45506 138494]
+--------------------
+('Covar_type: diag, number gaussian = ', 997)
+Conf_matrix: 
+[6370 3034] [ 43736 140264]
+--------------------
+('Covar_type: diag, number gaussian = ', 999)
+Conf_matrix: 
+[6260 3144] [ 46879 137121]
+--------------------
+('Covar_type: diag, number gaussian = ', 1001)
+Conf_matrix: 
+[6112 3292] [ 41317 142683]
+--------------------
+('Covar_type: diag, number gaussian = ', 1003)
+Conf_matrix: 
+[6388 3016] [ 46064 137936]
+--------------------
+('Covar_type: diag, number gaussian = ', 1005)
+Conf_matrix: 
+[5619 3785] [ 40464 143536]
+--------------------
+('Covar_type: diag, number gaussian = ', 1007)
+Conf_matrix: 
+[5127 4277] [ 42559 141441]
+--------------------
+('Covar_type: diag, number gaussian = ', 1009)
+Conf_matrix: 
+[5717 3687] [ 41826 142174]
+--------------------
+('Covar_type: diag, number gaussian = ', 1011)
+Conf_matrix: 
+[6103 3301] [ 45187 138813]
+--------------------
+('Covar_type: diag, number gaussian = ', 1013)
+Conf_matrix: 
+[5844 3560] [ 40679 143321]
+--------------------
+('Covar_type: diag, number gaussian = ', 1015)
+Conf_matrix: 
+[6197 3207] [ 43577 140423]
+--------------------
+('Covar_type: diag, number gaussian = ', 1017)
+Conf_matrix: 
+[6280 3124] [ 42891 141109]
+--------------------
+('Covar_type: diag, number gaussian = ', 1019)
+Conf_matrix: 
+[6076 3328] [ 43113 140887]
+--------------------
+('Covar_type: diag, number gaussian = ', 1021)
+Conf_matrix: 
+[5845 3559] [ 46603 137397]
+--------------------
+('Covar_type: diag, number gaussian = ', 1023)
+Conf_matrix: 
+[5989 3415] [ 41493 142507]

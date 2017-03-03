@@ -1,0 +1,2049 @@
+
+--------------------
+('Covar_type: tied, number gaussian = ', 1)
+Conf_matrix: 
+[7861 1543] [ 44889 139111]
+--------------------
+('Covar_type: tied, number gaussian = ', 3)
+Conf_matrix: 
+[7922 1482] [ 51392 132608]
+--------------------
+('Covar_type: tied, number gaussian = ', 5)
+Conf_matrix: 
+[8001 1403] [ 57707 126293]
+--------------------
+('Covar_type: tied, number gaussian = ', 7)
+Conf_matrix: 
+[8086 1318] [ 63712 120288]
+--------------------
+('Covar_type: tied, number gaussian = ', 9)
+Conf_matrix: 
+[8359 1045] [ 68765 115235]
+--------------------
+('Covar_type: tied, number gaussian = ', 11)
+Conf_matrix: 
+[8403 1001] [ 71999 112001]
+--------------------
+('Covar_type: tied, number gaussian = ', 13)
+Conf_matrix: 
+[8528  876] [ 77163 106837]
+--------------------
+('Covar_type: tied, number gaussian = ', 15)
+Conf_matrix: 
+[8364 1040] [ 74922 109078]
+--------------------
+('Covar_type: tied, number gaussian = ', 17)
+Conf_matrix: 
+[8384 1020] [ 75362 108638]
+--------------------
+('Covar_type: tied, number gaussian = ', 19)
+Conf_matrix: 
+[8405  999] [ 77912 106088]
+--------------------
+('Covar_type: tied, number gaussian = ', 21)
+Conf_matrix: 
+[8435  969] [ 74672 109328]
+--------------------
+('Covar_type: tied, number gaussian = ', 23)
+Conf_matrix: 
+[8592  812] [86149 97851]
+--------------------
+('Covar_type: tied, number gaussian = ', 25)
+Conf_matrix: 
+[8598  806] [ 81456 102544]
+--------------------
+('Covar_type: tied, number gaussian = ', 27)
+Conf_matrix: 
+[8414  990] [85996 98004]
+--------------------
+('Covar_type: tied, number gaussian = ', 29)
+Conf_matrix: 
+[8579  825] [ 83949 100051]
+--------------------
+('Covar_type: tied, number gaussian = ', 31)
+Conf_matrix: 
+[8661  743] [92048 91952]
+--------------------
+('Covar_type: tied, number gaussian = ', 33)
+Conf_matrix: 
+[8662  742] [90570 93430]
+--------------------
+('Covar_type: tied, number gaussian = ', 35)
+Conf_matrix: 
+[8764  640] [96992 87008]
+--------------------
+('Covar_type: tied, number gaussian = ', 37)
+Conf_matrix: 
+[8678  726] [89245 94755]
+--------------------
+('Covar_type: tied, number gaussian = ', 39)
+Conf_matrix: 
+[8740  664] [95289 88711]
+--------------------
+('Covar_type: tied, number gaussian = ', 41)
+Conf_matrix: 
+[8766  638] [97554 86446]
+--------------------
+('Covar_type: tied, number gaussian = ', 43)
+Conf_matrix: 
+[8745  659] [96308 87692]
+--------------------
+('Covar_type: tied, number gaussian = ', 45)
+Conf_matrix: 
+[8757  647] [99663 84337]
+--------------------
+('Covar_type: tied, number gaussian = ', 47)
+Conf_matrix: 
+[8750  654] [96085 87915]
+--------------------
+('Covar_type: tied, number gaussian = ', 49)
+Conf_matrix: 
+[8791  613] [99209 84791]
+--------------------
+('Covar_type: tied, number gaussian = ', 51)
+Conf_matrix: 
+[8799  605] [101134  82866]
+--------------------
+('Covar_type: tied, number gaussian = ', 53)
+Conf_matrix: 
+[8832  572] [100087  83913]
+--------------------
+('Covar_type: tied, number gaussian = ', 55)
+Conf_matrix: 
+[8815  589] [102253  81747]
+--------------------
+('Covar_type: tied, number gaussian = ', 57)
+Conf_matrix: 
+[8808  596] [101865  82135]
+--------------------
+('Covar_type: tied, number gaussian = ', 59)
+Conf_matrix: 
+[8848  556] [105288  78712]
+--------------------
+('Covar_type: tied, number gaussian = ', 61)
+Conf_matrix: 
+[8807  597] [103170  80830]
+--------------------
+('Covar_type: tied, number gaussian = ', 63)
+Conf_matrix: 
+[8894  510] [108214  75786]
+--------------------
+('Covar_type: tied, number gaussian = ', 65)
+Conf_matrix: 
+[8888  516] [105880  78120]
+--------------------
+('Covar_type: tied, number gaussian = ', 67)
+Conf_matrix: 
+[8921  483] [109115  74885]
+--------------------
+('Covar_type: tied, number gaussian = ', 69)
+Conf_matrix: 
+[8880  524] [107139  76861]
+--------------------
+('Covar_type: tied, number gaussian = ', 71)
+Conf_matrix: 
+[8901  503] [112473  71527]
+--------------------
+('Covar_type: tied, number gaussian = ', 73)
+Conf_matrix: 
+[8952  452] [109441  74559]
+--------------------
+('Covar_type: tied, number gaussian = ', 75)
+Conf_matrix: 
+[8927  477] [110274  73726]
+--------------------
+('Covar_type: tied, number gaussian = ', 77)
+Conf_matrix: 
+[8913  491] [109119  74881]
+--------------------
+('Covar_type: tied, number gaussian = ', 79)
+Conf_matrix: 
+[8948  456] [113977  70023]
+--------------------
+('Covar_type: tied, number gaussian = ', 81)
+Conf_matrix: 
+[8913  491] [112310  71690]
+--------------------
+('Covar_type: tied, number gaussian = ', 83)
+Conf_matrix: 
+[8898  506] [110195  73805]
+--------------------
+('Covar_type: tied, number gaussian = ', 85)
+Conf_matrix: 
+[8912  492] [116110  67890]
+--------------------
+('Covar_type: tied, number gaussian = ', 87)
+Conf_matrix: 
+[8944  460] [115139  68861]
+--------------------
+('Covar_type: tied, number gaussian = ', 89)
+Conf_matrix: 
+[8963  441] [114781  69219]
+--------------------
+('Covar_type: tied, number gaussian = ', 91)
+Conf_matrix: 
+[8936  468] [112243  71757]
+--------------------
+('Covar_type: tied, number gaussian = ', 93)
+Conf_matrix: 
+[8919  485] [116435  67565]
+--------------------
+('Covar_type: tied, number gaussian = ', 95)
+Conf_matrix: 
+[8902  502] [115112  68888]
+--------------------
+('Covar_type: tied, number gaussian = ', 97)
+Conf_matrix: 
+[8933  471] [116507  67493]
+--------------------
+('Covar_type: tied, number gaussian = ', 99)
+Conf_matrix: 
+[8924  480] [115403  68597]
+--------------------
+('Covar_type: tied, number gaussian = ', 101)
+Conf_matrix: 
+[8870  534] [112406  71594]
+--------------------
+('Covar_type: tied, number gaussian = ', 103)
+Conf_matrix: 
+[8944  460] [117228  66772]
+--------------------
+('Covar_type: tied, number gaussian = ', 105)
+Conf_matrix: 
+[8965  439] [116408  67592]
+--------------------
+('Covar_type: tied, number gaussian = ', 107)
+Conf_matrix: 
+[8891  513] [117565  66435]
+--------------------
+('Covar_type: tied, number gaussian = ', 109)
+Conf_matrix: 
+[8974  430] [116313  67687]
+--------------------
+('Covar_type: tied, number gaussian = ', 111)
+Conf_matrix: 
+[8928  476] [119338  64662]
+--------------------
+('Covar_type: tied, number gaussian = ', 113)
+Conf_matrix: 
+[8955  449] [116015  67985]
+--------------------
+('Covar_type: tied, number gaussian = ', 115)
+Conf_matrix: 
+[8933  471] [116211  67789]
+--------------------
+('Covar_type: tied, number gaussian = ', 117)
+Conf_matrix: 
+[8909  495] [120172  63828]
+--------------------
+('Covar_type: tied, number gaussian = ', 119)
+Conf_matrix: 
+[8949  455] [116312  67688]
+--------------------
+('Covar_type: tied, number gaussian = ', 121)
+Conf_matrix: 
+[8956  448] [119303  64697]
+--------------------
+('Covar_type: tied, number gaussian = ', 123)
+Conf_matrix: 
+[8917  487] [117509  66491]
+--------------------
+('Covar_type: tied, number gaussian = ', 125)
+Conf_matrix: 
+[8963  441] [118650  65350]
+--------------------
+('Covar_type: tied, number gaussian = ', 127)
+Conf_matrix: 
+[8958  446] [120686  63314]
+--------------------
+('Covar_type: tied, number gaussian = ', 129)
+Conf_matrix: 
+[8940  464] [118929  65071]
+--------------------
+('Covar_type: tied, number gaussian = ', 131)
+Conf_matrix: 
+[8964  440] [118867  65133]
+--------------------
+('Covar_type: tied, number gaussian = ', 133)
+Conf_matrix: 
+[8963  441] [121392  62608]
+--------------------
+('Covar_type: tied, number gaussian = ', 135)
+Conf_matrix: 
+[8972  432] [120800  63200]
+--------------------
+('Covar_type: tied, number gaussian = ', 137)
+Conf_matrix: 
+[8948  456] [117573  66427]
+--------------------
+('Covar_type: tied, number gaussian = ', 139)
+Conf_matrix: 
+[8944  460] [120105  63895]
+--------------------
+('Covar_type: tied, number gaussian = ', 141)
+Conf_matrix: 
+[8938  466] [119601  64399]
+--------------------
+('Covar_type: tied, number gaussian = ', 143)
+Conf_matrix: 
+[8932  472] [120758  63242]
+--------------------
+('Covar_type: tied, number gaussian = ', 145)
+Conf_matrix: 
+[8906  498] [119735  64265]
+--------------------
+('Covar_type: tied, number gaussian = ', 147)
+Conf_matrix: 
+[8975  429] [122577  61423]
+--------------------
+('Covar_type: tied, number gaussian = ', 149)
+Conf_matrix: 
+[8968  436] [121099  62901]
+--------------------
+('Covar_type: tied, number gaussian = ', 151)
+Conf_matrix: 
+[8950  454] [120277  63723]
+--------------------
+('Covar_type: tied, number gaussian = ', 153)
+Conf_matrix: 
+[8978  426] [120539  63461]
+--------------------
+('Covar_type: tied, number gaussian = ', 155)
+Conf_matrix: 
+[8941  463] [121108  62892]
+--------------------
+('Covar_type: tied, number gaussian = ', 157)
+Conf_matrix: 
+[8948  456] [120188  63812]
+--------------------
+('Covar_type: tied, number gaussian = ', 159)
+Conf_matrix: 
+[8918  486] [121780  62220]
+--------------------
+('Covar_type: tied, number gaussian = ', 161)
+Conf_matrix: 
+[8968  436] [122018  61982]
+--------------------
+('Covar_type: tied, number gaussian = ', 163)
+Conf_matrix: 
+[8952  452] [124037  59963]
+--------------------
+('Covar_type: tied, number gaussian = ', 165)
+Conf_matrix: 
+[8973  431] [122262  61738]
+--------------------
+('Covar_type: tied, number gaussian = ', 167)
+Conf_matrix: 
+[8974  430] [119973  64027]
+--------------------
+('Covar_type: tied, number gaussian = ', 169)
+Conf_matrix: 
+[8954  450] [121872  62128]
+--------------------
+('Covar_type: tied, number gaussian = ', 171)
+Conf_matrix: 
+[8962  442] [119978  64022]
+--------------------
+('Covar_type: tied, number gaussian = ', 173)
+Conf_matrix: 
+[8965  439] [124029  59971]
+--------------------
+('Covar_type: tied, number gaussian = ', 175)
+Conf_matrix: 
+[8923  481] [122272  61728]
+--------------------
+('Covar_type: tied, number gaussian = ', 177)
+Conf_matrix: 
+[8954  450] [120335  63665]
+--------------------
+('Covar_type: tied, number gaussian = ', 179)
+Conf_matrix: 
+[8941  463] [120424  63576]
+--------------------
+('Covar_type: tied, number gaussian = ', 181)
+Conf_matrix: 
+[8970  434] [121268  62732]
+--------------------
+('Covar_type: tied, number gaussian = ', 183)
+Conf_matrix: 
+[8962  442] [122720  61280]
+--------------------
+('Covar_type: tied, number gaussian = ', 185)
+Conf_matrix: 
+[8979  425] [123249  60751]
+--------------------
+('Covar_type: tied, number gaussian = ', 187)
+Conf_matrix: 
+[8986  418] [122323  61677]
+--------------------
+('Covar_type: tied, number gaussian = ', 189)
+Conf_matrix: 
+[8965  439] [122860  61140]
+--------------------
+('Covar_type: tied, number gaussian = ', 191)
+Conf_matrix: 
+[8966  438] [121770  62230]
+--------------------
+('Covar_type: tied, number gaussian = ', 193)
+Conf_matrix: 
+[8964  440] [122606  61394]
+--------------------
+('Covar_type: tied, number gaussian = ', 195)
+Conf_matrix: 
+[8987  417] [123960  60040]
+--------------------
+('Covar_type: tied, number gaussian = ', 197)
+Conf_matrix: 
+[8978  426] [125207  58793]
+--------------------
+('Covar_type: tied, number gaussian = ', 199)
+Conf_matrix: 
+[8953  451] [121182  62818]
+--------------------
+('Covar_type: tied, number gaussian = ', 201)
+Conf_matrix: 
+[8963  441] [124530  59470]
+--------------------
+('Covar_type: tied, number gaussian = ', 203)
+Conf_matrix: 
+[8975  429] [121252  62748]
+--------------------
+('Covar_type: tied, number gaussian = ', 205)
+Conf_matrix: 
+[8951  453] [123752  60248]
+--------------------
+('Covar_type: tied, number gaussian = ', 207)
+Conf_matrix: 
+[8992  412] [121247  62753]
+--------------------
+('Covar_type: tied, number gaussian = ', 209)
+Conf_matrix: 
+[8967  437] [124955  59045]
+--------------------
+('Covar_type: tied, number gaussian = ', 211)
+Conf_matrix: 
+[8963  441] [124312  59688]
+--------------------
+('Covar_type: tied, number gaussian = ', 213)
+Conf_matrix: 
+[8986  418] [123383  60617]
+--------------------
+('Covar_type: tied, number gaussian = ', 215)
+Conf_matrix: 
+[9001  403] [123075  60925]
+--------------------
+('Covar_type: tied, number gaussian = ', 217)
+Conf_matrix: 
+[8952  452] [123517  60483]
+--------------------
+('Covar_type: tied, number gaussian = ', 219)
+Conf_matrix: 
+[8979  425] [123576  60424]
+--------------------
+('Covar_type: tied, number gaussian = ', 221)
+Conf_matrix: 
+[8961  443] [122849  61151]
+--------------------
+('Covar_type: tied, number gaussian = ', 223)
+Conf_matrix: 
+[8960  444] [122839  61161]
+--------------------
+('Covar_type: tied, number gaussian = ', 225)
+Conf_matrix: 
+[9011  393] [123306  60694]
+--------------------
+('Covar_type: tied, number gaussian = ', 227)
+Conf_matrix: 
+[8958  446] [122202  61798]
+--------------------
+('Covar_type: tied, number gaussian = ', 229)
+Conf_matrix: 
+[8985  419] [123460  60540]
+--------------------
+('Covar_type: tied, number gaussian = ', 231)
+Conf_matrix: 
+[8991  413] [123466  60534]
+--------------------
+('Covar_type: tied, number gaussian = ', 233)
+Conf_matrix: 
+[8939  465] [122061  61939]
+--------------------
+('Covar_type: tied, number gaussian = ', 235)
+Conf_matrix: 
+[8994  410] [123040  60960]
+--------------------
+('Covar_type: tied, number gaussian = ', 237)
+Conf_matrix: 
+[9012  392] [125751  58249]
+--------------------
+('Covar_type: tied, number gaussian = ', 239)
+Conf_matrix: 
+[8959  445] [124268  59732]
+--------------------
+('Covar_type: tied, number gaussian = ', 241)
+Conf_matrix: 
+[9001  403] [124279  59721]
+--------------------
+('Covar_type: tied, number gaussian = ', 243)
+Conf_matrix: 
+[8982  422] [123216  60784]
+--------------------
+('Covar_type: tied, number gaussian = ', 245)
+Conf_matrix: 
+[8986  418] [122616  61384]
+--------------------
+('Covar_type: tied, number gaussian = ', 247)
+Conf_matrix: 
+[8975  429] [125068  58932]
+--------------------
+('Covar_type: tied, number gaussian = ', 249)
+Conf_matrix: 
+[9000  404] [126410  57590]
+--------------------
+('Covar_type: tied, number gaussian = ', 251)
+Conf_matrix: 
+[8966  438] [122643  61357]
+--------------------
+('Covar_type: tied, number gaussian = ', 253)
+Conf_matrix: 
+[9015  389] [124036  59964]
+--------------------
+('Covar_type: tied, number gaussian = ', 255)
+Conf_matrix: 
+[8977  427] [124496  59504]
+--------------------
+('Covar_type: tied, number gaussian = ', 257)
+Conf_matrix: 
+[8983  421] [125265  58735]
+--------------------
+('Covar_type: tied, number gaussian = ', 259)
+Conf_matrix: 
+[9002  402] [124102  59898]
+--------------------
+('Covar_type: tied, number gaussian = ', 261)
+Conf_matrix: 
+[9000  404] [124234  59766]
+--------------------
+('Covar_type: tied, number gaussian = ', 263)
+Conf_matrix: 
+[8995  409] [124017  59983]
+--------------------
+('Covar_type: tied, number gaussian = ', 265)
+Conf_matrix: 
+[8995  409] [123861  60139]
+--------------------
+('Covar_type: tied, number gaussian = ', 267)
+Conf_matrix: 
+[8983  421] [124611  59389]
+--------------------
+('Covar_type: tied, number gaussian = ', 269)
+Conf_matrix: 
+[8970  434] [124724  59276]
+--------------------
+('Covar_type: tied, number gaussian = ', 271)
+Conf_matrix: 
+[9021  383] [124987  59013]
+--------------------
+('Covar_type: tied, number gaussian = ', 273)
+Conf_matrix: 
+[8977  427] [125050  58950]
+--------------------
+('Covar_type: tied, number gaussian = ', 275)
+Conf_matrix: 
+[8970  434] [125019  58981]
+--------------------
+('Covar_type: tied, number gaussian = ', 277)
+Conf_matrix: 
+[8983  421] [123567  60433]
+--------------------
+('Covar_type: tied, number gaussian = ', 279)
+Conf_matrix: 
+[8989  415] [124072  59928]
+--------------------
+('Covar_type: tied, number gaussian = ', 281)
+Conf_matrix: 
+[8952  452] [125093  58907]
+--------------------
+('Covar_type: tied, number gaussian = ', 283)
+Conf_matrix: 
+[8983  421] [122716  61284]
+--------------------
+('Covar_type: tied, number gaussian = ', 285)
+Conf_matrix: 
+[8987  417] [124957  59043]
+--------------------
+('Covar_type: tied, number gaussian = ', 287)
+Conf_matrix: 
+[9011  393] [125701  58299]
+--------------------
+('Covar_type: tied, number gaussian = ', 289)
+Conf_matrix: 
+[9027  377] [123474  60526]
+--------------------
+('Covar_type: tied, number gaussian = ', 291)
+Conf_matrix: 
+[9000  404] [126507  57493]
+--------------------
+('Covar_type: tied, number gaussian = ', 293)
+Conf_matrix: 
+[8986  418] [126658  57342]
+--------------------
+('Covar_type: tied, number gaussian = ', 295)
+Conf_matrix: 
+[8983  421] [127183  56817]
+--------------------
+('Covar_type: tied, number gaussian = ', 297)
+Conf_matrix: 
+[8982  422] [127475  56525]
+--------------------
+('Covar_type: tied, number gaussian = ', 299)
+Conf_matrix: 
+[8990  414] [125728  58272]
+--------------------
+('Covar_type: tied, number gaussian = ', 301)
+Conf_matrix: 
+[8994  410] [127244  56756]
+--------------------
+('Covar_type: tied, number gaussian = ', 303)
+Conf_matrix: 
+[8990  414] [124906  59094]
+--------------------
+('Covar_type: tied, number gaussian = ', 305)
+Conf_matrix: 
+[9011  393] [123205  60795]
+--------------------
+('Covar_type: tied, number gaussian = ', 307)
+Conf_matrix: 
+[9018  386] [125351  58649]
+--------------------
+('Covar_type: tied, number gaussian = ', 309)
+Conf_matrix: 
+[9021  383] [125284  58716]
+--------------------
+('Covar_type: tied, number gaussian = ', 311)
+Conf_matrix: 
+[8969  435] [126542  57458]
+--------------------
+('Covar_type: tied, number gaussian = ', 313)
+Conf_matrix: 
+[9021  383] [128645  55355]
+--------------------
+('Covar_type: tied, number gaussian = ', 315)
+Conf_matrix: 
+[9007  397] [125705  58295]
+--------------------
+('Covar_type: tied, number gaussian = ', 317)
+Conf_matrix: 
+[9007  397] [126276  57724]
+--------------------
+('Covar_type: tied, number gaussian = ', 319)
+Conf_matrix: 
+[9007  397] [126347  57653]
+--------------------
+('Covar_type: tied, number gaussian = ', 321)
+Conf_matrix: 
+[8987  417] [125983  58017]
+--------------------
+('Covar_type: tied, number gaussian = ', 323)
+Conf_matrix: 
+[8988  416] [125445  58555]
+--------------------
+('Covar_type: tied, number gaussian = ', 325)
+Conf_matrix: 
+[8991  413] [124740  59260]
+--------------------
+('Covar_type: tied, number gaussian = ', 327)
+Conf_matrix: 
+[8997  407] [126738  57262]
+--------------------
+('Covar_type: tied, number gaussian = ', 329)
+Conf_matrix: 
+[9028  376] [126882  57118]
+--------------------
+('Covar_type: tied, number gaussian = ', 331)
+Conf_matrix: 
+[9004  400] [127218  56782]
+--------------------
+('Covar_type: tied, number gaussian = ', 333)
+Conf_matrix: 
+[9003  401] [126879  57121]
+--------------------
+('Covar_type: tied, number gaussian = ', 335)
+Conf_matrix: 
+[9014  390] [127785  56215]
+--------------------
+('Covar_type: tied, number gaussian = ', 337)
+Conf_matrix: 
+[9016  388] [127894  56106]
+--------------------
+('Covar_type: tied, number gaussian = ', 339)
+Conf_matrix: 
+[8993  411] [126926  57074]
+--------------------
+('Covar_type: tied, number gaussian = ', 341)
+Conf_matrix: 
+[8994  410] [126383  57617]
+--------------------
+('Covar_type: tied, number gaussian = ', 343)
+Conf_matrix: 
+[8982  422] [125536  58464]
+--------------------
+('Covar_type: tied, number gaussian = ', 345)
+Conf_matrix: 
+[9001  403] [127538  56462]
+--------------------
+('Covar_type: tied, number gaussian = ', 347)
+Conf_matrix: 
+[9021  383] [128307  55693]
+--------------------
+('Covar_type: tied, number gaussian = ', 349)
+Conf_matrix: 
+[8991  413] [126669  57331]
+--------------------
+('Covar_type: tied, number gaussian = ', 351)
+Conf_matrix: 
+[9002  402] [125606  58394]
+--------------------
+('Covar_type: tied, number gaussian = ', 353)
+Conf_matrix: 
+[9002  402] [125826  58174]
+--------------------
+('Covar_type: tied, number gaussian = ', 355)
+Conf_matrix: 
+[8997  407] [126249  57751]
+--------------------
+('Covar_type: tied, number gaussian = ', 357)
+Conf_matrix: 
+[9012  392] [128646  55354]
+--------------------
+('Covar_type: tied, number gaussian = ', 359)
+Conf_matrix: 
+[8994  410] [126192  57808]
+--------------------
+('Covar_type: tied, number gaussian = ', 361)
+Conf_matrix: 
+[9016  388] [127326  56674]
+--------------------
+('Covar_type: tied, number gaussian = ', 363)
+Conf_matrix: 
+[8995  409] [126804  57196]
+--------------------
+('Covar_type: tied, number gaussian = ', 365)
+Conf_matrix: 
+[9007  397] [129370  54630]
+--------------------
+('Covar_type: tied, number gaussian = ', 367)
+Conf_matrix: 
+[9004  400] [128259  55741]
+--------------------
+('Covar_type: tied, number gaussian = ', 369)
+Conf_matrix: 
+[9008  396] [127697  56303]
+--------------------
+('Covar_type: tied, number gaussian = ', 371)
+Conf_matrix: 
+[8990  414] [125821  58179]
+--------------------
+('Covar_type: tied, number gaussian = ', 373)
+Conf_matrix: 
+[9010  394] [127230  56770]
+--------------------
+('Covar_type: tied, number gaussian = ', 375)
+Conf_matrix: 
+[9019  385] [127405  56595]
+--------------------
+('Covar_type: tied, number gaussian = ', 377)
+Conf_matrix: 
+[9017  387] [127708  56292]
+--------------------
+('Covar_type: tied, number gaussian = ', 379)
+Conf_matrix: 
+[9006  398] [127511  56489]
+--------------------
+('Covar_type: tied, number gaussian = ', 381)
+Conf_matrix: 
+[9025  379] [126166  57834]
+--------------------
+('Covar_type: tied, number gaussian = ', 383)
+Conf_matrix: 
+[8986  418] [127058  56942]
+--------------------
+('Covar_type: tied, number gaussian = ', 385)
+Conf_matrix: 
+[9012  392] [127255  56745]
+--------------------
+('Covar_type: tied, number gaussian = ', 387)
+Conf_matrix: 
+[9009  395] [129054  54946]
+--------------------
+('Covar_type: tied, number gaussian = ', 389)
+Conf_matrix: 
+[9004  400] [128286  55714]
+--------------------
+('Covar_type: tied, number gaussian = ', 391)
+Conf_matrix: 
+[9003  401] [125312  58688]
+--------------------
+('Covar_type: tied, number gaussian = ', 393)
+Conf_matrix: 
+[9016  388] [128843  55157]
+--------------------
+('Covar_type: tied, number gaussian = ', 395)
+Conf_matrix: 
+[8994  410] [126693  57307]
+--------------------
+('Covar_type: tied, number gaussian = ', 397)
+Conf_matrix: 
+[9008  396] [128116  55884]
+--------------------
+('Covar_type: tied, number gaussian = ', 399)
+Conf_matrix: 
+[8998  406] [127562  56438]
+--------------------
+('Covar_type: tied, number gaussian = ', 401)
+Conf_matrix: 
+[9003  401] [127705  56295]
+--------------------
+('Covar_type: tied, number gaussian = ', 403)
+Conf_matrix: 
+[9010  394] [126062  57938]
+--------------------
+('Covar_type: tied, number gaussian = ', 405)
+Conf_matrix: 
+[9019  385] [128241  55759]
+--------------------
+('Covar_type: tied, number gaussian = ', 407)
+Conf_matrix: 
+[9016  388] [126761  57239]
+--------------------
+('Covar_type: tied, number gaussian = ', 409)
+Conf_matrix: 
+[9035  369] [128146  55854]
+--------------------
+('Covar_type: tied, number gaussian = ', 411)
+Conf_matrix: 
+[8999  405] [129172  54828]
+--------------------
+('Covar_type: tied, number gaussian = ', 413)
+Conf_matrix: 
+[9040  364] [129680  54320]
+--------------------
+('Covar_type: tied, number gaussian = ', 415)
+Conf_matrix: 
+[9007  397] [128382  55618]
+--------------------
+('Covar_type: tied, number gaussian = ', 417)
+Conf_matrix: 
+[8998  406] [128385  55615]
+--------------------
+('Covar_type: tied, number gaussian = ', 419)
+Conf_matrix: 
+[8990  414] [127311  56689]
+--------------------
+('Covar_type: tied, number gaussian = ', 421)
+Conf_matrix: 
+[8994  410] [129016  54984]
+--------------------
+('Covar_type: tied, number gaussian = ', 423)
+Conf_matrix: 
+[8975  429] [127468  56532]
+--------------------
+('Covar_type: tied, number gaussian = ', 425)
+Conf_matrix: 
+[9023  381] [128312  55688]
+--------------------
+('Covar_type: tied, number gaussian = ', 427)
+Conf_matrix: 
+[9010  394] [128359  55641]
+--------------------
+('Covar_type: tied, number gaussian = ', 429)
+Conf_matrix: 
+[9031  373] [127707  56293]
+--------------------
+('Covar_type: tied, number gaussian = ', 431)
+Conf_matrix: 
+[9011  393] [127531  56469]
+--------------------
+('Covar_type: tied, number gaussian = ', 433)
+Conf_matrix: 
+[9033  371] [127586  56414]
+--------------------
+('Covar_type: tied, number gaussian = ', 435)
+Conf_matrix: 
+[9003  401] [126496  57504]
+--------------------
+('Covar_type: tied, number gaussian = ', 437)
+Conf_matrix: 
+[9030  374] [128071  55929]
+--------------------
+('Covar_type: tied, number gaussian = ', 439)
+Conf_matrix: 
+[9011  393] [127425  56575]
+--------------------
+('Covar_type: tied, number gaussian = ', 441)
+Conf_matrix: 
+[9025  379] [129913  54087]
+--------------------
+('Covar_type: tied, number gaussian = ', 443)
+Conf_matrix: 
+[9001  403] [128364  55636]
+--------------------
+('Covar_type: tied, number gaussian = ', 445)
+Conf_matrix: 
+[9040  364] [128966  55034]
+--------------------
+('Covar_type: tied, number gaussian = ', 447)
+Conf_matrix: 
+[9015  389] [129415  54585]
+--------------------
+('Covar_type: tied, number gaussian = ', 449)
+Conf_matrix: 
+[8994  410] [127216  56784]
+--------------------
+('Covar_type: tied, number gaussian = ', 451)
+Conf_matrix: 
+[9028  376] [129297  54703]
+--------------------
+('Covar_type: tied, number gaussian = ', 453)
+Conf_matrix: 
+[8992  412] [128969  55031]
+--------------------
+('Covar_type: tied, number gaussian = ', 455)
+Conf_matrix: 
+[8994  410] [128486  55514]
+--------------------
+('Covar_type: tied, number gaussian = ', 457)
+Conf_matrix: 
+[9009  395] [128529  55471]
+--------------------
+('Covar_type: tied, number gaussian = ', 459)
+Conf_matrix: 
+[9018  386] [127394  56606]
+--------------------
+('Covar_type: tied, number gaussian = ', 461)
+Conf_matrix: 
+[9020  384] [127695  56305]
+--------------------
+('Covar_type: tied, number gaussian = ', 463)
+Conf_matrix: 
+[9052  352] [129474  54526]
+--------------------
+('Covar_type: tied, number gaussian = ', 465)
+Conf_matrix: 
+[9025  379] [128730  55270]
+--------------------
+('Covar_type: tied, number gaussian = ', 467)
+Conf_matrix: 
+[9012  392] [128290  55710]
+--------------------
+('Covar_type: tied, number gaussian = ', 469)
+Conf_matrix: 
+[9025  379] [129739  54261]
+--------------------
+('Covar_type: tied, number gaussian = ', 471)
+Conf_matrix: 
+[9027  377] [131725  52275]
+--------------------
+('Covar_type: tied, number gaussian = ', 473)
+Conf_matrix: 
+[9029  375] [128561  55439]
+--------------------
+('Covar_type: tied, number gaussian = ', 475)
+Conf_matrix: 
+[9025  379] [129681  54319]
+--------------------
+('Covar_type: tied, number gaussian = ', 477)
+Conf_matrix: 
+[9020  384] [130966  53034]
+--------------------
+('Covar_type: tied, number gaussian = ', 479)
+Conf_matrix: 
+[9032  372] [129661  54339]
+--------------------
+('Covar_type: tied, number gaussian = ', 481)
+Conf_matrix: 
+[9041  363] [129939  54061]
+--------------------
+('Covar_type: tied, number gaussian = ', 483)
+Conf_matrix: 
+[9020  384] [128845  55155]
+--------------------
+('Covar_type: tied, number gaussian = ', 485)
+Conf_matrix: 
+[9018  386] [128886  55114]
+--------------------
+('Covar_type: tied, number gaussian = ', 487)
+Conf_matrix: 
+[9026  378] [130706  53294]
+--------------------
+('Covar_type: tied, number gaussian = ', 489)
+Conf_matrix: 
+[9017  387] [129228  54772]
+--------------------
+('Covar_type: tied, number gaussian = ', 491)
+Conf_matrix: 
+[9008  396] [129853  54147]
+--------------------
+('Covar_type: tied, number gaussian = ', 493)
+Conf_matrix: 
+[9023  381] [128105  55895]
+--------------------
+('Covar_type: tied, number gaussian = ', 495)
+Conf_matrix: 
+[8994  410] [126473  57527]
+--------------------
+('Covar_type: tied, number gaussian = ', 497)
+Conf_matrix: 
+[9014  390] [129445  54555]
+--------------------
+('Covar_type: tied, number gaussian = ', 499)
+Conf_matrix: 
+[9006  398] [127624  56376]
+--------------------
+('Covar_type: tied, number gaussian = ', 501)
+Conf_matrix: 
+[9029  375] [129253  54747]
+--------------------
+('Covar_type: tied, number gaussian = ', 503)
+Conf_matrix: 
+[9005  399] [127268  56732]
+--------------------
+('Covar_type: tied, number gaussian = ', 505)
+Conf_matrix: 
+[8999  405] [129761  54239]
+--------------------
+('Covar_type: tied, number gaussian = ', 507)
+Conf_matrix: 
+[9007  397] [127470  56530]
+--------------------
+('Covar_type: tied, number gaussian = ', 509)
+Conf_matrix: 
+[9013  391] [127354  56646]
+--------------------
+('Covar_type: tied, number gaussian = ', 511)
+Conf_matrix: 
+[9046  358] [128394  55606]
+--------------------
+('Covar_type: tied, number gaussian = ', 513)
+Conf_matrix: 
+[9018  386] [128324  55676]
+--------------------
+('Covar_type: tied, number gaussian = ', 515)
+Conf_matrix: 
+[9047  357] [130273  53727]
+--------------------
+('Covar_type: tied, number gaussian = ', 517)
+Conf_matrix: 
+[8991  413] [128139  55861]
+--------------------
+('Covar_type: tied, number gaussian = ', 519)
+Conf_matrix: 
+[9009  395] [128060  55940]
+--------------------
+('Covar_type: tied, number gaussian = ', 521)
+Conf_matrix: 
+[8980  424] [128983  55017]
+--------------------
+('Covar_type: tied, number gaussian = ', 523)
+Conf_matrix: 
+[9032  372] [130835  53165]
+--------------------
+('Covar_type: tied, number gaussian = ', 525)
+Conf_matrix: 
+[9015  389] [128087  55913]
+--------------------
+('Covar_type: tied, number gaussian = ', 527)
+Conf_matrix: 
+[9051  353] [129649  54351]
+--------------------
+('Covar_type: tied, number gaussian = ', 529)
+Conf_matrix: 
+[9032  372] [130040  53960]
+--------------------
+('Covar_type: tied, number gaussian = ', 531)
+Conf_matrix: 
+[9025  379] [129167  54833]
+--------------------
+('Covar_type: tied, number gaussian = ', 533)
+Conf_matrix: 
+[9033  371] [129734  54266]
+--------------------
+('Covar_type: tied, number gaussian = ', 535)
+Conf_matrix: 
+[9042  362] [127828  56172]
+--------------------
+('Covar_type: tied, number gaussian = ', 537)
+Conf_matrix: 
+[9033  371] [129530  54470]
+--------------------
+('Covar_type: tied, number gaussian = ', 539)
+Conf_matrix: 
+[8999  405] [128278  55722]
+--------------------
+('Covar_type: tied, number gaussian = ', 541)
+Conf_matrix: 
+[9010  394] [129144  54856]
+--------------------
+('Covar_type: tied, number gaussian = ', 543)
+Conf_matrix: 
+[9015  389] [129704  54296]
+--------------------
+('Covar_type: tied, number gaussian = ', 545)
+Conf_matrix: 
+[9014  390] [128056  55944]
+--------------------
+('Covar_type: tied, number gaussian = ', 547)
+Conf_matrix: 
+[9017  387] [129405  54595]
+--------------------
+('Covar_type: tied, number gaussian = ', 549)
+Conf_matrix: 
+[9037  367] [129397  54603]
+--------------------
+('Covar_type: tied, number gaussian = ', 551)
+Conf_matrix: 
+[9030  374] [128877  55123]
+--------------------
+('Covar_type: tied, number gaussian = ', 553)
+Conf_matrix: 
+[9043  361] [127786  56214]
+--------------------
+('Covar_type: tied, number gaussian = ', 555)
+Conf_matrix: 
+[9057  347] [128685  55315]
+--------------------
+('Covar_type: tied, number gaussian = ', 557)
+Conf_matrix: 
+[9023  381] [128644  55356]
+--------------------
+('Covar_type: tied, number gaussian = ', 559)
+Conf_matrix: 
+[9029  375] [128852  55148]
+--------------------
+('Covar_type: tied, number gaussian = ', 561)
+Conf_matrix: 
+[9050  354] [129811  54189]
+--------------------
+('Covar_type: tied, number gaussian = ', 563)
+Conf_matrix: 
+[9038  366] [128947  55053]
+--------------------
+('Covar_type: tied, number gaussian = ', 565)
+Conf_matrix: 
+[9029  375] [129007  54993]
+--------------------
+('Covar_type: tied, number gaussian = ', 567)
+Conf_matrix: 
+[9063  341] [130191  53809]
+--------------------
+('Covar_type: tied, number gaussian = ', 569)
+Conf_matrix: 
+[9039  365] [128972  55028]
+--------------------
+('Covar_type: tied, number gaussian = ', 571)
+Conf_matrix: 
+[9042  362] [130155  53845]
+--------------------
+('Covar_type: tied, number gaussian = ', 573)
+Conf_matrix: 
+[9025  379] [129408  54592]
+--------------------
+('Covar_type: tied, number gaussian = ', 575)
+Conf_matrix: 
+[9041  363] [129942  54058]
+--------------------
+('Covar_type: tied, number gaussian = ', 577)
+Conf_matrix: 
+[9030  374] [129687  54313]
+--------------------
+('Covar_type: tied, number gaussian = ', 579)
+Conf_matrix: 
+[9019  385] [129308  54692]
+--------------------
+('Covar_type: tied, number gaussian = ', 581)
+Conf_matrix: 
+[9020  384] [128513  55487]
+--------------------
+('Covar_type: tied, number gaussian = ', 583)
+Conf_matrix: 
+[9000  404] [129700  54300]
+--------------------
+('Covar_type: tied, number gaussian = ', 585)
+Conf_matrix: 
+[9027  377] [128977  55023]
+--------------------
+('Covar_type: tied, number gaussian = ', 587)
+Conf_matrix: 
+[9038  366] [130086  53914]
+--------------------
+('Covar_type: tied, number gaussian = ', 589)
+Conf_matrix: 
+[9033  371] [129795  54205]
+--------------------
+('Covar_type: tied, number gaussian = ', 591)
+Conf_matrix: 
+[9023  381] [129137  54863]
+--------------------
+('Covar_type: tied, number gaussian = ', 593)
+Conf_matrix: 
+[9032  372] [129008  54992]
+--------------------
+('Covar_type: tied, number gaussian = ', 595)
+Conf_matrix: 
+[9029  375] [128645  55355]
+--------------------
+('Covar_type: tied, number gaussian = ', 597)
+Conf_matrix: 
+[9016  388] [129141  54859]
+--------------------
+('Covar_type: tied, number gaussian = ', 599)
+Conf_matrix: 
+[9051  353] [129569  54431]
+--------------------
+('Covar_type: tied, number gaussian = ', 601)
+Conf_matrix: 
+[9033  371] [129272  54728]
+--------------------
+('Covar_type: tied, number gaussian = ', 603)
+Conf_matrix: 
+[9031  373] [128590  55410]
+--------------------
+('Covar_type: tied, number gaussian = ', 605)
+Conf_matrix: 
+[9019  385] [128612  55388]
+--------------------
+('Covar_type: tied, number gaussian = ', 607)
+Conf_matrix: 
+[9002  402] [127694  56306]
+--------------------
+('Covar_type: tied, number gaussian = ', 609)
+Conf_matrix: 
+[8999  405] [131366  52634]
+--------------------
+('Covar_type: tied, number gaussian = ', 611)
+Conf_matrix: 
+[9035  369] [128704  55296]
+--------------------
+('Covar_type: tied, number gaussian = ', 613)
+Conf_matrix: 
+[9023  381] [129629  54371]
+--------------------
+('Covar_type: tied, number gaussian = ', 615)
+Conf_matrix: 
+[9005  399] [130308  53692]
+--------------------
+('Covar_type: tied, number gaussian = ', 617)
+Conf_matrix: 
+[9049  355] [129309  54691]
+--------------------
+('Covar_type: tied, number gaussian = ', 619)
+Conf_matrix: 
+[9044  360] [128589  55411]
+--------------------
+('Covar_type: tied, number gaussian = ', 621)
+Conf_matrix: 
+[9050  354] [129075  54925]
+--------------------
+('Covar_type: tied, number gaussian = ', 623)
+Conf_matrix: 
+[9042  362] [127970  56030]
+--------------------
+('Covar_type: tied, number gaussian = ', 625)
+Conf_matrix: 
+[9032  372] [130064  53936]
+--------------------
+('Covar_type: tied, number gaussian = ', 627)
+Conf_matrix: 
+[9038  366] [128012  55988]
+--------------------
+('Covar_type: tied, number gaussian = ', 629)
+Conf_matrix: 
+[9025  379] [128647  55353]
+--------------------
+('Covar_type: tied, number gaussian = ', 631)
+Conf_matrix: 
+[9041  363] [130144  53856]
+--------------------
+('Covar_type: tied, number gaussian = ', 633)
+Conf_matrix: 
+[9050  354] [129337  54663]
+--------------------
+('Covar_type: tied, number gaussian = ', 635)
+Conf_matrix: 
+[9038  366] [129220  54780]
+--------------------
+('Covar_type: tied, number gaussian = ', 637)
+Conf_matrix: 
+[9033  371] [129918  54082]
+--------------------
+('Covar_type: tied, number gaussian = ', 639)
+Conf_matrix: 
+[9035  369] [127907  56093]
+--------------------
+('Covar_type: tied, number gaussian = ', 641)
+Conf_matrix: 
+[9017  387] [129937  54063]
+--------------------
+('Covar_type: tied, number gaussian = ', 643)
+Conf_matrix: 
+[9030  374] [128320  55680]
+--------------------
+('Covar_type: tied, number gaussian = ', 645)
+Conf_matrix: 
+[9029  375] [129462  54538]
+--------------------
+('Covar_type: tied, number gaussian = ', 647)
+Conf_matrix: 
+[9044  360] [127552  56448]
+--------------------
+('Covar_type: tied, number gaussian = ', 649)
+Conf_matrix: 
+[9026  378] [129101  54899]
+--------------------
+('Covar_type: tied, number gaussian = ', 651)
+Conf_matrix: 
+[9041  363] [128408  55592]
+--------------------
+('Covar_type: tied, number gaussian = ', 653)
+Conf_matrix: 
+[9009  395] [128505  55495]
+--------------------
+('Covar_type: tied, number gaussian = ', 655)
+Conf_matrix: 
+[9035  369] [128189  55811]
+--------------------
+('Covar_type: tied, number gaussian = ', 657)
+Conf_matrix: 
+[8997  407] [128980  55020]
+--------------------
+('Covar_type: tied, number gaussian = ', 659)
+Conf_matrix: 
+[9046  358] [128665  55335]
+--------------------
+('Covar_type: tied, number gaussian = ', 661)
+Conf_matrix: 
+[9015  389] [129815  54185]
+--------------------
+('Covar_type: tied, number gaussian = ', 663)
+Conf_matrix: 
+[9032  372] [128200  55800]
+--------------------
+('Covar_type: tied, number gaussian = ', 665)
+Conf_matrix: 
+[9004  400] [127145  56855]
+--------------------
+('Covar_type: tied, number gaussian = ', 667)
+Conf_matrix: 
+[9045  359] [127212  56788]
+--------------------
+('Covar_type: tied, number gaussian = ', 669)
+Conf_matrix: 
+[9037  367] [128324  55676]
+--------------------
+('Covar_type: tied, number gaussian = ', 671)
+Conf_matrix: 
+[9020  384] [128758  55242]
+--------------------
+('Covar_type: tied, number gaussian = ', 673)
+Conf_matrix: 
+[9050  354] [128734  55266]
+--------------------
+('Covar_type: tied, number gaussian = ', 675)
+Conf_matrix: 
+[9027  377] [128889  55111]
+--------------------
+('Covar_type: tied, number gaussian = ', 677)
+Conf_matrix: 
+[9021  383] [126913  57087]
+--------------------
+('Covar_type: tied, number gaussian = ', 679)
+Conf_matrix: 
+[9032  372] [128098  55902]
+--------------------
+('Covar_type: tied, number gaussian = ', 681)
+Conf_matrix: 
+[9030  374] [126899  57101]
+--------------------
+('Covar_type: tied, number gaussian = ', 683)
+Conf_matrix: 
+[9048  356] [127719  56281]
+--------------------
+('Covar_type: tied, number gaussian = ', 685)
+Conf_matrix: 
+[9034  370] [129237  54763]
+--------------------
+('Covar_type: tied, number gaussian = ', 687)
+Conf_matrix: 
+[9035  369] [129094  54906]
+--------------------
+('Covar_type: tied, number gaussian = ', 689)
+Conf_matrix: 
+[9040  364] [127880  56120]
+--------------------
+('Covar_type: tied, number gaussian = ', 691)
+Conf_matrix: 
+[9042  362] [125155  58845]
+--------------------
+('Covar_type: tied, number gaussian = ', 693)
+Conf_matrix: 
+[9038  366] [128964  55036]
+--------------------
+('Covar_type: tied, number gaussian = ', 695)
+Conf_matrix: 
+[9000  404] [128682  55318]
+--------------------
+('Covar_type: tied, number gaussian = ', 697)
+Conf_matrix: 
+[9005  399] [126830  57170]
+--------------------
+('Covar_type: tied, number gaussian = ', 699)
+Conf_matrix: 
+[9035  369] [131336  52664]
+--------------------
+('Covar_type: tied, number gaussian = ', 701)
+Conf_matrix: 
+[9047  357] [128247  55753]
+--------------------
+('Covar_type: tied, number gaussian = ', 703)
+Conf_matrix: 
+[9041  363] [128551  55449]
+--------------------
+('Covar_type: tied, number gaussian = ', 705)
+Conf_matrix: 
+[9036  368] [129470  54530]
+--------------------
+('Covar_type: tied, number gaussian = ', 707)
+Conf_matrix: 
+[9043  361] [128932  55068]
+--------------------
+('Covar_type: tied, number gaussian = ', 709)
+Conf_matrix: 
+[9014  390] [128915  55085]
+--------------------
+('Covar_type: tied, number gaussian = ', 711)
+Conf_matrix: 
+[9025  379] [127222  56778]
+--------------------
+('Covar_type: tied, number gaussian = ', 713)
+Conf_matrix: 
+[9022  382] [128709  55291]
+--------------------
+('Covar_type: tied, number gaussian = ', 715)
+Conf_matrix: 
+[9050  354] [130494  53506]
+--------------------
+('Covar_type: tied, number gaussian = ', 717)
+Conf_matrix: 
+[9030  374] [128736  55264]
+--------------------
+('Covar_type: tied, number gaussian = ', 719)
+Conf_matrix: 
+[9034  370] [127669  56331]
+--------------------
+('Covar_type: tied, number gaussian = ', 721)
+Conf_matrix: 
+[9034  370] [126966  57034]
+--------------------
+('Covar_type: tied, number gaussian = ', 723)
+Conf_matrix: 
+[9022  382] [128589  55411]
+--------------------
+('Covar_type: tied, number gaussian = ', 725)
+Conf_matrix: 
+[9039  365] [130662  53338]
+--------------------
+('Covar_type: tied, number gaussian = ', 727)
+Conf_matrix: 
+[9031  373] [127699  56301]
+--------------------
+('Covar_type: tied, number gaussian = ', 729)
+Conf_matrix: 
+[9035  369] [129846  54154]
+--------------------
+('Covar_type: tied, number gaussian = ', 731)
+Conf_matrix: 
+[9041  363] [128224  55776]
+--------------------
+('Covar_type: tied, number gaussian = ', 733)
+Conf_matrix: 
+[9026  378] [128386  55614]
+--------------------
+('Covar_type: tied, number gaussian = ', 735)
+Conf_matrix: 
+[9023  381] [128348  55652]
+--------------------
+('Covar_type: tied, number gaussian = ', 737)
+Conf_matrix: 
+[9020  384] [126077  57923]
+--------------------
+('Covar_type: tied, number gaussian = ', 739)
+Conf_matrix: 
+[9044  360] [128577  55423]
+--------------------
+('Covar_type: tied, number gaussian = ', 741)
+Conf_matrix: 
+[8991  413] [129115  54885]
+--------------------
+('Covar_type: tied, number gaussian = ', 743)
+Conf_matrix: 
+[9026  378] [129561  54439]
+--------------------
+('Covar_type: tied, number gaussian = ', 745)
+Conf_matrix: 
+[9020  384] [127613  56387]
+--------------------
+('Covar_type: tied, number gaussian = ', 747)
+Conf_matrix: 
+[9027  377] [128039  55961]
+--------------------
+('Covar_type: tied, number gaussian = ', 749)
+Conf_matrix: 
+[8995  409] [126566  57434]
+--------------------
+('Covar_type: tied, number gaussian = ', 751)
+Conf_matrix: 
+[9041  363] [128068  55932]
+--------------------
+('Covar_type: tied, number gaussian = ', 753)
+Conf_matrix: 
+[9024  380] [128104  55896]
+--------------------
+('Covar_type: tied, number gaussian = ', 755)
+Conf_matrix: 
+[9021  383] [128113  55887]
+--------------------
+('Covar_type: tied, number gaussian = ', 757)
+Conf_matrix: 
+[9026  378] [126485  57515]
+--------------------
+('Covar_type: tied, number gaussian = ', 759)
+Conf_matrix: 
+[9039  365] [128073  55927]
+--------------------
+('Covar_type: tied, number gaussian = ', 761)
+Conf_matrix: 
+[9013  391] [127187  56813]
+--------------------
+('Covar_type: tied, number gaussian = ', 763)
+Conf_matrix: 
+[9015  389] [128537  55463]
+--------------------
+('Covar_type: tied, number gaussian = ', 765)
+Conf_matrix: 
+[9019  385] [126621  57379]
+--------------------
+('Covar_type: tied, number gaussian = ', 767)
+Conf_matrix: 
+[9032  372] [126737  57263]
+--------------------
+('Covar_type: tied, number gaussian = ', 769)
+Conf_matrix: 
+[9072  332] [128936  55064]
+--------------------
+('Covar_type: tied, number gaussian = ', 771)
+Conf_matrix: 
+[9013  391] [128539  55461]
+--------------------
+('Covar_type: tied, number gaussian = ', 773)
+Conf_matrix: 
+[9018  386] [126996  57004]
+--------------------
+('Covar_type: tied, number gaussian = ', 775)
+Conf_matrix: 
+[9033  371] [127089  56911]
+--------------------
+('Covar_type: tied, number gaussian = ', 777)
+Conf_matrix: 
+[9026  378] [127403  56597]
+--------------------
+('Covar_type: tied, number gaussian = ', 779)
+Conf_matrix: 
+[9029  375] [128025  55975]
+--------------------
+('Covar_type: tied, number gaussian = ', 781)
+Conf_matrix: 
+[9046  358] [127479  56521]
+--------------------
+('Covar_type: tied, number gaussian = ', 783)
+Conf_matrix: 
+[9020  384] [128570  55430]
+--------------------
+('Covar_type: tied, number gaussian = ', 785)
+Conf_matrix: 
+[9040  364] [128306  55694]
+--------------------
+('Covar_type: tied, number gaussian = ', 787)
+Conf_matrix: 
+[8983  421] [126829  57171]
+--------------------
+('Covar_type: tied, number gaussian = ', 789)
+Conf_matrix: 
+[9031  373] [129499  54501]
+--------------------
+('Covar_type: tied, number gaussian = ', 791)
+Conf_matrix: 
+[9051  353] [126635  57365]
+--------------------
+('Covar_type: tied, number gaussian = ', 793)
+Conf_matrix: 
+[9031  373] [126846  57154]
+--------------------
+('Covar_type: tied, number gaussian = ', 795)
+Conf_matrix: 
+[9026  378] [128112  55888]
+--------------------
+('Covar_type: tied, number gaussian = ', 797)
+Conf_matrix: 
+[9012  392] [128078  55922]
+--------------------
+('Covar_type: tied, number gaussian = ', 799)
+Conf_matrix: 
+[9043  361] [126482  57518]
+--------------------
+('Covar_type: tied, number gaussian = ', 801)
+Conf_matrix: 
+[9023  381] [127415  56585]
+--------------------
+('Covar_type: tied, number gaussian = ', 803)
+Conf_matrix: 
+[9035  369] [129659  54341]
+--------------------
+('Covar_type: tied, number gaussian = ', 805)
+Conf_matrix: 
+[9037  367] [126360  57640]
+--------------------
+('Covar_type: tied, number gaussian = ', 807)
+Conf_matrix: 
+[9014  390] [126248  57752]
+--------------------
+('Covar_type: tied, number gaussian = ', 809)
+Conf_matrix: 
+[9002  402] [126723  57277]
+--------------------
+('Covar_type: tied, number gaussian = ', 811)
+Conf_matrix: 
+[9042  362] [127854  56146]
+--------------------
+('Covar_type: tied, number gaussian = ', 813)
+Conf_matrix: 
+[9019  385] [126724  57276]
+--------------------
+('Covar_type: tied, number gaussian = ', 815)
+Conf_matrix: 
+[9046  358] [128081  55919]
+--------------------
+('Covar_type: tied, number gaussian = ', 817)
+Conf_matrix: 
+[9037  367] [127637  56363]
+--------------------
+('Covar_type: tied, number gaussian = ', 819)
+Conf_matrix: 
+[9035  369] [126984  57016]
+--------------------
+('Covar_type: tied, number gaussian = ', 821)
+Conf_matrix: 
+[9034  370] [124830  59170]
+--------------------
+('Covar_type: tied, number gaussian = ', 823)
+Conf_matrix: 
+[9019  385] [126231  57769]
+--------------------
+('Covar_type: tied, number gaussian = ', 825)
+Conf_matrix: 
+[9036  368] [128420  55580]
+--------------------
+('Covar_type: tied, number gaussian = ', 827)
+Conf_matrix: 
+[9026  378] [127023  56977]
+--------------------
+('Covar_type: tied, number gaussian = ', 829)
+Conf_matrix: 
+[9018  386] [126087  57913]
+--------------------
+('Covar_type: tied, number gaussian = ', 831)
+Conf_matrix: 
+[9017  387] [128404  55596]
+--------------------
+('Covar_type: tied, number gaussian = ', 833)
+Conf_matrix: 
+[8990  414] [125995  58005]
+--------------------
+('Covar_type: tied, number gaussian = ', 835)
+Conf_matrix: 
+[9014  390] [126829  57171]
+--------------------
+('Covar_type: tied, number gaussian = ', 837)
+Conf_matrix: 
+[9023  381] [127579  56421]
+--------------------
+('Covar_type: tied, number gaussian = ', 839)
+Conf_matrix: 
+[9023  381] [126665  57335]
+--------------------
+('Covar_type: tied, number gaussian = ', 841)
+Conf_matrix: 
+[9018  386] [126550  57450]
+--------------------
+('Covar_type: tied, number gaussian = ', 843)
+Conf_matrix: 
+[9024  380] [126135  57865]
+--------------------
+('Covar_type: tied, number gaussian = ', 845)
+Conf_matrix: 
+[9021  383] [126684  57316]
+--------------------
+('Covar_type: tied, number gaussian = ', 847)
+Conf_matrix: 
+[9014  390] [126432  57568]
+--------------------
+('Covar_type: tied, number gaussian = ', 849)
+Conf_matrix: 
+[9015  389] [125342  58658]
+--------------------
+('Covar_type: tied, number gaussian = ', 851)
+Conf_matrix: 
+[9015  389] [125496  58504]
+--------------------
+('Covar_type: tied, number gaussian = ', 853)
+Conf_matrix: 
+[9029  375] [126860  57140]
+--------------------
+('Covar_type: tied, number gaussian = ', 855)
+Conf_matrix: 
+[9003  401] [126367  57633]
+--------------------
+('Covar_type: tied, number gaussian = ', 857)
+Conf_matrix: 
+[8987  417] [126142  57858]
+--------------------
+('Covar_type: tied, number gaussian = ', 859)
+Conf_matrix: 
+[9000  404] [126003  57997]
+--------------------
+('Covar_type: tied, number gaussian = ', 861)
+Conf_matrix: 
+[9001  403] [125485  58515]
+--------------------
+('Covar_type: tied, number gaussian = ', 863)
+Conf_matrix: 
+[9033  371] [124787  59213]
+--------------------
+('Covar_type: tied, number gaussian = ', 865)
+Conf_matrix: 
+[9034  370] [127980  56020]
+--------------------
+('Covar_type: tied, number gaussian = ', 867)
+Conf_matrix: 
+[9021  383] [125671  58329]
+--------------------
+('Covar_type: tied, number gaussian = ', 869)
+Conf_matrix: 
+[8999  405] [126072  57928]
+--------------------
+('Covar_type: tied, number gaussian = ', 871)
+Conf_matrix: 
+[9015  389] [125573  58427]
+--------------------
+('Covar_type: tied, number gaussian = ', 873)
+Conf_matrix: 
+[8994  410] [125530  58470]
+--------------------
+('Covar_type: tied, number gaussian = ', 875)
+Conf_matrix: 
+[9035  369] [127621  56379]
+--------------------
+('Covar_type: tied, number gaussian = ', 877)
+Conf_matrix: 
+[9008  396] [125183  58817]
+--------------------
+('Covar_type: tied, number gaussian = ', 879)
+Conf_matrix: 
+[9023  381] [126230  57770]
+--------------------
+('Covar_type: tied, number gaussian = ', 881)
+Conf_matrix: 
+[8999  405] [125617  58383]
+--------------------
+('Covar_type: tied, number gaussian = ', 883)
+Conf_matrix: 
+[9022  382] [124415  59585]
+--------------------
+('Covar_type: tied, number gaussian = ', 885)
+Conf_matrix: 
+[9014  390] [128287  55713]
+--------------------
+('Covar_type: tied, number gaussian = ', 887)
+Conf_matrix: 
+[9006  398] [127243  56757]
+--------------------
+('Covar_type: tied, number gaussian = ', 889)
+Conf_matrix: 
+[9007  397] [126202  57798]
+--------------------
+('Covar_type: tied, number gaussian = ', 891)
+Conf_matrix: 
+[9007  397] [126378  57622]
+--------------------
+('Covar_type: tied, number gaussian = ', 893)
+Conf_matrix: 
+[9009  395] [126161  57839]
+--------------------
+('Covar_type: tied, number gaussian = ', 895)
+Conf_matrix: 
+[9002  402] [124389  59611]
+--------------------
+('Covar_type: tied, number gaussian = ', 897)
+Conf_matrix: 
+[9016  388] [123558  60442]
+--------------------
+('Covar_type: tied, number gaussian = ', 899)
+Conf_matrix: 
+[9052  352] [126171  57829]
+--------------------
+('Covar_type: tied, number gaussian = ', 901)
+Conf_matrix: 
+[9009  395] [126953  57047]
+--------------------
+('Covar_type: tied, number gaussian = ', 903)
+Conf_matrix: 
+[8972  432] [125409  58591]
+--------------------
+('Covar_type: tied, number gaussian = ', 905)
+Conf_matrix: 
+[9000  404] [124922  59078]
+--------------------
+('Covar_type: tied, number gaussian = ', 907)
+Conf_matrix: 
+[9008  396] [126154  57846]
+--------------------
+('Covar_type: tied, number gaussian = ', 909)
+Conf_matrix: 
+[9021  383] [125590  58410]
+--------------------
+('Covar_type: tied, number gaussian = ', 911)
+Conf_matrix: 
+[9014  390] [126808  57192]
+--------------------
+('Covar_type: tied, number gaussian = ', 913)
+Conf_matrix: 
+[9002  402] [122925  61075]
+--------------------
+('Covar_type: tied, number gaussian = ', 915)
+Conf_matrix: 
+[9001  403] [126618  57382]
+--------------------
+('Covar_type: tied, number gaussian = ', 917)
+Conf_matrix: 
+[9022  382] [125432  58568]
+--------------------
+('Covar_type: tied, number gaussian = ', 919)
+Conf_matrix: 
+[9035  369] [125307  58693]
+--------------------
+('Covar_type: tied, number gaussian = ', 921)
+Conf_matrix: 
+[9034  370] [125642  58358]
+--------------------
+('Covar_type: tied, number gaussian = ', 923)
+Conf_matrix: 
+[9010  394] [124166  59834]
+--------------------
+('Covar_type: tied, number gaussian = ', 925)
+Conf_matrix: 
+[8990  414] [125461  58539]
+--------------------
+('Covar_type: tied, number gaussian = ', 927)
+Conf_matrix: 
+[9007  397] [125438  58562]
+--------------------
+('Covar_type: tied, number gaussian = ', 929)
+Conf_matrix: 
+[8996  408] [126394  57606]
+--------------------
+('Covar_type: tied, number gaussian = ', 931)
+Conf_matrix: 
+[9026  378] [124785  59215]
+--------------------
+('Covar_type: tied, number gaussian = ', 933)
+Conf_matrix: 
+[8989  415] [124592  59408]
+--------------------
+('Covar_type: tied, number gaussian = ', 935)
+Conf_matrix: 
+[9041  363] [124063  59937]
+--------------------
+('Covar_type: tied, number gaussian = ', 937)
+Conf_matrix: 
+[8984  420] [125134  58866]
+--------------------
+('Covar_type: tied, number gaussian = ', 939)
+Conf_matrix: 
+[9004  400] [124589  59411]
+--------------------
+('Covar_type: tied, number gaussian = ', 941)
+Conf_matrix: 
+[8977  427] [125382  58618]
+--------------------
+('Covar_type: tied, number gaussian = ', 943)
+Conf_matrix: 
+[9003  401] [123376  60624]
+--------------------
+('Covar_type: tied, number gaussian = ', 945)
+Conf_matrix: 
+[9014  390] [125196  58804]
+--------------------
+('Covar_type: tied, number gaussian = ', 947)
+Conf_matrix: 
+[9028  376] [123849  60151]
+--------------------
+('Covar_type: tied, number gaussian = ', 949)
+Conf_matrix: 
+[9008  396] [126251  57749]
+--------------------
+('Covar_type: tied, number gaussian = ', 951)
+Conf_matrix: 
+[9003  401] [124645  59355]
+--------------------
+('Covar_type: tied, number gaussian = ', 953)
+Conf_matrix: 
+[8999  405] [124559  59441]
+--------------------
+('Covar_type: tied, number gaussian = ', 955)
+Conf_matrix: 
+[8979  425] [123492  60508]
+--------------------
+('Covar_type: tied, number gaussian = ', 957)
+Conf_matrix: 
+[8993  411] [123153  60847]
+--------------------
+('Covar_type: tied, number gaussian = ', 959)
+Conf_matrix: 
+[9005  399] [123771  60229]
+--------------------
+('Covar_type: tied, number gaussian = ', 961)
+Conf_matrix: 
+[9003  401] [123717  60283]
+--------------------
+('Covar_type: tied, number gaussian = ', 963)
+Conf_matrix: 
+[8988  416] [125419  58581]
+--------------------
+('Covar_type: tied, number gaussian = ', 965)
+Conf_matrix: 
+[9007  397] [123321  60679]
+--------------------
+('Covar_type: tied, number gaussian = ', 967)
+Conf_matrix: 
+[9013  391] [125562  58438]
+--------------------
+('Covar_type: tied, number gaussian = ', 969)
+Conf_matrix: 
+[8973  431] [123427  60573]
+--------------------
+('Covar_type: tied, number gaussian = ', 971)
+Conf_matrix: 
+[9015  389] [123128  60872]
+--------------------
+('Covar_type: tied, number gaussian = ', 973)
+Conf_matrix: 
+[8995  409] [122265  61735]
+--------------------
+('Covar_type: tied, number gaussian = ', 975)
+Conf_matrix: 
+[8973  431] [122197  61803]
+--------------------
+('Covar_type: tied, number gaussian = ', 977)
+Conf_matrix: 
+[9006  398] [123495  60505]
+--------------------
+('Covar_type: tied, number gaussian = ', 979)
+Conf_matrix: 
+[8996  408] [122060  61940]
+--------------------
+('Covar_type: tied, number gaussian = ', 981)
+Conf_matrix: 
+[9028  376] [123547  60453]
+--------------------
+('Covar_type: tied, number gaussian = ', 983)
+Conf_matrix: 
+[8968  436] [120231  63769]
+--------------------
+('Covar_type: tied, number gaussian = ', 985)
+Conf_matrix: 
+[8995  409] [124098  59902]
+--------------------
+('Covar_type: tied, number gaussian = ', 987)
+Conf_matrix: 
+[9028  376] [123196  60804]
+--------------------
+('Covar_type: tied, number gaussian = ', 989)
+Conf_matrix: 
+[8997  407] [122460  61540]
+--------------------
+('Covar_type: tied, number gaussian = ', 991)
+Conf_matrix: 
+[8991  413] [124702  59298]
+--------------------
+('Covar_type: tied, number gaussian = ', 993)
+Conf_matrix: 
+[8979  425] [122852  61148]
+--------------------
+('Covar_type: tied, number gaussian = ', 995)
+Conf_matrix: 
+[8997  407] [122677  61323]
+--------------------
+('Covar_type: tied, number gaussian = ', 997)
+Conf_matrix: 
+[8995  409] [121620  62380]
+--------------------
+('Covar_type: tied, number gaussian = ', 999)
+Conf_matrix: 
+[8989  415] [125140  58860]
+--------------------
+('Covar_type: tied, number gaussian = ', 1001)
+Conf_matrix: 
+[9020  384] [122240  61760]
+--------------------
+('Covar_type: tied, number gaussian = ', 1003)
+Conf_matrix: 
+[8998  406] [122649  61351]
+--------------------
+('Covar_type: tied, number gaussian = ', 1005)
+Conf_matrix: 
+[9004  400] [124265  59735]
+--------------------
+('Covar_type: tied, number gaussian = ', 1007)
+Conf_matrix: 
+[9004  400] [122124  61876]
+--------------------
+('Covar_type: tied, number gaussian = ', 1009)
+Conf_matrix: 
+[9004  400] [123651  60349]
+--------------------
+('Covar_type: tied, number gaussian = ', 1011)
+Conf_matrix: 
+[8975  429] [120736  63264]
+--------------------
+('Covar_type: tied, number gaussian = ', 1013)
+Conf_matrix: 
+[8995  409] [121990  62010]
+--------------------
+('Covar_type: tied, number gaussian = ', 1015)
+Conf_matrix: 
+[8998  406] [123886  60114]
+--------------------
+('Covar_type: tied, number gaussian = ', 1017)
+Conf_matrix: 
+[8989  415] [122817  61183]
+--------------------
+('Covar_type: tied, number gaussian = ', 1019)
+Conf_matrix: 
+[8965  439] [122378  61622]
+--------------------
+('Covar_type: tied, number gaussian = ', 1021)
+Conf_matrix: 
+[8999  405] [122917  61083]
+--------------------
+('Covar_type: tied, number gaussian = ', 1023)
+Conf_matrix: 
+[8959  445] [121353  62647]
