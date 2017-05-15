@@ -1,0 +1,2 @@
+MFCC, DELTA, DELTA-DELTAS
+Gmm-ML, GMM-UBM (Map adaptation)
