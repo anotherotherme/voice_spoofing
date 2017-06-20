@@ -23,7 +23,7 @@ function [frame] = addNewFeature(dir, dataFrame, Feature1,Feature2,Feature3 )
     elseif strcmp(dataFrame,'spoofFeatureCellDev')
         frame = data.spoofFeatureCellDev;
     elseif strcmp(dataFrame,'evaluationFeature')
-        frame = data.spoofFeatureCellDev;    
+        frame = data.evaluationFeature;    
     end
     
     
