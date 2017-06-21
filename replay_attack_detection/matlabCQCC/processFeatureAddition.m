@@ -6,12 +6,12 @@ genuineFeatureCellDev = addNewFeature(dir,'genuineFeatureCellDev','snrOriginalDE
 save ('./cqcc_and_3feature/genuineFeatureCellDev.mat', 'genuineFeatureCellDev','-v7.3');
 
 genuineFeatureCellTrain = addNewFeature(dir,'genuineFeatureCellTrain','snrOriginalTRAIN', 'excessOriginalTRAIN','sigmaOriginalTRAIN' );
-save ('./cqcc_and_3feature/genuineFeatureCellTrain.mat', 'genuineFeatureCellDev','-v7.3');
+save ('./cqcc_and_3feature/genuineFeatureCellTrain.mat', 'genuineFeatureCellTrain','-v7.3');
 
 spoofFeatureCellDev = addNewFeature(dir,'spoofFeatureCellDev','snrSpoofDEV', 'excessSpoofDEV','sigmaSpoofDEV' );
 save ('./cqcc_and_3feature/spoofFeatureCellDev.mat', 'spoofFeatureCellDev','-v7.3');
 
-spoofFeatureCellTrain = addNewFeature(dir,'genuineFeatureCellDev','snrSpoofTRAIN', 'excessSpoofTRAIN','sigmaSpoofTRAIN' );
+spoofFeatureCellTrain = addNewFeature(dir,'spoofFeatureCellTrain','snrSpoofTRAIN', 'excessSpoofTRAIN','sigmaSpoofTRAIN' );
 save ('./cqcc_and_3feature/spoofFeatureCellTrain.mat', 'spoofFeatureCellTrain','-v7.3');
 
 
